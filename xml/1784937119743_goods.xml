@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230188]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[방수 대형 피크닉매트 8인용 캠핑 소풍 나들이 접이식]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_PICNICMAT_L]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[無]]></goodsModelNo>
+<goodsSearchWord><![CDATA[피크닉매트|캠핑매트|돗자리|방수매트|소풍매트]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5400]]></goodsPrice>
+<fixedPrice><![CDATA[5400]]></fixedPrice>
+<costPrice><![CDATA[4463]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[6]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대"></div>
+<div class="eyebrow">WATERPROOF PICNIC MAT</div>
+<div class="h1">방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대</div>
+<div class="sub">체크 패턴 · 방수 코팅 원단 · 손잡이 달린 접이식 파우치 겸용</div>
+
+<div class="stat"><div><b>8인용</b><span>대형 사이즈</span></div><div><b>방수 코팅</b><span>습기·이물질 차단</span></div><div><b>접이식</b><span>휴대용 파우치 겸용</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 8인용 넉넉한 사이즈</h2>
+<p class="d">가족·모임 나들이에도 충분한 대형 사이즈로 여유롭게 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 1. 8인용 넉넉한 사이즈">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 방수 코팅으로 습기 걱정 없이</h2>
+<p class="d">표면 방수 코팅 처리로 잔디나 모래 위에서도 쾌적하게 사용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 2. 방수 코팅으로 습기 걱정 없이">
+</div>
+<div class="sec">
+<h2>POINT 3. 접으면 휴대용 파우치로 변신</h2>
+<p class="d">사용 후 접으면 손잡이 달린 파우치 형태가 되어 휴대가 간편합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 3. 접으면 휴대용 파우치로 변신">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>방수 코팅 원단</td></tr><tr><th>사이즈</th><td>8인용 대형</td></tr><tr><th>기능</th><td>방수, 접이식, 휴대용</td></tr><tr><th>용도</th><td>캠핑, 소풍, 나들이, 해변</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>색상 다양</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 6개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 물걸레로 닦거나 물세척 후 완전히 건조시켜 보관해주세요.</div><div class="q">Q. Q. 접었을 때 크기는 어느 정도인가요?</div><div class="a">A. A. 손잡이가 달린 파우치 형태로 접혀 가방처럼 휴대할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대"></div>
+<div class="eyebrow">WATERPROOF PICNIC MAT</div>
+<div class="h1">방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대</div>
+<div class="sub">체크 패턴 · 방수 코팅 원단 · 손잡이 달린 접이식 파우치 겸용</div>
+
+<div class="stat"><div><b>8인용</b><span>대형 사이즈</span></div><div><b>방수 코팅</b><span>습기·이물질 차단</span></div><div><b>접이식</b><span>휴대용 파우치 겸용</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 8인용 넉넉한 사이즈</h2>
+<p class="d">가족·모임 나들이에도 충분한 대형 사이즈로 여유롭게 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 1. 8인용 넉넉한 사이즈">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 방수 코팅으로 습기 걱정 없이</h2>
+<p class="d">표면 방수 코팅 처리로 잔디나 모래 위에서도 쾌적하게 사용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 2. 방수 코팅으로 습기 걱정 없이">
+</div>
+<div class="sec">
+<h2>POINT 3. 접으면 휴대용 파우치로 변신</h2>
+<p class="d">사용 후 접으면 손잡이 달린 파우치 형태가 되어 휴대가 간편합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 3. 접으면 휴대용 파우치로 변신">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>방수 코팅 원단</td></tr><tr><th>사이즈</th><td>8인용 대형</td></tr><tr><th>기능</th><td>방수, 접이식, 휴대용</td></tr><tr><th>용도</th><td>캠핑, 소풍, 나들이, 해변</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>색상 다양</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 6개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 물걸레로 닦거나 물세척 후 완전히 건조시켜 보관해주세요.</div><div class="q">Q. Q. 접었을 때 크기는 어느 정도인가요?</div><div class="a">A. A. 손잡이가 달린 파우치 형태로 접혀 가방처럼 휴대할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/main/1311230188_main_072.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/list/1311230188_list_095.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/magnify/1311230188_magnify_066.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/detail/1311230188_detail_03.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
