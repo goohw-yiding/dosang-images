@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230183]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[토끼털 산호융 담요 사계절 극세사 무릎담요 사무실 낮잠]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CORALBLK_150]]></goodsCd>
+<cateCd><![CDATA[071]]></cateCd>
+<allCateCd><![CDATA[071]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[28]]></goodsModelNo>
+<goodsSearchWord><![CDATA[담요|무릎담요|산호융담요|극세사담요|사무실낮잠담요]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[18500]]></goodsPrice>
+<fixedPrice><![CDATA[18500]]></fixedPrice>
+<costPrice><![CDATA[15367]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[3]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용"></div>
+<div class="eyebrow">CORAL FLEECE BLANKET</div>
+<div class="h1">토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용</div>
+<div class="sub">보들보들한 촉감 · 정전기 방지 · 세탁기 사용 가능</div>
+
+<div class="stat"><div><b>극세사</b><span>토끼털 촉감</span></div><div><b>사계절</b><span>실내외 겸용</span></div><div><b>세탁기 가능</b><span>관리 편리</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 토끼털처럼 부드러운 촉감</h2>
+<p class="d">고밀도 극세사 원단이 피부에 자극 없이 부드럽게 감싸줍니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 1. 토끼털처럼 부드러운 촉감">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 사무실·차량·거실 어디서나</h2>
+<p class="d">가볍고 따뜻해 무릎담요, 낮잠용, 차량용 등 다양하게 활용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 2. 사무실·차량·거실 어디서나">
+</div>
+<div class="sec">
+<h2>POINT 3. 세탁기 사용 가능, 관리 편리</h2>
+<p class="d">가정용 세탁기로 세탁 가능해 위생적으로 오래 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 3. 세탁기 사용 가능, 관리 편리">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>극세사(산호융, 토끼털 터치)</td></tr><tr><th>기능</th><td>정전기 방지, 세탁기 사용 가능</td></tr><tr><th>용도</th><td>무릎담요, 침구, 사무실, 차량</td></tr><tr><th>계절</th><td>사계절</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 협의 가능</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁 시 보풀이 생기나요?</div><div class="a">A. A. 찬물 세탁 및 그늘 건조를 권장하며, 정상적인 사용에서는 보풀이 적습니다.</div><div class="q">Q. Q. 사이즈 옵션이 있나요?</div><div class="a">A. A. 네, 대량 주문 시 사이즈 협의가 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용"></div>
+<div class="eyebrow">CORAL FLEECE BLANKET</div>
+<div class="h1">토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용</div>
+<div class="sub">보들보들한 촉감 · 정전기 방지 · 세탁기 사용 가능</div>
+
+<div class="stat"><div><b>극세사</b><span>토끼털 촉감</span></div><div><b>사계절</b><span>실내외 겸용</span></div><div><b>세탁기 가능</b><span>관리 편리</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 토끼털처럼 부드러운 촉감</h2>
+<p class="d">고밀도 극세사 원단이 피부에 자극 없이 부드럽게 감싸줍니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 1. 토끼털처럼 부드러운 촉감">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 사무실·차량·거실 어디서나</h2>
+<p class="d">가볍고 따뜻해 무릎담요, 낮잠용, 차량용 등 다양하게 활용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 2. 사무실·차량·거실 어디서나">
+</div>
+<div class="sec">
+<h2>POINT 3. 세탁기 사용 가능, 관리 편리</h2>
+<p class="d">가정용 세탁기로 세탁 가능해 위생적으로 오래 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 3. 세탁기 사용 가능, 관리 편리">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>극세사(산호융, 토끼털 터치)</td></tr><tr><th>기능</th><td>정전기 방지, 세탁기 사용 가능</td></tr><tr><th>용도</th><td>무릎담요, 침구, 사무실, 차량</td></tr><tr><th>계절</th><td>사계절</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 협의 가능</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁 시 보풀이 생기나요?</div><div class="a">A. A. 찬물 세탁 및 그늘 건조를 권장하며, 정상적인 사용에서는 보풀이 적습니다.</div><div class="q">Q. Q. 사이즈 옵션이 있나요?</div><div class="a">A. A. 네, 대량 주문 시 사이즈 협의가 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/main/1311230183_main_022.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/list/1311230183_list_089.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/magnify/1311230183_magnify_068.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/detail/1311230183_detail_066.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
