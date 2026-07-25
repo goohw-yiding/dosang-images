@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[알루미늄 롤테이블 접이식 캠핑 테이블 53x51x50cm 에그롤 야외 테이블]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMPTABLE_ROLL53]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[RT-5351]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑테이블,접이식테이블,롤테이블,에그롤테이블,야외테이블,알루미늄테이블]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[7200]]></goodsPrice>
+<fixedPrice><![CDATA[7200]]></fixedPrice>
+<costPrice><![CDATA[5990.1]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[5]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[고하중 알루미늄 에그롤 접이식 캠핑 테이블]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="알루미늄 롤테이블 접이식 캠핑 테이블 53x51x50cm"></div>
+<div class="eyebrow">캠핑 · 아웃도어</div>
+<div class="h1">알루미늄 롤테이블 접이식 캠핑 테이블 53x51x50cm</div>
+<div class="sub">계란판 상판(에그롤) 구조로 접이식 수납, 300근(150kg) 하중 지지 프레임</div>
+
+<div class="stat"><div><b>53x51cm</b><span>상판 크기</span></div><div><b>50cm</b><span>높이</span></div><div><b>300근</b><span>최대 하중(약 150kg)</span></div></div>
+
+<div class="sec">
+<h2>에그롤 접이식 상판</h2>
+<p class="d">알루미늄 슬랫이 돌돌 말리는 구조로 펼침/수납이 간편하며 부피를 최소화합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="에그롤 접이식 상판">
+</div>
+<div class="sec alt">
+<h2>고하중 프레임</h2>
+<p class="d">X자 알루미늄 프레임으로 최대 300근(약 150kg)까지 지지, 캠핑·모임·야외활동에 안정적입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="고하중 프레임">
+</div>
+<div class="sec">
+<h2>수납가방 포함</h2>
+<p class="d">전용 수납 파우치가 함께 제공되어 이동과 보관이 용이합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="수납가방 포함">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상판 크기</th><td>53 x 51 cm</td></tr><tr><th>높이</th><td>50cm</td></tr><tr><th>소재</th><td>알루미늄 합금 + 옥스포드 원단 수납가방</td></tr><tr><th>최대 하중</th><td>약 150kg(300근)</td></tr><tr><th>접이식</th><td>가능 (에그롤 방식)</td></tr><tr><th>색상</th><td>옐로우, 블랙, 베이지 등</td></tr><tr><th>구성</th><td>테이블 본체 + 수납가방</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자전용</span><span>대량주문가능</span><span>1688직소싱</span></div>
+<div class="moq">최소구매수량 5개부터 · 사업자 전용가 적용</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 접이식 크기는 어느 정도인가요?</div><div class="a">A. 말아서 접으면 가방 하나에 수납 가능한 콤팩트 사이즈로 트렁크 적재가 용이합니다.</div><div class="q">Q. 다른 사이즈도 있나요?</div><div class="a">A. 95x56cm, 120x55cm 등 롱테이블 사이즈도 별도 문의 시 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="알루미늄 롤테이블 접이식 캠핑 테이블 53x51x50cm"></div>
+<div class="eyebrow">캠핑 · 아웃도어</div>
+<div class="h1">알루미늄 롤테이블 접이식 캠핑 테이블 53x51x50cm</div>
+<div class="sub">계란판 상판(에그롤) 구조로 접이식 수납, 300근(150kg) 하중 지지 프레임</div>
+
+<div class="stat"><div><b>53x51cm</b><span>상판 크기</span></div><div><b>50cm</b><span>높이</span></div><div><b>300근</b><span>최대 하중(약 150kg)</span></div></div>
+
+<div class="sec">
+<h2>에그롤 접이식 상판</h2>
+<p class="d">알루미늄 슬랫이 돌돌 말리는 구조로 펼침/수납이 간편하며 부피를 최소화합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="에그롤 접이식 상판">
+</div>
+<div class="sec alt">
+<h2>고하중 프레임</h2>
+<p class="d">X자 알루미늄 프레임으로 최대 300근(약 150kg)까지 지지, 캠핑·모임·야외활동에 안정적입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="고하중 프레임">
+</div>
+<div class="sec">
+<h2>수납가방 포함</h2>
+<p class="d">전용 수납 파우치가 함께 제공되어 이동과 보관이 용이합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg" alt="수납가방 포함">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상판 크기</th><td>53 x 51 cm</td></tr><tr><th>높이</th><td>50cm</td></tr><tr><th>소재</th><td>알루미늄 합금 + 옥스포드 원단 수납가방</td></tr><tr><th>최대 하중</th><td>약 150kg(300근)</td></tr><tr><th>접이식</th><td>가능 (에그롤 방식)</td></tr><tr><th>색상</th><td>옐로우, 블랙, 베이지 등</td></tr><tr><th>구성</th><td>테이블 본체 + 수납가방</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자전용</span><span>대량주문가능</span><span>1688직소싱</span></div>
+<div class="moq">최소구매수량 5개부터 · 사업자 전용가 적용</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 접이식 크기는 어느 정도인가요?</div><div class="a">A. 말아서 접으면 가방 하나에 수납 가능한 콤팩트 사이즈로 트렁크 적재가 용이합니다.</div><div class="q">Q. 다른 사이즈도 있나요?</div><div class="a">A. 95x56cm, 120x55cm 등 롱테이블 사이즈도 별도 문의 시 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 소싱 https://detail.1688.com/offer/781625138814.html / 단가 CNY19.00]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784980395457_table_main.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
