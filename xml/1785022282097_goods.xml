@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[우산형 자동차 앞유리 햇빛가리개 10살대 티타늄실버 차량용 선쉐이드]]></goodsNm>
+<purchaseGoodsNm><![CDATA[우산형 자동차 앞유리 햇빛가리개]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_7820U]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-CAR-SHADE-U10]]></goodsModelNo>
+<goodsSearchWord><![CDATA[자동차햇빛가리개,차량용선쉐이드,앞유리가리개,우산형햇빛가리개,차량용품도매]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4800]]></goodsPrice>
+<fixedPrice><![CDATA[7600]]></fixedPrice>
+<costPrice><![CDATA[3962]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[7]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[10개 알로이 살대 · 티타늄실버 차열 원단 · 원터치 우산형 개폐]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022239001_ds_carshade_main.jpg" alt="우산형 자동차 앞유리 햇빛가리개"></div>
+<div class="eyebrow">CAR INTERIOR / SUN PROTECTION</div>
+<div class="h1">우산형 자동차 앞유리 햇빛가리개</div>
+<div class="sub">10개 알로이 살대 · 티타늄실버 차열 원단 · 원터치 개폐 · 대형 145×80cm / 소형 135×70cm</div>
+
+<div class="stat"><div><b>10骨</b><span>10개 알로이 살대</span></div><div><b>145×80</b><span>대형 커버 사이즈(cm)</span></div><div><b>UPF50+</b><span>자외선 차단 원단</span></div></div>
+
+<div class="sec">
+<h2>펼치면 앞유리 전체를 덮습니다</h2>
+<p class="d">우산처럼 원터치로 펼쳐 앞유리 전면을 빈틈없이 가려줍니다. 흡착판을 붙였다 떼는 번거로움 없이 10초면 설치가 끝납니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022240473_ds_carshade_in.jpg" alt="펼치면 앞유리 전체를 덮습니다">
+</div>
+<div class="sec alt">
+<h2>10개 알로이 살대로 튼튼하게</h2>
+<p class="d">반오목(反凹) 구조의 합금 살대 10개가 원단을 팽팽하게 지지해, 여름철 고온에서도 처지거나 휘지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022241882_ds_carshade_frame.jpg" alt="10개 알로이 살대로 튼튼하게">
+</div>
+<div class="sec">
+<h2>티타늄 실버 차열 원단</h2>
+<p class="d">은코팅 티타늄 실버 원단이 직사광선을 반사해 실내 온도 상승과 대시보드 변색을 억제합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022243341_ds_carshade_out.jpg" alt="티타늄 실버 차열 원단">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>우산형 자동차 앞유리 햇빛가리개</td></tr><tr><th>소재</th><td>티타늄 실버 코팅 원단 + 알루미늄 합금 프레임</td></tr><tr><th>살대 수</th><td>10개</td></tr><tr><th>사이즈</th><td>대형 145×80cm / 소형 135×70cm</td></tr><tr><th>설치 방식</th><td>우산형 원터치 개폐 (거치형)</td></tr><tr><th>적용 차종</th><td>승용/SUV 공용 (앞유리 사이즈 확인 후 선택)</td></tr><tr><th>구성</th><td>본체 1개 + 수납 파우치 1개</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>대량주문 별도협의</span><span>OEM 인쇄 가능</span></div>
+<div class="moq">최소 구매 수량 7개 / 사업자 회원 전용 도매가</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 대형과 소형 중 어떤 걸 골라야 하나요?</div><div class="a">A. 앞유리 가로폭이 140cm 이상이면 대형(145×80cm), 그 이하 준중형·소형차는 소형(135×70cm)을 권장합니다.</div><div class="q">Q. 주행 중에도 사용할 수 있나요?</div><div class="a">A. 주차 시 사용하는 제품입니다. 주행 전 반드시 접어서 보관해 주세요.</div><div class="q">Q. 대량 발주 시 단가 협의가 되나요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적을 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022239001_ds_carshade_main.jpg" alt="우산형 자동차 앞유리 햇빛가리개"></div>
+<div class="eyebrow">CAR INTERIOR / SUN PROTECTION</div>
+<div class="h1">우산형 자동차 앞유리 햇빛가리개</div>
+<div class="sub">10개 알로이 살대 · 티타늄실버 차열 원단 · 원터치 개폐 · 대형 145×80cm / 소형 135×70cm</div>
+
+<div class="stat"><div><b>10骨</b><span>10개 알로이 살대</span></div><div><b>145×80</b><span>대형 커버 사이즈(cm)</span></div><div><b>UPF50+</b><span>자외선 차단 원단</span></div></div>
+
+<div class="sec">
+<h2>펼치면 앞유리 전체를 덮습니다</h2>
+<p class="d">우산처럼 원터치로 펼쳐 앞유리 전면을 빈틈없이 가려줍니다. 흡착판을 붙였다 떼는 번거로움 없이 10초면 설치가 끝납니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022240473_ds_carshade_in.jpg" alt="펼치면 앞유리 전체를 덮습니다">
+</div>
+<div class="sec alt">
+<h2>10개 알로이 살대로 튼튼하게</h2>
+<p class="d">반오목(反凹) 구조의 합금 살대 10개가 원단을 팽팽하게 지지해, 여름철 고온에서도 처지거나 휘지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022241882_ds_carshade_frame.jpg" alt="10개 알로이 살대로 튼튼하게">
+</div>
+<div class="sec">
+<h2>티타늄 실버 차열 원단</h2>
+<p class="d">은코팅 티타늄 실버 원단이 직사광선을 반사해 실내 온도 상승과 대시보드 변색을 억제합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022243341_ds_carshade_out.jpg" alt="티타늄 실버 차열 원단">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>우산형 자동차 앞유리 햇빛가리개</td></tr><tr><th>소재</th><td>티타늄 실버 코팅 원단 + 알루미늄 합금 프레임</td></tr><tr><th>살대 수</th><td>10개</td></tr><tr><th>사이즈</th><td>대형 145×80cm / 소형 135×70cm</td></tr><tr><th>설치 방식</th><td>우산형 원터치 개폐 (거치형)</td></tr><tr><th>적용 차종</th><td>승용/SUV 공용 (앞유리 사이즈 확인 후 선택)</td></tr><tr><th>구성</th><td>본체 1개 + 수납 파우치 1개</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>대량주문 별도협의</span><span>OEM 인쇄 가능</span></div>
+<div class="moq">최소 구매 수량 7개 / 사업자 회원 전용 도매가</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 대형과 소형 중 어떤 걸 골라야 하나요?</div><div class="a">A. 앞유리 가로폭이 140cm 이상이면 대형(145×80cm), 그 이하 준중형·소형차는 소형(135×70cm)을 권장합니다.</div><div class="q">Q. 주행 중에도 사용할 수 있나요?</div><div class="a">A. 주차 시 사용하는 제품입니다. 주행 전 반드시 접어서 보관해 주세요.</div><div class="q">Q. 대량 발주 시 단가 협의가 되나요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적을 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/618511920977.html / 货号 7819(소)·7820(대)·9157 개구형 / CNY 11.4 (대호개구 9157) / cbm 0.008 / landed 3962]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022239001_ds_carshade_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022239001_ds_carshade_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022239001_ds_carshade_main.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022240473_ds_carshade_in.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022241882_ds_carshade_frame.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022243341_ds_carshade_out.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022239001_ds_carshade_main.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022240473_ds_carshade_in.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022241882_ds_carshade_frame.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785022243341_ds_carshade_out.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
