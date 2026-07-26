@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[발가락 요가양말 논슬립 필라테스 양말 미들기장 면혼방]]></goodsNm>
+<purchaseGoodsNm><![CDATA[발가락 논슬립 요가양말 미들]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BTY_YOGASOCK5T]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[YOGASOCK-5T]]></goodsModelNo>
+<goodsSearchWord><![CDATA[요가양말,필라테스양말,논슬립양말,발가락양말,미끄럼방지양말,실내운동양말]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[3100]]></goodsPrice>
+<fixedPrice><![CDATA[3100]]></fixedPrice>
+<costPrice><![CDATA[2524]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[10]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[발바닥 실리콘 그립이 넓게 들어간 5발가락 요가양말. 면 85.4% 혼방, 미들 기장, 7색 균일 사이즈.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg" alt="발가락 요가양말 미들 기장<br>실리콘 논슬립 필라테스 양말"></div>
+<div class="eyebrow">YOGA & PILATES</div>
+<div class="h1">발가락 요가양말 미들 기장<br>실리콘 논슬립 필라테스 양말</div>
+<div class="sub">면 85.4% 혼방 · 발바닥 실리콘 그립 · 7색 균일 사이즈</div>
+
+<div class="stat"><div><b>5</b><span>발가락 분리</span></div><div><b>85.4%</b><span>면 혼용률</span></div><div><b>7색</b><span>색상 구성</span></div></div>
+
+<div class="sec">
+<h2>발바닥 실리콘 그립으로 미끄러짐 방지</h2>
+<p class="d">발바닥 앞·뒤 접지 부위에 실리콘 패턴이 넓게 찍혀 있어 매트나 마루 위에서 발이 밀리지 않습니다. 필라테스 리포머, 요가, 실내 트레이닝에 적합합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg" alt="발바닥 실리콘 그립으로 미끄러짐 방지">
+</div>
+<div class="sec alt">
+<h2>다섯 발가락이 따로 감싸지는 구조</h2>
+<p class="d">발가락이 각각 분리되어 있어 발가락으로 바닥을 잡는 동작이 편하고, 발가락 사이 땀이 차는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077530191_yogasock_pink.jpg" alt="다섯 발가락이 따로 감싸지는 구조">
+</div>
+<div class="sec">
+<h2>면 혼방 미들 기장</h2>
+<p class="d">면 85.4%에 폴리에스터와 스판덱스를 섞어 흡습성과 신축성을 함께 잡았습니다. 발목을 덮는 미들 기장이라 레깅스와 함께 신기 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077533597_yogasock_use.jpg" alt="면 혼방 미들 기장">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>발가락 논슬립 요가양말 (미들 기장)</td></tr><tr><th>소재</th><td>면 85.4% / 폴리에스터 12.8% / 스판덱스 1.8%</td></tr><tr><th>기장</th><td>미들(중목) 기장</td></tr><tr><th>사이즈</th><td>균일 사이즈 (여성 프리)</td></tr><tr><th>색상</th><td>핑크 / 블랙 / 브라운 / 베이지 / 오프화이트 / 라이트퍼플 / 다크그레이</td></tr><tr><th>기능</th><td>논슬립 실리콘 그립, 흡한, 항균방취 가공</td></tr><tr><th>구성</th><td>1켤레 (봉투 포장)</td></tr><tr><th>원산지</th><td>중국 (저장성 주지)</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>7색 구성</span><span>혼합 발주 가능</span><span>요가원 납품 적합</span></div>
+<div class="moq">최소 구매수량 10켤레부터 · 7색 혼합 발주 가능 · 300켤레 이상 대량 발주 시 단가 협의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사이즈가 하나뿐인가요?</div><div class="a">A. 균일 사이즈로 여성 기준 약 220~250mm 범위에 맞습니다. 신축성이 있어 발 길이에 맞춰 늘어납니다.</div><div class="q">Q. 세탁은 어떻게 하나요?</div><div class="a">A. 미온수 손세탁 또는 세탁망에 넣어 약한 코스로 세탁해 주세요. 실리콘 그립 보호를 위해 건조기와 표백제는 피해 주세요.</div><div class="q">Q. 의료용 압박양말인가요?</div><div class="a">A. 아닙니다. 일반 스포츠·요가용 양말이며 의료기기가 아닙니다.</div><div class="q">Q. 색상 지정 발주가 되나요?</div><div class="a">A. 7색 중 색상별 수량을 지정해 발주하실 수 있습니다. 입고 상황에 따라 일부 색상은 대기가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg" alt="발가락 요가양말 미들 기장<br>실리콘 논슬립 필라테스 양말"></div>
+<div class="eyebrow">YOGA & PILATES</div>
+<div class="h1">발가락 요가양말 미들 기장<br>실리콘 논슬립 필라테스 양말</div>
+<div class="sub">면 85.4% 혼방 · 발바닥 실리콘 그립 · 7색 균일 사이즈</div>
+
+<div class="stat"><div><b>5</b><span>발가락 분리</span></div><div><b>85.4%</b><span>면 혼용률</span></div><div><b>7색</b><span>색상 구성</span></div></div>
+
+<div class="sec">
+<h2>발바닥 실리콘 그립으로 미끄러짐 방지</h2>
+<p class="d">발바닥 앞·뒤 접지 부위에 실리콘 패턴이 넓게 찍혀 있어 매트나 마루 위에서 발이 밀리지 않습니다. 필라테스 리포머, 요가, 실내 트레이닝에 적합합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg" alt="발바닥 실리콘 그립으로 미끄러짐 방지">
+</div>
+<div class="sec alt">
+<h2>다섯 발가락이 따로 감싸지는 구조</h2>
+<p class="d">발가락이 각각 분리되어 있어 발가락으로 바닥을 잡는 동작이 편하고, 발가락 사이 땀이 차는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077530191_yogasock_pink.jpg" alt="다섯 발가락이 따로 감싸지는 구조">
+</div>
+<div class="sec">
+<h2>면 혼방 미들 기장</h2>
+<p class="d">면 85.4%에 폴리에스터와 스판덱스를 섞어 흡습성과 신축성을 함께 잡았습니다. 발목을 덮는 미들 기장이라 레깅스와 함께 신기 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077533597_yogasock_use.jpg" alt="면 혼방 미들 기장">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>발가락 논슬립 요가양말 (미들 기장)</td></tr><tr><th>소재</th><td>면 85.4% / 폴리에스터 12.8% / 스판덱스 1.8%</td></tr><tr><th>기장</th><td>미들(중목) 기장</td></tr><tr><th>사이즈</th><td>균일 사이즈 (여성 프리)</td></tr><tr><th>색상</th><td>핑크 / 블랙 / 브라운 / 베이지 / 오프화이트 / 라이트퍼플 / 다크그레이</td></tr><tr><th>기능</th><td>논슬립 실리콘 그립, 흡한, 항균방취 가공</td></tr><tr><th>구성</th><td>1켤레 (봉투 포장)</td></tr><tr><th>원산지</th><td>중국 (저장성 주지)</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>7색 구성</span><span>혼합 발주 가능</span><span>요가원 납품 적합</span></div>
+<div class="moq">최소 구매수량 10켤레부터 · 7색 혼합 발주 가능 · 300켤레 이상 대량 발주 시 단가 협의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사이즈가 하나뿐인가요?</div><div class="a">A. 균일 사이즈로 여성 기준 약 220~250mm 범위에 맞습니다. 신축성이 있어 발 길이에 맞춰 늘어납니다.</div><div class="q">Q. 세탁은 어떻게 하나요?</div><div class="a">A. 미온수 손세탁 또는 세탁망에 넣어 약한 코스로 세탁해 주세요. 실리콘 그립 보호를 위해 건조기와 표백제는 피해 주세요.</div><div class="q">Q. 의료용 압박양말인가요?</div><div class="a">A. 아닙니다. 일반 스포츠·요가용 양말이며 의료기기가 아닙니다.</div><div class="q">Q. 색상 지정 발주가 되나요?</div><div class="a">A. 7색 중 색상별 수량을 지정해 발주하실 수 있습니다. 입고 상황에 따라 일부 색상은 대기가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1062136668106.html / 브랜드 凯人 / CNY 9.2 (100-299双 단가, 1双 9.7 / 300双 이상 8.7) / cbm 0.0006]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077530191_yogasock_pink.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077531300_yogasock_black.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077532340_yogasock_brown.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077533597_yogasock_use.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077528970_yogasock_main.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077530191_yogasock_pink.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077531300_yogasock_black.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077532340_yogasock_brown.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785077533597_yogasock_use.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
