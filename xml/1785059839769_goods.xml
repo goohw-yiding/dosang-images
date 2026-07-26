@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[캠핑 랜턴 스탠드 폴대 알루미늄 걸이대 테이블 클램프 지면고정 2way]]></goodsNm>
+<purchaseGoodsNm><![CDATA[캠핑 랜턴 스탠드 폴대 2way]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LAMPSTAND_2W]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[FOLD-ALU-LS1]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑랜턴스탠드,랜턴걸이,캠핑폴대,랜턴스탠드,캠핑용품,감성캠핑]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[6000]]></goodsPrice>
+<fixedPrice><![CDATA[6000]]></fixedPrice>
+<costPrice><![CDATA[4929]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[5]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[테이블 클램프와 지면 스파이크를 모두 지원하는 알루미늄 캠핑 랜턴 스탠드. 펼침 92.5cm, 218g, 수납 파우치 포함.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way"></div>
+<div class="eyebrow">CAMPING LAMP STAND</div>
+<div class="h1">캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way</div>
+<div class="sub">알루미늄 분할 폴대 · 조절 후크 · 전용 수납 파우치 포함</div>
+
+<div class="stat"><div><b>92.5cm</b><span>펼침 길이</span></div><div><b>218g</b><span>본체 중량</span></div><div><b>2way</b><span>테이블/지면</span></div></div>
+
+<div class="sec">
+<h2>분할 조립식 알루미늄 폴대</h2>
+<p class="d">2단 분할 구조로 조립·분해가 빠릅니다. 알루미늄 소재로 218g 수준의 가벼운 무게이면서 랜턴을 안정적으로 지지합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="분할 조립식 알루미늄 폴대">
+</div>
+<div class="sec alt">
+<h2>테이블 클램프 + 지면 스파이크</h2>
+<p class="d">두께 2.5cm 이내 테이블에 물리는 클램프와 30cm 지면 고정 스파이크가 함께 구성됩니다. 사이트 상황에 맞춰 두 방식 모두 사용 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059810543_ds_lampstand_02.jpg" alt="테이블 클램프 + 지면 스파이크">
+</div>
+<div class="sec">
+<h2>수납 파우치 포함</h2>
+<p class="d">분해 후 38cm 파우치에 넣어 보관합니다. 후크 높이 12cm, 폴 지름 1.1cm 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059811557_ds_lampstand_03.jpg" alt="수납 파우치 포함">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>캠핑 랜턴 스탠드 폴대 (단일 후크·2way)</td></tr><tr><th>소재</th><td>알루미늄 + 스테인리스 후크</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>펼침 길이</th><td>92.5cm (폴 지름 1.1cm)</td></tr><tr><th>구성</th><td>폴대 2단 + 후크 + 테이블 클램프 + 지면 스파이크 30cm + 파우치</td></tr><tr><th>중량</th><td>약 218g</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>용도</th><td>캠핑·야외 랜턴 거치, 소품 걸이</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>알루미늄 경량</span><span>2way 고정</span><span>조립 분해식</span><span>파우치 포함</span></div>
+<div class="moq">최소 주문수량 5개부터 / 단일·이중 후크 옵션 대량 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 랜턴은 포함되나요?</div><div class="a">A. 스탠드 폴대 단품 상품이며 랜턴은 포함되지 않습니다.</div><div class="q">Q. 어느 정도 무게까지 걸 수 있나요?</div><div class="a">A. 일반적인 캠핑 랜턴·소품 거치 용도로 설계되었습니다. 과도한 중량물 거치는 권장하지 않습니다.</div><div class="q">Q. 이중 후크 버전도 있나요?</div><div class="a">A. 단일 후크/이중 후크, 테이블 전용/2way 옵션이 있습니다. 발주 시 문의 주십시오.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way"></div>
+<div class="eyebrow">CAMPING LAMP STAND</div>
+<div class="h1">캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way</div>
+<div class="sub">알루미늄 분할 폴대 · 조절 후크 · 전용 수납 파우치 포함</div>
+
+<div class="stat"><div><b>92.5cm</b><span>펼침 길이</span></div><div><b>218g</b><span>본체 중량</span></div><div><b>2way</b><span>테이블/지면</span></div></div>
+
+<div class="sec">
+<h2>분할 조립식 알루미늄 폴대</h2>
+<p class="d">2단 분할 구조로 조립·분해가 빠릅니다. 알루미늄 소재로 218g 수준의 가벼운 무게이면서 랜턴을 안정적으로 지지합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="분할 조립식 알루미늄 폴대">
+</div>
+<div class="sec alt">
+<h2>테이블 클램프 + 지면 스파이크</h2>
+<p class="d">두께 2.5cm 이내 테이블에 물리는 클램프와 30cm 지면 고정 스파이크가 함께 구성됩니다. 사이트 상황에 맞춰 두 방식 모두 사용 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059810543_ds_lampstand_02.jpg" alt="테이블 클램프 + 지면 스파이크">
+</div>
+<div class="sec">
+<h2>수납 파우치 포함</h2>
+<p class="d">분해 후 38cm 파우치에 넣어 보관합니다. 후크 높이 12cm, 폴 지름 1.1cm 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059811557_ds_lampstand_03.jpg" alt="수납 파우치 포함">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>캠핑 랜턴 스탠드 폴대 (단일 후크·2way)</td></tr><tr><th>소재</th><td>알루미늄 + 스테인리스 후크</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>펼침 길이</th><td>92.5cm (폴 지름 1.1cm)</td></tr><tr><th>구성</th><td>폴대 2단 + 후크 + 테이블 클램프 + 지면 스파이크 30cm + 파우치</td></tr><tr><th>중량</th><td>약 218g</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>용도</th><td>캠핑·야외 랜턴 거치, 소품 걸이</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>알루미늄 경량</span><span>2way 고정</span><span>조립 분해식</span><span>파우치 포함</span></div>
+<div class="moq">최소 주문수량 5개부터 / 단일·이중 후크 옵션 대량 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 랜턴은 포함되나요?</div><div class="a">A. 스탠드 폴대 단품 상품이며 랜턴은 포함되지 않습니다.</div><div class="q">Q. 어느 정도 무게까지 걸 수 있나요?</div><div class="a">A. 일반적인 캠핑 랜턴·소품 거치 용도로 설계되었습니다. 과도한 중량물 거치는 권장하지 않습니다.</div><div class="q">Q. 이중 후크 버전도 있나요?</div><div class="a">A. 단일 후크/이중 후크, 테이블 전용/2way 옵션이 있습니다. 발주 시 문의 주십시오.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/808249240509.html / 货号 折叠铝合金灯架 / 옵션 单钩两用款 ¥13.3 / 포장 80x15x10cm cbm 0.012]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059810543_ds_lampstand_02.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059811557_ds_lampstand_03.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
