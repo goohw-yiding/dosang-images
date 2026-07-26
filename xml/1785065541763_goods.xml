@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[현관 벽걸이 우산걸이 2단 우산꽂이 무타공 자석 부착]]></goodsNm>
+<purchaseGoodsNm><![CDATA[현관 벽걸이 우산걸이 2단 우산꽂이 무타공 자석 부착]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_UMBRACK198]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[UMB-198-2T]]></goodsModelNo>
+<goodsSearchWord><![CDATA[우산걸이,우산꽂이,현관정리,무타공,자석선반,벽걸이선반]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4700]]></goodsPrice>
+<fixedPrice><![CDATA[4700]]></fixedPrice>
+<costPrice><![CDATA[3890]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[7]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[타공 없이 자석·접착으로 부착하는 2단 우산 수납 선반 (19.8cm)]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065503445_umb_umc6.jpg" alt="현관 벽걸이 우산걸이 2단 우산꽂이"></div>
+<div class="eyebrow">ENTRANCE ORGANIZER</div>
+<div class="h1">현관 벽걸이 우산걸이 2단 우산꽂이</div>
+<div class="sub">타공 없이 자석 또는 무타공 접착으로 부착하는 2단 우산 수납 선반</div>
+
+<div class="stat"><div><b>19.8cm</b><span>가로 길이</span></div><div><b>2단</b><span>장우산·단우산</span></div><div><b>무타공</b><span>자석/접착 부착</span></div></div>
+
+<div class="sec">
+<h2>타공 없이 현관 문에 바로 부착</h2>
+<p class="d">철제 현관문에는 자석으로, 그 외 벽면에는 무타공 접착으로 부착합니다. 드릴·나사가 필요 없어 임대 주택이나 사무실에서도 벽 손상 없이 설치할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065500284_umb_umc1.jpg" alt="타공 없이 현관 문에 바로 부착">
+</div>
+<div class="sec alt">
+<h2>장우산과 3단 우산을 한 번에</h2>
+<p class="d">상단 선반이 우산대를 받쳐 세워두고, 하단 트레이가 물기를 받아냅니다. 긴 장우산과 접이식 우산을 함께 정리해 현관이 깔끔하게 유지됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065501796_umb_umc2.jpg" alt="장우산과 3단 우산을 한 번에">
+</div>
+<div class="sec">
+<h2>현관문·벽면 어디에나 어울리는 슬림 구조</h2>
+<p class="d">벽에서 6.5cm만 돌출되는 슬림한 폭으로 통행에 방해되지 않습니다. 화이트·블랙 두 가지 색상으로 현관 분위기에 맞춰 선택할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065504737_umb_umc8.jpg" alt="현관문·벽면 어디에나 어울리는 슬림 구조">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>현관 벽걸이 2단 우산걸이</td></tr><tr><th>소재</th><td>탄소강 + 분체도장</td></tr><tr><th>크기</th><td>가로 19.8cm × 폭 6.5cm × 높이 7.8cm</td></tr><tr><th>색상</th><td>화이트 / 블랙</td></tr><tr><th>부착 방식</th><td>자석 부착 / 무타공 접착</td></tr><tr><th>구성</th><td>선반 2단 1세트</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>무타공 설치</span><span>자석 부착</span><span>2단 구조</span><span>현관 정리</span></div>
+<div class="moq">최소 주문 수량 7개부터 · 대량 주문 시 별도 협의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 철제 현관문이 아니어도 설치할 수 있나요?</div><div class="a">A. 네. 자석이 붙지 않는 벽면에는 함께 제공되는 무타공 접착 방식으로 부착하시면 됩니다.</div><div class="q">Q. 우산 몇 개까지 걸 수 있나요?</div><div class="a">A. 장우산 기준 2~3개, 3단 접이식 우산과 함께 사용하면 4개 내외까지 수납 가능합니다.</div><div class="q">Q. 물기가 바닥에 떨어지지 않나요?</div><div class="a">A. 하단 트레이가 우산 끝을 받쳐 물기를 모아주므로 바닥으로 바로 떨어지지 않습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065503445_umb_umc6.jpg" alt="현관 벽걸이 우산걸이 2단 우산꽂이"></div>
+<div class="eyebrow">ENTRANCE ORGANIZER</div>
+<div class="h1">현관 벽걸이 우산걸이 2단 우산꽂이</div>
+<div class="sub">타공 없이 자석 또는 무타공 접착으로 부착하는 2단 우산 수납 선반</div>
+
+<div class="stat"><div><b>19.8cm</b><span>가로 길이</span></div><div><b>2단</b><span>장우산·단우산</span></div><div><b>무타공</b><span>자석/접착 부착</span></div></div>
+
+<div class="sec">
+<h2>타공 없이 현관 문에 바로 부착</h2>
+<p class="d">철제 현관문에는 자석으로, 그 외 벽면에는 무타공 접착으로 부착합니다. 드릴·나사가 필요 없어 임대 주택이나 사무실에서도 벽 손상 없이 설치할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065500284_umb_umc1.jpg" alt="타공 없이 현관 문에 바로 부착">
+</div>
+<div class="sec alt">
+<h2>장우산과 3단 우산을 한 번에</h2>
+<p class="d">상단 선반이 우산대를 받쳐 세워두고, 하단 트레이가 물기를 받아냅니다. 긴 장우산과 접이식 우산을 함께 정리해 현관이 깔끔하게 유지됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065501796_umb_umc2.jpg" alt="장우산과 3단 우산을 한 번에">
+</div>
+<div class="sec">
+<h2>현관문·벽면 어디에나 어울리는 슬림 구조</h2>
+<p class="d">벽에서 6.5cm만 돌출되는 슬림한 폭으로 통행에 방해되지 않습니다. 화이트·블랙 두 가지 색상으로 현관 분위기에 맞춰 선택할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065504737_umb_umc8.jpg" alt="현관문·벽면 어디에나 어울리는 슬림 구조">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>현관 벽걸이 2단 우산걸이</td></tr><tr><th>소재</th><td>탄소강 + 분체도장</td></tr><tr><th>크기</th><td>가로 19.8cm × 폭 6.5cm × 높이 7.8cm</td></tr><tr><th>색상</th><td>화이트 / 블랙</td></tr><tr><th>부착 방식</th><td>자석 부착 / 무타공 접착</td></tr><tr><th>구성</th><td>선반 2단 1세트</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>무타공 설치</span><span>자석 부착</span><span>2단 구조</span><span>현관 정리</span></div>
+<div class="moq">최소 주문 수량 7개부터 · 대량 주문 시 별도 협의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 철제 현관문이 아니어도 설치할 수 있나요?</div><div class="a">A. 네. 자석이 붙지 않는 벽면에는 함께 제공되는 무타공 접착 방식으로 부착하시면 됩니다.</div><div class="q">Q. 우산 몇 개까지 걸 수 있나요?</div><div class="a">A. 장우산 기준 2~3개, 3단 접이식 우산과 함께 사용하면 4개 내외까지 수납 가능합니다.</div><div class="q">Q. 물기가 바닥에 떨어지지 않나요?</div><div class="a">A. 하단 트레이가 우산 끝을 받쳐 물기를 모아주므로 바닥으로 바로 떨어지지 않습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/933500150976.html / 严选磁吸雨伞架 / CNY13.5(정가, 老客价10.0) / cbm0.0025]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065499116_umb_um5.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065499116_umb_um5.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065499116_umb_um5.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785065499116_umb_um5.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
