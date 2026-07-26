@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[차량용 걸이식 푸시 휴지통 1.5L 방수 차량 쓰레기통 도어포켓 시트백]]></goodsNm>
+<purchaseGoodsNm><![CDATA[1688 773678012292 车载翻盖垃圾桶 FH-025 CNY2.5]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CARBIN_15L]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-CB15]]></goodsModelNo>
+<goodsSearchWord><![CDATA[차량용휴지통,차쓰레기통,차량수납,도어포켓,시트백수납,푸시휴지통]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[1300]]></goodsPrice>
+<fixedPrice><![CDATA[1300]]></fixedPrice>
+<costPrice><![CDATA[1069]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[24]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[푸시 개폐 방수 차량용 미니 휴지통 1.5L. 도어포켓·시트백 무타공 걸이식.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048777870_ds_carbin_m.jpg" alt="차량용 걸이식 푸시 휴지통 1.5L"></div>
+<div class="eyebrow">CAR INTERIOR</div>
+<div class="h1">차량용 걸이식 푸시 휴지통 1.5L</div>
+<div class="sub">도어포켓·시트백에 걸어 쓰는 푸시 개폐 미니 휴지통. 방수 플라스틱 바디라 음료가 새도 안이 젖지 않습니다.</div>
+
+<div class="stat"><div><b>1.5L</b><span>수납 용량</span></div><div><b>PUSH</b><span>한 손 개폐</span></div><div><b>방수</b><span>플라스틱 바디</span></div></div>
+
+<div class="sec">
+<h2>한 손으로 톡, 푸시 개폐</h2>
+<p class="d">뚜껑을 누르면 열리고 손을 떼면 닫히는 푸시 구조라 운전 중에도 한 손으로 쓰기 편합니다. 닫힌 상태에서는 내용물과 냄새가 밖으로 새지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048779198_ds_carbin_a.jpg" alt="한 손으로 톡, 푸시 개폐">
+</div>
+<div class="sec alt">
+<h2>도어포켓·시트백 겸용 걸이</h2>
+<p class="d">상단 걸이 구조로 도어포켓 안쪽, 시트백, 콘솔 옆 등 원하는 자리에 그대로 걸어 씁니다. 별도 접착이나 타공이 필요 없습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048780475_ds_carbin_b.jpg" alt="도어포켓·시트백 겸용 걸이">
+</div>
+<div class="sec">
+<h2>음료가 새도 안심, 방수 바디</h2>
+<p class="d">이음매 없는 방수 플라스틱 바디라 음료 잔량이나 젖은 티슈를 버려도 새지 않습니다. 통째로 빼서 물세척 후 다시 걸면 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048781733_ds_carbin_c.jpg" alt="음료가 새도 안심, 방수 바디">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>차량용 걸이식 푸시 휴지통 1.5L</td></tr><tr><th>소재</th><td>플라스틱 (방수)</td></tr><tr><th>용량</th><td>1.5L</td></tr><tr><th>중량</th><td>약 400g</td></tr><tr><th>컬러</th><td>블랙</td></tr><tr><th>사용 위치</th><td>도어포켓 / 시트백 / 콘솔 옆</td></tr><tr><th>설치 방식</th><td>걸이식 (무타공)</td></tr><tr><th>적용 차종</th><td>공용</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>푸시 개폐</span><span>방수 바디</span><span>무타공 걸이</span><span>1.5L</span><span>차종 공용</span></div>
+<div class="moq">최소구매수량 24개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 모든 차종에 맞나요?</div><div class="a">A. 특정 차종 전용이 아닌 공용 걸이 방식입니다. 도어포켓 폭이 매우 좁은 일부 차량은 시트백 사용을 권장합니다.</div><div class="q">Q. 비닐봉투를 끼울 수 있나요?</div><div class="a">A. 내부에 일반 소형 비닐봉투를 끼워 사용하실 수 있습니다.</div><div class="q">Q. 냄새가 새지 않나요?</div><div class="a">A. 닫힌 상태에서 뚜껑이 개구부를 덮는 구조라 일반 생활 쓰레기 기준으로는 냄새 확산이 크게 줄어듭니다.</div><div class="q">Q. 대량 주문 단가는요?</div><div class="a">A. 수량에 따라 단가 조정이 가능합니다. 문의 남겨주시면 담당자가 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048777870_ds_carbin_m.jpg" alt="차량용 걸이식 푸시 휴지통 1.5L"></div>
+<div class="eyebrow">CAR INTERIOR</div>
+<div class="h1">차량용 걸이식 푸시 휴지통 1.5L</div>
+<div class="sub">도어포켓·시트백에 걸어 쓰는 푸시 개폐 미니 휴지통. 방수 플라스틱 바디라 음료가 새도 안이 젖지 않습니다.</div>
+
+<div class="stat"><div><b>1.5L</b><span>수납 용량</span></div><div><b>PUSH</b><span>한 손 개폐</span></div><div><b>방수</b><span>플라스틱 바디</span></div></div>
+
+<div class="sec">
+<h2>한 손으로 톡, 푸시 개폐</h2>
+<p class="d">뚜껑을 누르면 열리고 손을 떼면 닫히는 푸시 구조라 운전 중에도 한 손으로 쓰기 편합니다. 닫힌 상태에서는 내용물과 냄새가 밖으로 새지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048779198_ds_carbin_a.jpg" alt="한 손으로 톡, 푸시 개폐">
+</div>
+<div class="sec alt">
+<h2>도어포켓·시트백 겸용 걸이</h2>
+<p class="d">상단 걸이 구조로 도어포켓 안쪽, 시트백, 콘솔 옆 등 원하는 자리에 그대로 걸어 씁니다. 별도 접착이나 타공이 필요 없습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048780475_ds_carbin_b.jpg" alt="도어포켓·시트백 겸용 걸이">
+</div>
+<div class="sec">
+<h2>음료가 새도 안심, 방수 바디</h2>
+<p class="d">이음매 없는 방수 플라스틱 바디라 음료 잔량이나 젖은 티슈를 버려도 새지 않습니다. 통째로 빼서 물세척 후 다시 걸면 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048781733_ds_carbin_c.jpg" alt="음료가 새도 안심, 방수 바디">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>차량용 걸이식 푸시 휴지통 1.5L</td></tr><tr><th>소재</th><td>플라스틱 (방수)</td></tr><tr><th>용량</th><td>1.5L</td></tr><tr><th>중량</th><td>약 400g</td></tr><tr><th>컬러</th><td>블랙</td></tr><tr><th>사용 위치</th><td>도어포켓 / 시트백 / 콘솔 옆</td></tr><tr><th>설치 방식</th><td>걸이식 (무타공)</td></tr><tr><th>적용 차종</th><td>공용</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>푸시 개폐</span><span>방수 바디</span><span>무타공 걸이</span><span>1.5L</span><span>차종 공용</span></div>
+<div class="moq">최소구매수량 24개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 모든 차종에 맞나요?</div><div class="a">A. 특정 차종 전용이 아닌 공용 걸이 방식입니다. 도어포켓 폭이 매우 좁은 일부 차량은 시트백 사용을 권장합니다.</div><div class="q">Q. 비닐봉투를 끼울 수 있나요?</div><div class="a">A. 내부에 일반 소형 비닐봉투를 끼워 사용하실 수 있습니다.</div><div class="q">Q. 냄새가 새지 않나요?</div><div class="a">A. 닫힌 상태에서 뚜껑이 개구부를 덮는 구조라 일반 생활 쓰레기 기준으로는 냄새 확산이 크게 줄어듭니다.</div><div class="q">Q. 대량 주문 단가는요?</div><div class="a">A. 수량에 따라 단가 조정이 가능합니다. 문의 남겨주시면 담당자가 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/773678012292.html / 货号 FH-025 / ¥2.5 / cbm 0.0035 / landed 1069]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048777870_ds_carbin_m.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048777870_ds_carbin_m.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048777870_ds_carbin_m.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048779198_ds_carbin_a.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048780475_ds_carbin_b.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048781733_ds_carbin_c.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048777870_ds_carbin_m.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048779198_ds_carbin_a.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048780475_ds_carbin_b.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785048781733_ds_carbin_c.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
