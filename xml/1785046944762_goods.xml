@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[세안용 헤어밴드 손목밴드 3종 세트 코랄플리스 리본 세안밴드]]></goodsNm>
+<purchaseGoodsNm><![CDATA[洗脸防湿三件套 珊瑚绒吸水束发带手腕带 DK-231202 CNY1.94]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_FACEBAND_752681]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DK-231202]]></goodsModelNo>
+<goodsSearchWord><![CDATA[세안밴드,헤어밴드,손목밴드,세안용품,스킨케어소품,코랄플리스,리본헤어밴드]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[900]]></goodsPrice>
+<fixedPrice><![CDATA[900]]></fixedPrice>
+<costPrice><![CDATA[690]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[34]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[세안 중 머리·소매 젖음 방지, 헤어밴드+손목밴드 2개 3종 세트 (5색)]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg" alt="세안용 헤어밴드 + 손목밴드 3종 세트"></div>
+<div class="eyebrow">뷰티·헬스 | 세안 소품</div>
+<div class="h1">세안용 헤어밴드 + 손목밴드 3종 세트</div>
+<div class="sub">코랄플리스 소재로 세안·스킨케어 중 머리와 옷소매가 젖는 것을 막아주는 방수 보조 세트</div>
+
+<div class="stat"><div><b>3종</b><span>헤어밴드+손목밴드 2개</span></div><div><b>코랄플리스</b><span>흡수·속건 원단</span></div><div><b>5색</b><span>핑크·화이트·그레이·라이트블루·라이트퍼플</span></div></div>
+
+<div class="sec">
+<h2>세안 한 번에 3종이 다 필요합니다</h2>
+<p class="d">리본 헤어밴드로 앞머리를 올리고, 손목밴드로 팔을 타고 흐르는 물을 잡아줍니다. 세안·클렌징·팩·메이크업 전 준비물이 한 세트로 해결됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg" alt="세안 한 번에 3종이 다 필요합니다">
+</div>
+<div class="sec alt">
+<h2>흡수 잘 되고 빨리 마르는 원단</h2>
+<p class="d">부드러운 코랄플리스 파일 원단이 물을 바로 흡수하고 통풍이 좋아 빠르게 마릅니다. 피부에 닿는 면이 자극 없이 부드럽습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046907702_faceband_b_1785046907.jpg" alt="흡수 잘 되고 빨리 마르는 원단">
+</div>
+<div class="sec">
+<h2>신축 밴드로 조임 없이 고정</h2>
+<p class="d">헤어밴드와 손목밴드 모두 신축 밴드가 들어가 머리 크기·손목 굵기에 맞춰 늘어납니다. 오래 착용해도 눌리는 자국이 적습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046908664_faceband_c_1785046908.jpg" alt="신축 밴드로 조임 없이 고정">
+</div>
+<div class="sec alt">
+<h2>선물·판촉용으로도 좋은 구성</h2>
+<p class="d">개별 포장 출고로 뷰티샵 사은품, 직원 복지, 소품 세트 구성에 그대로 쓸 수 있습니다. 색상별 혼합 발주도 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046910069_faceband_d_1785046910.jpg" alt="선물·판촉용으로도 좋은 구성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>코랄플리스 (폴리에스터)</td></tr><tr><th>구성</th><td>헤어밴드 1개 + 손목밴드 2개</td></tr><tr><th>색상</th><td>핑크 / 화이트 / 그레이 / 라이트블루 / 라이트퍼플</td></tr><tr><th>중량</th><td>세트당 약 150g</td></tr><tr><th>포장</th><td>개별 포장</td></tr><tr><th>세탁</th><td>미온수 손세탁 후 그늘 건조 권장</td></tr><tr><th>생산번호</th><td>DK-231202</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>3종 세트</span><span>개별포장</span><span>5색 선택</span><span>흡수·속건</span></div>
+<div class="moq">최소구매 34세트 / 이후 1세트 단위 추가 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 손목밴드만 따로 구매할 수 있나요?</div><div class="a">A. 손목밴드 단품(단일 색상 1개) 옵션도 운영합니다. 필요 수량을 알려주시면 별도 견적 드립니다.</div><div class="q">Q. 세탁하면 털이 빠지지 않나요?</div><div class="a">A. 첫 세탁 시 잔털이 약간 나올 수 있습니다. 세탁망에 넣어 미온수로 단독 손세탁하시면 형태와 파일이 오래 유지됩니다.</div><div class="q">Q. 색상을 섞어서 주문할 수 있나요?</div><div class="a">A. 가능합니다. 최소구매 수량 안에서 색상 조합을 지정해 주시면 그대로 출고합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg" alt="세안용 헤어밴드 + 손목밴드 3종 세트"></div>
+<div class="eyebrow">뷰티·헬스 | 세안 소품</div>
+<div class="h1">세안용 헤어밴드 + 손목밴드 3종 세트</div>
+<div class="sub">코랄플리스 소재로 세안·스킨케어 중 머리와 옷소매가 젖는 것을 막아주는 방수 보조 세트</div>
+
+<div class="stat"><div><b>3종</b><span>헤어밴드+손목밴드 2개</span></div><div><b>코랄플리스</b><span>흡수·속건 원단</span></div><div><b>5색</b><span>핑크·화이트·그레이·라이트블루·라이트퍼플</span></div></div>
+
+<div class="sec">
+<h2>세안 한 번에 3종이 다 필요합니다</h2>
+<p class="d">리본 헤어밴드로 앞머리를 올리고, 손목밴드로 팔을 타고 흐르는 물을 잡아줍니다. 세안·클렌징·팩·메이크업 전 준비물이 한 세트로 해결됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg" alt="세안 한 번에 3종이 다 필요합니다">
+</div>
+<div class="sec alt">
+<h2>흡수 잘 되고 빨리 마르는 원단</h2>
+<p class="d">부드러운 코랄플리스 파일 원단이 물을 바로 흡수하고 통풍이 좋아 빠르게 마릅니다. 피부에 닿는 면이 자극 없이 부드럽습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046907702_faceband_b_1785046907.jpg" alt="흡수 잘 되고 빨리 마르는 원단">
+</div>
+<div class="sec">
+<h2>신축 밴드로 조임 없이 고정</h2>
+<p class="d">헤어밴드와 손목밴드 모두 신축 밴드가 들어가 머리 크기·손목 굵기에 맞춰 늘어납니다. 오래 착용해도 눌리는 자국이 적습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046908664_faceband_c_1785046908.jpg" alt="신축 밴드로 조임 없이 고정">
+</div>
+<div class="sec alt">
+<h2>선물·판촉용으로도 좋은 구성</h2>
+<p class="d">개별 포장 출고로 뷰티샵 사은품, 직원 복지, 소품 세트 구성에 그대로 쓸 수 있습니다. 색상별 혼합 발주도 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046910069_faceband_d_1785046910.jpg" alt="선물·판촉용으로도 좋은 구성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>코랄플리스 (폴리에스터)</td></tr><tr><th>구성</th><td>헤어밴드 1개 + 손목밴드 2개</td></tr><tr><th>색상</th><td>핑크 / 화이트 / 그레이 / 라이트블루 / 라이트퍼플</td></tr><tr><th>중량</th><td>세트당 약 150g</td></tr><tr><th>포장</th><td>개별 포장</td></tr><tr><th>세탁</th><td>미온수 손세탁 후 그늘 건조 권장</td></tr><tr><th>생산번호</th><td>DK-231202</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>3종 세트</span><span>개별포장</span><span>5색 선택</span><span>흡수·속건</span></div>
+<div class="moq">최소구매 34세트 / 이후 1세트 단위 추가 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 손목밴드만 따로 구매할 수 있나요?</div><div class="a">A. 손목밴드 단품(단일 색상 1개) 옵션도 운영합니다. 필요 수량을 알려주시면 별도 견적 드립니다.</div><div class="q">Q. 세탁하면 털이 빠지지 않나요?</div><div class="a">A. 첫 세탁 시 잔털이 약간 나올 수 있습니다. 세탁망에 넣어 미온수로 단독 손세탁하시면 형태와 파일이 오래 유지됩니다.</div><div class="q">Q. 색상을 섞어서 주문할 수 있나요?</div><div class="a">A. 가능합니다. 최소구매 수량 안에서 색상 조합을 지정해 주시면 그대로 출고합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/752681808449.html / 货号:洗脸防湿 (DK-231202) / CNY1.94 / cbm0.0015 / landed 690 / 갤러리 이미지4는 아벤느(Avene) 실제 브랜드 제품이 배경에 노출되어 배제, 1·2는 중국어 문구 중앙배치로 배제]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046907702_faceband_b_1785046907.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046908664_faceband_c_1785046908.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046910069_faceband_d_1785046910.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046906125_faceband_a_1785046906.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046907702_faceband_b_1785046907.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046908664_faceband_c_1785046908.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785046910069_faceband_d_1785046910.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
