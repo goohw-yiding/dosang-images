@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[[도매] 스파이크 근육 롤러 스틱 수동 마사지롤러 요가 필라테스 홈트 4색]]></goodsNm>
+<purchaseGoodsNm><![CDATA[스파이크 근육 롤러 스틱 수동]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BTY_ROLLSTK01]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-ROLLSTK-0418-3]]></goodsModelNo>
+<goodsSearchWord><![CDATA[마사지롤러,근육롤러,롤러스틱,요가소품,필라테스소품,홈트용품,스트레칭,도매]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[6200]]></goodsPrice>
+<fixedPrice><![CDATA[6200]]></fixedPrice>
+<costPrice><![CDATA[5129]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[5]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[무동력 수동식 스파이크 롤러 스틱 · 운동 전후 스트레칭 보조 · 파스텔 4색]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg" alt="스파이크 근육 롤러 스틱<br>운동 전후 스트레칭 보조"></div>
+<div class="eyebrow">MUSCLE ROLLER STICK</div>
+<div class="h1">스파이크 근육 롤러 스틱<br>운동 전후 스트레칭 보조</div>
+<div class="sub">4색 파스텔 컬러 · 논슬립 그립 · 485g 홈트·요가·필라테스용</div>
+
+<div class="stat"><div><b>485g</b><span>한 손 사용 무게</span></div><div><b>4color</b><span>퍼플/블루/핑크/그린</span></div><div><b>무동력</b><span>배터리 필요 없음</span></div></div>
+
+<div class="sec">
+<h2>스파이크 롤러가 굴러가며 근육을 눌러줍니다</h2>
+<p class="d">가운데 스파이크 롤러가 독립적으로 회전해, 밀어주는 방향으로 자연스럽게 굴러갑니다. 운동 전 워밍업과 운동 후 마무리 스트레칭 보조 도구로 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg" alt="스파이크 롤러가 굴러가며 근육을 눌러줍니다">
+</div>
+<div class="sec alt">
+<h2>종아리·허벅지·팔·등까지 셀프로</h2>
+<p class="d">손잡이 두 개를 잡고 원하는 부위에 힘을 조절해 굴리는 방식입니다. 혼자서도 종아리, 허벅지, 팔, 어깨, 등까지 손이 닿는 범위 전체를 관리할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063747184_ds_msstick_b.jpg" alt="종아리·허벅지·팔·등까지 셀프로">
+</div>
+<div class="sec">
+<h2>논슬립 다이아 패턴 그립</h2>
+<p class="d">손잡이는 다이아몬드 패턴 처리로 땀이 나도 미끄러지지 않습니다. 배터리나 충전이 필요 없는 수동식이라 요가 매트 옆, 가방 안에 그냥 넣어두면 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063748503_ds_msstick_c.jpg" alt="논슬립 다이아 패턴 그립">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>스파이크 근육 롤러 스틱 (수동식)</td></tr><tr><th>소재</th><td>ABS 그립 + PP 스파이크 롤러</td></tr><tr><th>중량</th><td>약 485g</td></tr><tr><th>컬러</th><td>퍼플 / 블루 / 핑크 / 그린 (손잡이형 별도)</td></tr><tr><th>사용 부위</th><td>종아리 · 허벅지 · 팔 · 어깨 · 등</td></tr><tr><th>전원</th><td>불필요 (수동식)</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>의료기기가 아닙니다. 통증·질환 치료 목적으로 사용하지 마시고, 멍이나 통증이 있는 부위는 피해 주세요.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 도매 전용</span><span>4색 혼합 발주</span><span>요가·필라테스샵 사입</span></div>
+<div class="moq">최소구매수량 5개부터 도매가 적용</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 충전이나 배터리가 필요한가요?</div><div class="a">A. 완전 수동식입니다. 전원이나 배터리 없이 손으로 굴려 사용합니다.</div><div class="q">Q. 컬러를 섞어서 받을 수 있나요?</div><div class="a">A. 가능합니다. 최소구매수량 이상에서 컬러 비율을 지정해 주세요.</div><div class="q">Q. 치료 효과가 있나요?</div><div class="a">A. 의료기기가 아니며 치료 효과를 보장하지 않습니다. 운동 전후 스트레칭 보조 용도로만 안내해 주세요.</div><div class="q">Q. 손잡이형(핸들 타입)도 발주되나요?</div><div class="a">A. 동일 공장에서 손잡이형 2종(핑크·퍼플)도 생산합니다. 수량 협의 시 문의해 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg" alt="스파이크 근육 롤러 스틱<br>운동 전후 스트레칭 보조"></div>
+<div class="eyebrow">MUSCLE ROLLER STICK</div>
+<div class="h1">스파이크 근육 롤러 스틱<br>운동 전후 스트레칭 보조</div>
+<div class="sub">4색 파스텔 컬러 · 논슬립 그립 · 485g 홈트·요가·필라테스용</div>
+
+<div class="stat"><div><b>485g</b><span>한 손 사용 무게</span></div><div><b>4color</b><span>퍼플/블루/핑크/그린</span></div><div><b>무동력</b><span>배터리 필요 없음</span></div></div>
+
+<div class="sec">
+<h2>스파이크 롤러가 굴러가며 근육을 눌러줍니다</h2>
+<p class="d">가운데 스파이크 롤러가 독립적으로 회전해, 밀어주는 방향으로 자연스럽게 굴러갑니다. 운동 전 워밍업과 운동 후 마무리 스트레칭 보조 도구로 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg" alt="스파이크 롤러가 굴러가며 근육을 눌러줍니다">
+</div>
+<div class="sec alt">
+<h2>종아리·허벅지·팔·등까지 셀프로</h2>
+<p class="d">손잡이 두 개를 잡고 원하는 부위에 힘을 조절해 굴리는 방식입니다. 혼자서도 종아리, 허벅지, 팔, 어깨, 등까지 손이 닿는 범위 전체를 관리할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063747184_ds_msstick_b.jpg" alt="종아리·허벅지·팔·등까지 셀프로">
+</div>
+<div class="sec">
+<h2>논슬립 다이아 패턴 그립</h2>
+<p class="d">손잡이는 다이아몬드 패턴 처리로 땀이 나도 미끄러지지 않습니다. 배터리나 충전이 필요 없는 수동식이라 요가 매트 옆, 가방 안에 그냥 넣어두면 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063748503_ds_msstick_c.jpg" alt="논슬립 다이아 패턴 그립">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>스파이크 근육 롤러 스틱 (수동식)</td></tr><tr><th>소재</th><td>ABS 그립 + PP 스파이크 롤러</td></tr><tr><th>중량</th><td>약 485g</td></tr><tr><th>컬러</th><td>퍼플 / 블루 / 핑크 / 그린 (손잡이형 별도)</td></tr><tr><th>사용 부위</th><td>종아리 · 허벅지 · 팔 · 어깨 · 등</td></tr><tr><th>전원</th><td>불필요 (수동식)</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>의료기기가 아닙니다. 통증·질환 치료 목적으로 사용하지 마시고, 멍이나 통증이 있는 부위는 피해 주세요.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 도매 전용</span><span>4색 혼합 발주</span><span>요가·필라테스샵 사입</span></div>
+<div class="moq">최소구매수량 5개부터 도매가 적용</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 충전이나 배터리가 필요한가요?</div><div class="a">A. 완전 수동식입니다. 전원이나 배터리 없이 손으로 굴려 사용합니다.</div><div class="q">Q. 컬러를 섞어서 받을 수 있나요?</div><div class="a">A. 가능합니다. 최소구매수량 이상에서 컬러 비율을 지정해 주세요.</div><div class="q">Q. 치료 효과가 있나요?</div><div class="a">A. 의료기기가 아니며 치료 효과를 보장하지 않습니다. 운동 전후 스트레칭 보조 용도로만 안내해 주세요.</div><div class="q">Q. 손잡이형(핸들 타입)도 발주되나요?</div><div class="a">A. 동일 공장에서 손잡이형 2종(핑크·퍼플)도 생산합니다. 수량 협의 시 문의해 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1052467528519.html / 货号 0418-3 / 新人价 ¥15.00起, 首件 ¥16.00, 정가 ¥17.50 -> 보수적으로 ¥17.50 적용 / 485g / cbm 0.004 / 수동식(전자부품 없음) 확인]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063747184_ds_msstick_b.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063748503_ds_msstick_c.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063745357_ds_msstick_a.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063747184_ds_msstick_b.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063748503_ds_msstick_c.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
