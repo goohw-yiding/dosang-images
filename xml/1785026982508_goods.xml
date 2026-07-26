@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[캠핑 알루미늄 삼각 톱니 팩 12개 세트 18cm 파우치포함]]></goodsNm>
+<purchaseGoodsNm><![CDATA[户外铝合金帐篷天幕地钉套装 三棱锯齿 带绳布袋 12支]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMP_ALUPEG12]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[ALUPEG-18-12]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑팩,알루미늄팩,텐트팩,타프팩,차박용품,캠핑용품도매]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4800]]></goodsPrice>
+<fixedPrice><![CDATA[4800]]></fixedPrice>
+<costPrice><![CDATA[3984.3]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[7]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[삼각 톱니 구조로 뽑힘 방지. 개당 13g 초경량 알루미늄 팩 12개 + 전용 파우치.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026975433_peg_00.jpg" alt="알루미늄 삼각 톱니 팩 12개 세트 (18cm·파우치 포함)"></div>
+<div class="eyebrow">CAMPING HARDWARE</div>
+<div class="h1">알루미늄 삼각 톱니 팩 12개 세트 (18cm·파우치 포함)</div>
+<div class="sub">타프·텐트 고정을 확실하게. 삼각 단면 + 톱니 구조로 뽑힘 없이 버티고, 개당 13g으로 배낭 부담이 없습니다.</div>
+
+<div class="stat"><div><b>12개</b><span>팩 구성 (파우치 포함)</span></div><div><b>13g</b><span>개당 초경량</span></div><div><b>18cm</b><span>길이 / 삼각 톱니형</span></div></div>
+
+<div class="sec">
+<h2>삼각 단면 + 톱니 그립</h2>
+<p class="d">원형 팩과 달리 삼각 단면이 흙을 세 면으로 눌러 회전과 뽑힘을 막습니다. 측면 톱니에 스트링을 걸면 바람에도 풀리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026979053_peg_03.jpg" alt="삼각 단면 + 톱니 그립">
+</div>
+<div class="sec alt">
+<h2>개당 13g 초경량 알루미늄</h2>
+<p class="d">항공용 알루미늄 합금으로 12개 전체가 160g 남짓. 백패킹·차박·오토캠핑 어디에나 부담 없이 챙깁니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026977151_peg_01.jpg" alt="개당 13g 초경량 알루미늄">
+</div>
+<div class="sec">
+<h2>반사 스트링 + 전용 파우치</h2>
+<p class="d">야간에도 눈에 띄는 반사 스트링을 각 팩에 연결했습니다. 방수 파우치에 12개가 한 번에 정리됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026980674_peg_04.jpg" alt="반사 스트링 + 전용 파우치">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>알루미늄 합금 (아노다이징)</td></tr><tr><th>길이</th><td>18cm</td></tr><tr><th>중량</th><td>개당 약 13g</td></tr><tr><th>스트링 홀</th><td>직경 0.4cm</td></tr><tr><th>구성</th><td>팩 12개 + 수납 파우치 1개</td></tr><tr><th>컬러</th><td>블랙 / 블루 / 실버 / 레드</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량 13g</span><span>반사 스트링 포함</span><span>파우치 포함</span><span>4컬러 선택</span></div>
+<div class="moq">최소 구매수량 7세트부터 / 사업자 회원 전용 도매가</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 단단한 땅에도 박히나요?</div><div class="a">A. 일반 흙·잔디·모래에 적합합니다. 자갈·언 땅 등 매우 단단한 지면에서는 알루미늄 팩이 휠 수 있어 스틸 팩 사용을 권장합니다.</div><div class="q">Q. 몇 개 세트로 발주 가능한가요?</div><div class="a">A. 8개입 / 10개입 / 12개입 구성이 있습니다. 발주 시 구성과 컬러를 지정해 주세요.</div><div class="q">Q. 타프에도 사용 가능한가요?</div><div class="a">A. 네. 톱니 구조가 가이라인을 잡아줘 타프·천막 고정용으로 적합합니다. 강풍 지역에서는 30cm 이상 팩 병행을 권장합니다.</div><div class="q">Q. 로고 인쇄가 되나요?</div><div class="a">A. 수납 파우치에 실크스크린 인쇄가 가능합니다. 수량 협의 후 진행됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026975433_peg_00.jpg" alt="알루미늄 삼각 톱니 팩 12개 세트 (18cm·파우치 포함)"></div>
+<div class="eyebrow">CAMPING HARDWARE</div>
+<div class="h1">알루미늄 삼각 톱니 팩 12개 세트 (18cm·파우치 포함)</div>
+<div class="sub">타프·텐트 고정을 확실하게. 삼각 단면 + 톱니 구조로 뽑힘 없이 버티고, 개당 13g으로 배낭 부담이 없습니다.</div>
+
+<div class="stat"><div><b>12개</b><span>팩 구성 (파우치 포함)</span></div><div><b>13g</b><span>개당 초경량</span></div><div><b>18cm</b><span>길이 / 삼각 톱니형</span></div></div>
+
+<div class="sec">
+<h2>삼각 단면 + 톱니 그립</h2>
+<p class="d">원형 팩과 달리 삼각 단면이 흙을 세 면으로 눌러 회전과 뽑힘을 막습니다. 측면 톱니에 스트링을 걸면 바람에도 풀리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026979053_peg_03.jpg" alt="삼각 단면 + 톱니 그립">
+</div>
+<div class="sec alt">
+<h2>개당 13g 초경량 알루미늄</h2>
+<p class="d">항공용 알루미늄 합금으로 12개 전체가 160g 남짓. 백패킹·차박·오토캠핑 어디에나 부담 없이 챙깁니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026977151_peg_01.jpg" alt="개당 13g 초경량 알루미늄">
+</div>
+<div class="sec">
+<h2>반사 스트링 + 전용 파우치</h2>
+<p class="d">야간에도 눈에 띄는 반사 스트링을 각 팩에 연결했습니다. 방수 파우치에 12개가 한 번에 정리됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026980674_peg_04.jpg" alt="반사 스트링 + 전용 파우치">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>알루미늄 합금 (아노다이징)</td></tr><tr><th>길이</th><td>18cm</td></tr><tr><th>중량</th><td>개당 약 13g</td></tr><tr><th>스트링 홀</th><td>직경 0.4cm</td></tr><tr><th>구성</th><td>팩 12개 + 수납 파우치 1개</td></tr><tr><th>컬러</th><td>블랙 / 블루 / 실버 / 레드</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량 13g</span><span>반사 스트링 포함</span><span>파우치 포함</span><span>4컬러 선택</span></div>
+<div class="moq">최소 구매수량 7세트부터 / 사업자 회원 전용 도매가</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 단단한 땅에도 박히나요?</div><div class="a">A. 일반 흙·잔디·모래에 적합합니다. 자갈·언 땅 등 매우 단단한 지면에서는 알루미늄 팩이 휠 수 있어 스틸 팩 사용을 권장합니다.</div><div class="q">Q. 몇 개 세트로 발주 가능한가요?</div><div class="a">A. 8개입 / 10개입 / 12개입 구성이 있습니다. 발주 시 구성과 컬러를 지정해 주세요.</div><div class="q">Q. 타프에도 사용 가능한가요?</div><div class="a">A. 네. 톱니 구조가 가이라인을 잡아줘 타프·천막 고정용으로 적합합니다. 강풍 지역에서는 30cm 이상 팩 병행을 권장합니다.</div><div class="q">Q. 로고 인쇄가 되나요?</div><div class="a">A. 수납 파우치에 실크스크린 인쇄가 가능합니다. 수량 협의 후 진행됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/654746316947.html / CNY 14.5 (12支+布袋 기준, 8支 9.81 / 10支 13) / 알루미늄합금 / cbm 0.001]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026975433_peg_00.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026975433_peg_00.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026975433_peg_00.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026977151_peg_01.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026979053_peg_03.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026980674_peg_04.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026975433_peg_00.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026977151_peg_01.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026979053_peg_03.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785026980674_peg_04.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
