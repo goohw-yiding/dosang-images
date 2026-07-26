@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[자동차 앞유리 햇빛가리개 3중 활성탄 접이식 차량용 선쉐이드]]></goodsNm>
+<purchaseGoodsNm><![CDATA[자동차 앞유리 햇빛가리개 3중 활성탄 접이식 차량용 선쉐이드]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_SUNSHADE3L]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-CARSUN-3L]]></goodsModelNo>
+<goodsSearchWord><![CDATA[자동차햇빛가리개,차량용선쉐이드,앞유리커버,차량용품,자동차용품,햇빛차단,차량햇빛가리개]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[16700]]></goodsPrice>
+<fixedPrice><![CDATA[16700]]></fixedPrice>
+<costPrice><![CDATA[13910]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[2]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[반사층·냉감층·활성탄층 3중 구조. 우산대 없는 평면 부착식, 5가지 범용 규격.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg" alt="3중 구조 활성탄 자동차 앞유리 햇빛가리개"></div>
+<div class="eyebrow">AUTO INTERIOR / SUN SHADE</div>
+<div class="h1">3중 구조 활성탄 자동차 앞유리 햇빛가리개</div>
+<div class="sub">반사 외피 + 냉감 중간층 + 활성탄 흡착층. 우산대 없는 평면 부착식으로 실내 마감재를 손상시키지 않습니다.</div>
+
+<div class="stat"><div><b>3중</b><span>반사·냉감·활성탄 구조</span></div><div><b>5규격</b><span>133~150cm 범용 사이즈</span></div><div><b>34x31cm</b><span>접었을 때 보관 크기</span></div></div>
+
+<div class="sec">
+<h2>실내 온도 상승 억제</h2>
+<p class="d">반사 외피가 직사광을 되돌리고, 중간 냉감층과 다공성 활성탄층이 열기와 냄새를 함께 잡아줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103526467_ds_carsun_1052729_2.jpg" alt="실내 온도 상승 억제">
+</div>
+<div class="sec alt">
+<h2>우산대 없는 평면 부착식</h2>
+<p class="d">지지봉을 세우지 않고 앞유리에 그대로 펼쳐 선바이저로 고정하는 방식이라 대시보드·내장재에 자국이 남지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg" alt="우산대 없는 평면 부착식">
+</div>
+<div class="sec">
+<h2>차량 대부분에 맞는 5가지 범용 규격</h2>
+<p class="d">133x76 / 140x78 / 146x77 / 150x85 / 150x95cm 중 앞유리 폭에 맞춰 선택할 수 있고, 사용 후 접으면 34x31x2.5cm로 줄어듭니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103526467_ds_carsun_1052729_2.jpg" alt="차량 대부분에 맞는 5가지 범용 규격">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>자동차 앞유리 3중 활성탄 햇빛가리개</td></tr><tr><th>소재</th><td>냉감 원단 + 반사 코팅층 + 활성탄 흡착층</td></tr><tr><th>규격</th><td>A형 133x76cm / B형 140x78cm / C형 146x77cm / D형 150x85cm / E형 150x95cm</td></tr><tr><th>설치 방식</th><td>평면 부착식(선바이저 고정)</td></tr><tr><th>적용 부위</th><td>전면 앞유리</td></tr><tr><th>접은 크기</th><td>약 34x31x2.5cm</td></tr><tr><th>중량</th><td>약 575~655g (규격별 상이)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>규격 5종</span><span>혼합 주문 가능</span><span>당일 출고</span></div>
+<div class="moq">최소 주문 2개부터 / 규격 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전기·배터리 부품이 들어 있나요?</div><div class="a">A. 아닙니다. 전원, 모터, 배터리, LED 등 어떤 전기 부품도 포함되지 않은 순수 원단 제품입니다.</div><div class="q">Q. 차량 주행 중에도 사용할 수 있나요?</div><div class="a">A. 불가합니다. 반드시 주차 중에만 사용하시고, 출발 전에는 완전히 제거해 주세요.</div><div class="q">Q. 어떤 규격을 골라야 하나요?</div><div class="a">A. 앞유리 상단 가로 폭과 대각 높이를 재신 뒤 그보다 약간 큰 규격을 선택하시면 프레임이 안정적으로 걸립니다.</div><div class="q">Q. 차량 전용 맞춤 제작도 되나요?</div><div class="a">A. 기본 판매는 범용 5규격입니다. 특정 차종 맞춤은 별도 문의가 필요하며 납기가 늘어납니다.</div><div class="q">Q. 식품이나 조리도구에 닿아도 되나요?</div><div class="a">A. 식품 접촉 용도로 만들어진 제품이 아니므로 음식물과 직접 닿게 사용하지 마세요.</div><div class="q">Q. 세탁이 되나요?</div><div class="a">A. 물세탁은 권장하지 않습니다. 표면 오염은 젖은 천으로 가볍게 닦은 뒤 그늘에서 말려 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg" alt="3중 구조 활성탄 자동차 앞유리 햇빛가리개"></div>
+<div class="eyebrow">AUTO INTERIOR / SUN SHADE</div>
+<div class="h1">3중 구조 활성탄 자동차 앞유리 햇빛가리개</div>
+<div class="sub">반사 외피 + 냉감 중간층 + 활성탄 흡착층. 우산대 없는 평면 부착식으로 실내 마감재를 손상시키지 않습니다.</div>
+
+<div class="stat"><div><b>3중</b><span>반사·냉감·활성탄 구조</span></div><div><b>5규격</b><span>133~150cm 범용 사이즈</span></div><div><b>34x31cm</b><span>접었을 때 보관 크기</span></div></div>
+
+<div class="sec">
+<h2>실내 온도 상승 억제</h2>
+<p class="d">반사 외피가 직사광을 되돌리고, 중간 냉감층과 다공성 활성탄층이 열기와 냄새를 함께 잡아줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103526467_ds_carsun_1052729_2.jpg" alt="실내 온도 상승 억제">
+</div>
+<div class="sec alt">
+<h2>우산대 없는 평면 부착식</h2>
+<p class="d">지지봉을 세우지 않고 앞유리에 그대로 펼쳐 선바이저로 고정하는 방식이라 대시보드·내장재에 자국이 남지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg" alt="우산대 없는 평면 부착식">
+</div>
+<div class="sec">
+<h2>차량 대부분에 맞는 5가지 범용 규격</h2>
+<p class="d">133x76 / 140x78 / 146x77 / 150x85 / 150x95cm 중 앞유리 폭에 맞춰 선택할 수 있고, 사용 후 접으면 34x31x2.5cm로 줄어듭니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103526467_ds_carsun_1052729_2.jpg" alt="차량 대부분에 맞는 5가지 범용 규격">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>자동차 앞유리 3중 활성탄 햇빛가리개</td></tr><tr><th>소재</th><td>냉감 원단 + 반사 코팅층 + 활성탄 흡착층</td></tr><tr><th>규격</th><td>A형 133x76cm / B형 140x78cm / C형 146x77cm / D형 150x85cm / E형 150x95cm</td></tr><tr><th>설치 방식</th><td>평면 부착식(선바이저 고정)</td></tr><tr><th>적용 부위</th><td>전면 앞유리</td></tr><tr><th>접은 크기</th><td>약 34x31x2.5cm</td></tr><tr><th>중량</th><td>약 575~655g (규격별 상이)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>규격 5종</span><span>혼합 주문 가능</span><span>당일 출고</span></div>
+<div class="moq">최소 주문 2개부터 / 규격 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전기·배터리 부품이 들어 있나요?</div><div class="a">A. 아닙니다. 전원, 모터, 배터리, LED 등 어떤 전기 부품도 포함되지 않은 순수 원단 제품입니다.</div><div class="q">Q. 차량 주행 중에도 사용할 수 있나요?</div><div class="a">A. 불가합니다. 반드시 주차 중에만 사용하시고, 출발 전에는 완전히 제거해 주세요.</div><div class="q">Q. 어떤 규격을 골라야 하나요?</div><div class="a">A. 앞유리 상단 가로 폭과 대각 높이를 재신 뒤 그보다 약간 큰 규격을 선택하시면 프레임이 안정적으로 걸립니다.</div><div class="q">Q. 차량 전용 맞춤 제작도 되나요?</div><div class="a">A. 기본 판매는 범용 5규격입니다. 특정 차종 맞춤은 별도 문의가 필요하며 납기가 늘어납니다.</div><div class="q">Q. 식품이나 조리도구에 닿아도 되나요?</div><div class="a">A. 식품 접촉 용도로 만들어진 제품이 아니므로 음식물과 직접 닿게 사용하지 마세요.</div><div class="q">Q. 세탁이 되나요?</div><div class="a">A. 물세탁은 권장하지 않습니다. 표면 오염은 젖은 천으로 가볍게 닦은 뒤 그늘에서 말려 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1052729185487.html / 货号 金色石墨烯活性炭遮阳挡 / 通用A型133*76 CNY50.62(표시 CNY55.55) / CBM 0.0026 / 브랜드 AUTOWOEL(판매자 자체)]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785103524776_ds_carsun_1052729_m.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
