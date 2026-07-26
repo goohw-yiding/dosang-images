@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[페달 손터치 2WAY 사각 휴지통 10L 슬림 쓰레기통]]></goodsNm>
+<purchaseGoodsNm><![CDATA[페달 손터치 2WAY 사각 휴지통 10L]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_PEDALBIN10L]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-PB-10L]]></goodsModelNo>
+<goodsSearchWord><![CDATA[휴지통,쓰레기통,페달휴지통,사각휴지통,욕실휴지통,생활수납]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5700]]></goodsPrice>
+<fixedPrice><![CDATA[5700]]></fixedPrice>
+<costPrice><![CDATA[4740]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[6]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[페달과 손터치 두 가지로 열리는 슬림 사각 휴지통 10L]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg" alt="손터치 + 페달 이중개폐 휴지통 10L"></div>
+<div class="eyebrow">LIVING · 생활수납</div>
+<div class="h1">손터치 + 페달 이중개폐 휴지통 10L</div>
+<div class="sub">위생적인 페달 개폐와 간편한 손터치를 하나로. 좁은 틈에 쏙 들어가는 슬림 사각 디자인.</div>
+
+<div class="stat"><div><b>10L</b><span>실사용 용량</span></div><div><b>27×19.5×34.5cm</b><span>전체 크기</span></div><div><b>2WAY</b><span>페달·손터치</span></div></div>
+
+<div class="sec">
+<h2>두 가지 개폐 방식</h2>
+<p class="d">손이 자유롭지 않을 땐 발로, 가볍게 버릴 땐 손으로 눌러 뚜껑을 엽니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg" alt="두 가지 개폐 방식">
+</div>
+<div class="sec alt">
+<h2>슬림 사각 바디</h2>
+<p class="d">폭 19.5cm 사각 형태로 싱크대 옆·화장실·책상 옆 좁은 공간에 밀착 배치됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072939986_pedalbin10l_tb8_c.jpg" alt="슬림 사각 바디">
+</div>
+<div class="sec">
+<h2>냄새 차단 밀착 뚜껑</h2>
+<p class="d">뚜껑이 테두리에 밀착되어 생활 악취가 밖으로 새는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072941249_pedalbin10l_tb6_c.jpg" alt="냄새 차단 밀착 뚜껑">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>모델</th><td>페달·손터치 2WAY 사각 휴지통</td></tr><tr><th>용량</th><td>10L</td></tr><tr><th>크기</th><td>가로 19.5 × 깊이 27 × 높이 34.5cm</td></tr><tr><th>소재</th><td>PP 플라스틱</td></tr><tr><th>색상</th><td>아이보리 / 그레이</td></tr><tr><th>구성</th><td>본체 + 뚜껑 + 이너 프레임</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>포장</th><td>개별 비닐 포장</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>2WAY 개폐</span><span>슬림 사각</span><span>냄새 차단</span><span>봉투 고정링</span></div>
+<div class="moq">최소구매수량 6개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 음식물 쓰레기통으로 써도 되나요?</div><div class="a">A. 일반 생활쓰레기용 제품입니다. 식품이 직접 닿는 용기가 아니므로 반드시 봉투를 사용해 주세요.</div><div class="q">Q. 전원이 필요한가요?</div><div class="a">A. 전자 부품이 전혀 없는 수동 제품으로 배터리나 전원이 필요하지 않습니다.</div><div class="q">Q. 색상 선택이 가능한가요?</div><div class="a">A. 아이보리·그레이 중 발주 시 지정하실 수 있으며, 재고 상황에 따라 협의됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg" alt="손터치 + 페달 이중개폐 휴지통 10L"></div>
+<div class="eyebrow">LIVING · 생활수납</div>
+<div class="h1">손터치 + 페달 이중개폐 휴지통 10L</div>
+<div class="sub">위생적인 페달 개폐와 간편한 손터치를 하나로. 좁은 틈에 쏙 들어가는 슬림 사각 디자인.</div>
+
+<div class="stat"><div><b>10L</b><span>실사용 용량</span></div><div><b>27×19.5×34.5cm</b><span>전체 크기</span></div><div><b>2WAY</b><span>페달·손터치</span></div></div>
+
+<div class="sec">
+<h2>두 가지 개폐 방식</h2>
+<p class="d">손이 자유롭지 않을 땐 발로, 가볍게 버릴 땐 손으로 눌러 뚜껑을 엽니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg" alt="두 가지 개폐 방식">
+</div>
+<div class="sec alt">
+<h2>슬림 사각 바디</h2>
+<p class="d">폭 19.5cm 사각 형태로 싱크대 옆·화장실·책상 옆 좁은 공간에 밀착 배치됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072939986_pedalbin10l_tb8_c.jpg" alt="슬림 사각 바디">
+</div>
+<div class="sec">
+<h2>냄새 차단 밀착 뚜껑</h2>
+<p class="d">뚜껑이 테두리에 밀착되어 생활 악취가 밖으로 새는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072941249_pedalbin10l_tb6_c.jpg" alt="냄새 차단 밀착 뚜껑">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>모델</th><td>페달·손터치 2WAY 사각 휴지통</td></tr><tr><th>용량</th><td>10L</td></tr><tr><th>크기</th><td>가로 19.5 × 깊이 27 × 높이 34.5cm</td></tr><tr><th>소재</th><td>PP 플라스틱</td></tr><tr><th>색상</th><td>아이보리 / 그레이</td></tr><tr><th>구성</th><td>본체 + 뚜껑 + 이너 프레임</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>포장</th><td>개별 비닐 포장</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>2WAY 개폐</span><span>슬림 사각</span><span>냄새 차단</span><span>봉투 고정링</span></div>
+<div class="moq">최소구매수량 6개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 음식물 쓰레기통으로 써도 되나요?</div><div class="a">A. 일반 생활쓰레기용 제품입니다. 식품이 직접 닿는 용기가 아니므로 반드시 봉투를 사용해 주세요.</div><div class="q">Q. 전원이 필요한가요?</div><div class="a">A. 전자 부품이 전혀 없는 수동 제품으로 배터리나 전원이 필요하지 않습니다.</div><div class="q">Q. 색상 선택이 가능한가요?</div><div class="a">A. 아이보리·그레이 중 발주 시 지정하실 수 있으며, 재고 상황에 따라 협의됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/694717333805.html / 옵션 10L 手按脚踩双开盖 CNY9.98 / 표시가 CNY7.80(60일 노객가)는 6.5L 기준 / CBM0.018]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072939986_pedalbin10l_tb8_c.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072941249_pedalbin10l_tb6_c.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072938665_pedalbin10l_tb5.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072939986_pedalbin10l_tb8_c.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072941249_pedalbin10l_tb6_c.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
