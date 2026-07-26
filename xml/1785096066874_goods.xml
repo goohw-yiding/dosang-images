@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[아웃도어 등산 백팩 36~55L 확장형 경량 트레킹 배낭 8컬러]]></goodsNm>
+<purchaseGoodsNm><![CDATA[아웃도어 등산 백팩 36-55L]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMP_HIKEPACK55]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[HIKE-PACK-3655]]></goodsModelNo>
+<goodsSearchWord><![CDATA[등산가방,등산백팩,트레킹배낭,캠핑가방,대용량배낭,여행배낭,아웃도어가방]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[9000]]></goodsPrice>
+<fixedPrice><![CDATA[9000]]></fixedPrice>
+<costPrice><![CDATA[7439]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[4]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[36~55L 확장형 아웃도어 등산 백팩. 통기 메시 등판·허리벨트·8컬러.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg" alt="아웃도어 등산 백팩 36~55L"></div>
+<div class="eyebrow">OUTDOOR HIKING BACKPACK</div>
+<div class="h1">아웃도어 등산 백팩 36~55L</div>
+<div class="sub">확장형 대용량 · 8컬러 · 등산/트레킹/캠핑/여행 겸용 경량 배낭</div>
+
+<div class="stat"><div><b>36~55L</b><span>확장 용량</span></div><div><b>약 380g</b><span>본체 중량</span></div><div><b>8컬러</b><span>선택 색상</span></div></div>
+
+<div class="sec">
+<h2>확장 구조로 36L에서 55L까지</h2>
+<p class="d">상단 확장 지퍼를 열면 수납 공간이 늘어납니다. 평소에는 36L 데일리 배낭으로, 1박 이상 트레킹에는 55L 대용량으로 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg" alt="확장 구조로 36L에서 55L까지">
+</div>
+<div class="sec alt">
+<h2>메시 등판과 허리 벨트로 하중 분산</h2>
+<p class="d">등판과 어깨 스트랩에 통기 메시 패드를 적용했고, 가슴 스트랩과 허리 벨트로 무게를 분산합니다. 장시간 보행 시 어깨 부담을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096030083_bp2.jpg" alt="메시 등판과 허리 벨트로 하중 분산">
+</div>
+<div class="sec">
+<h2>측면 메시 포켓 · 다층 수납</h2>
+<p class="d">양측 메시 포켓에 물통·우산을 꽂을 수 있고, 전면 지퍼 포켓과 메인 수납, 상단 포켓으로 짐을 분리해 담을 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096029058_bp4.jpg" alt="측면 메시 포켓 · 다층 수납">
+</div>
+<div class="sec alt">
+<h2>8가지 색상 구성</h2>
+<p class="d">블랙, 레드, 로즈핑크, 오렌지, 네이비, 스카이블루, 다크그린, 라이트그린 8색으로 소비자 취향에 맞춰 구성할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096027811_bp6c.jpg" alt="8가지 색상 구성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>아웃도어 등산 백팩 36~55L</td></tr><tr><th>소재</th><td>옥스포드/폴리에스터 원단</td></tr><tr><th>용량</th><td>약 36~55L(확장식)</td></tr><tr><th>중량</th><td>약 380g</td></tr><tr><th>색상</th><td>블랙/레드/로즈핑크/오렌지/네이비/스카이블루/다크그린/라이트그린 8종</td></tr><tr><th>주요 기능</th><td>확장 지퍼, 통기 메시 등판, 가슴·허리 스트랩, 양측 메시 포켓</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>구성</th><td>백팩 본체 1개</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>36~55L 확장</span><span>경량 380g</span><span>8컬러</span><span>B2B 대량납품</span></div>
+<div class="moq">컬러 혼합 발주 가능합니다. 100개 이상 대량 발주 시 단가 협의 및 로고 인쇄 상담 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 완전 방수인가요?</div><div class="a">A. 발수 처리된 원단이지만 완전 방수 제품은 아닙니다. 우천 시에는 별도 레인커버 사용을 권장합니다.</div><div class="q">Q. 등산 안전장비인가요?</div><div class="a">A. 일반 아웃도어용 배낭이며 산업용 안전보호구나 인명 구조 장비가 아닙니다. 하중 지지·추락 방지 용도로 사용하지 마세요.</div><div class="q">Q. 전자 기능이 있나요?</div><div class="a">A. 전자부품·배터리·조명이 전혀 없는 일반 가방입니다.</div><div class="q">Q. 최대 적재 중량은?</div><div class="a">A. 일상 등산·여행 짐 기준이며 과도한 중량을 넣을 경우 봉제선·지퍼가 손상될 수 있습니다.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 원단 로트와 모니터 환경에 따라 실제 색상과 차이가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg" alt="아웃도어 등산 백팩 36~55L"></div>
+<div class="eyebrow">OUTDOOR HIKING BACKPACK</div>
+<div class="h1">아웃도어 등산 백팩 36~55L</div>
+<div class="sub">확장형 대용량 · 8컬러 · 등산/트레킹/캠핑/여행 겸용 경량 배낭</div>
+
+<div class="stat"><div><b>36~55L</b><span>확장 용량</span></div><div><b>약 380g</b><span>본체 중량</span></div><div><b>8컬러</b><span>선택 색상</span></div></div>
+
+<div class="sec">
+<h2>확장 구조로 36L에서 55L까지</h2>
+<p class="d">상단 확장 지퍼를 열면 수납 공간이 늘어납니다. 평소에는 36L 데일리 배낭으로, 1박 이상 트레킹에는 55L 대용량으로 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg" alt="확장 구조로 36L에서 55L까지">
+</div>
+<div class="sec alt">
+<h2>메시 등판과 허리 벨트로 하중 분산</h2>
+<p class="d">등판과 어깨 스트랩에 통기 메시 패드를 적용했고, 가슴 스트랩과 허리 벨트로 무게를 분산합니다. 장시간 보행 시 어깨 부담을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096030083_bp2.jpg" alt="메시 등판과 허리 벨트로 하중 분산">
+</div>
+<div class="sec">
+<h2>측면 메시 포켓 · 다층 수납</h2>
+<p class="d">양측 메시 포켓에 물통·우산을 꽂을 수 있고, 전면 지퍼 포켓과 메인 수납, 상단 포켓으로 짐을 분리해 담을 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096029058_bp4.jpg" alt="측면 메시 포켓 · 다층 수납">
+</div>
+<div class="sec alt">
+<h2>8가지 색상 구성</h2>
+<p class="d">블랙, 레드, 로즈핑크, 오렌지, 네이비, 스카이블루, 다크그린, 라이트그린 8색으로 소비자 취향에 맞춰 구성할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096027811_bp6c.jpg" alt="8가지 색상 구성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>아웃도어 등산 백팩 36~55L</td></tr><tr><th>소재</th><td>옥스포드/폴리에스터 원단</td></tr><tr><th>용량</th><td>약 36~55L(확장식)</td></tr><tr><th>중량</th><td>약 380g</td></tr><tr><th>색상</th><td>블랙/레드/로즈핑크/오렌지/네이비/스카이블루/다크그린/라이트그린 8종</td></tr><tr><th>주요 기능</th><td>확장 지퍼, 통기 메시 등판, 가슴·허리 스트랩, 양측 메시 포켓</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>구성</th><td>백팩 본체 1개</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>36~55L 확장</span><span>경량 380g</span><span>8컬러</span><span>B2B 대량납품</span></div>
+<div class="moq">컬러 혼합 발주 가능합니다. 100개 이상 대량 발주 시 단가 협의 및 로고 인쇄 상담 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 완전 방수인가요?</div><div class="a">A. 발수 처리된 원단이지만 완전 방수 제품은 아닙니다. 우천 시에는 별도 레인커버 사용을 권장합니다.</div><div class="q">Q. 등산 안전장비인가요?</div><div class="a">A. 일반 아웃도어용 배낭이며 산업용 안전보호구나 인명 구조 장비가 아닙니다. 하중 지지·추락 방지 용도로 사용하지 마세요.</div><div class="q">Q. 전자 기능이 있나요?</div><div class="a">A. 전자부품·배터리·조명이 전혀 없는 일반 가방입니다.</div><div class="q">Q. 최대 적재 중량은?</div><div class="a">A. 일상 등산·여행 짐 기준이며 과도한 중량을 넣을 경우 봉제선·지퍼가 손상될 수 있습니다.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 원단 로트와 모니터 환경에 따라 실제 색상과 차이가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 offer 841035764181 / CNY 24.00 전색 단일 / 36-55L 380g / 8colors]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096026323_bp1.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096027811_bp6c.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096029058_bp4.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096030083_bp2.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785096031636_bp3.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
