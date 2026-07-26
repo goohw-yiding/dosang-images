@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[알루미늄 롤상판 접이식 캠핑 테이블 대형 경량 야외 폴딩 테이블]]></goodsNm>
+<purchaseGoodsNm><![CDATA[알루미늄 롤상판 접이식 캠핑 테이블 대형 경량 야외 폴딩 테이블]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMP_ROLLTABLE_L]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-CAMPTBL-L]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑테이블,폴딩테이블,롤테이블,접이식테이블,경량테이블,차박,피크닉테이블,캠핑용품]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[13800]]></goodsPrice>
+<fixedPrice><![CDATA[13800]]></fixedPrice>
+<costPrice><![CDATA[11450]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[3]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[롤업 알루미늄 상판 + X자 프레임. 공구 없이 펼치고 접어 수납백에 보관하는 경량 캠핑 테이블.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg" alt="알루미늄 롤 상판 접이식 캠핑 테이블 (대형)"></div>
+<div class="eyebrow">OUTDOOR / FOLDING TABLE</div>
+<div class="h1">알루미늄 롤 상판 접이식 캠핑 테이블 (대형)</div>
+<div class="sub">상판이 롤 형태로 말려 접히는 경량 알루미늄 테이블. 공구 없이 펼치고 접어 수납백에 넣어 이동합니다.</div>
+
+<div class="stat"><div><b>경량</b><span>알루미늄 롤 상판</span></div><div><b>무공구</b><span>펼침 즉시 사용</span></div><div><b>3사이즈</b><span>소·중·대형 선택</span></div></div>
+
+<div class="sec">
+<h2>공구 없이 몇 초 만에 설치</h2>
+<p class="d">X자 프레임을 펼치고 롤 상판을 얹기만 하면 됩니다. 조립 부품이나 나사가 없어 야외에서도 빠르게 세팅됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg" alt="공구 없이 몇 초 만에 설치">
+</div>
+<div class="sec alt">
+<h2>말아서 접는 롤 상판</h2>
+<p class="d">알루미늄 슬랫 상판이 돌돌 말려 부피가 크게 줄어듭니다. 동봉 수납백에 넣어 차량 트렁크나 캠핑 카트에 간편히 싣습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108995008_ds_camptable_658259_2.jpg" alt="말아서 접는 롤 상판">
+</div>
+<div class="sec">
+<h2>야외에서 버티는 마감</h2>
+<p class="d">분체도장 알루미늄 슬랫과 강화 프레임 조합으로 야외 사용에 적합하며, 표면이 매끈해 이물질을 닦아내기 쉽습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg" alt="야외에서 버티는 마감">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>알루미늄 롤 상판 접이식 캠핑 테이블</td></tr><tr><th>소재</th><td>알루미늄 합금 상판 + 강화 합금 프레임</td></tr><tr><th>사이즈</th><td>소형 / 중형 / 대형 (기본 출고 대형)</td></tr><tr><th>접는 방식</th><td>롤업 상판 + X자 프레임</td></tr><tr><th>구성</th><td>본체 1개 (색상 옵션 선택 시 수납백 포함)</td></tr><tr><th>표면 처리</th><td>분체도장</td></tr><tr><th>용도</th><td>캠핑, 피크닉, 차박, 야외 행사</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>사이즈 3종</span><span>혼합 주문 가능</span><span>경량 휴대형</span></div>
+<div class="moq">최소 주문 3개부터 / 사이즈·색상 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전동 부품이나 배터리가 들어 있나요?</div><div class="a">A. 아닙니다. 전원, 모터, 배터리, LED 등 전기 부품이 전혀 없는 순수 기계식 접이 구조입니다.</div><div class="q">Q. 음식이나 조리도구를 직접 올려도 되나요?</div><div class="a">A. 식품 직접 접촉용 기구로 제작된 제품이 아닙니다. 접시, 매트, 조리도구 받침 등을 사용해 음식이 상판에 직접 닿지 않게 해 주세요.</div><div class="q">Q. 화로나 버너를 직접 올려도 되나요?</div><div class="a">A. 안 됩니다. 열원을 상판에 직접 올리면 변형·변색이 발생하므로 내열 받침을 사용하거나 별도 화로대를 쓰세요.</div><div class="q">Q. 최대 하중은 얼마나 되나요?</div><div class="a">A. 가벼운 식기와 소품을 올리는 용도이며, 사람이 앉거나 올라서는 하중 지지 용도로는 사용할 수 없습니다.</div><div class="q">Q. 수납백이 항상 포함되나요?</div><div class="a">A. 색상 옵션(블랙·블루)에는 수납백이 포함되고, 기본 옵션은 본체만 출고됩니다. 주문 시 옵션을 확인해 주세요.</div><div class="q">Q. 야외에 계속 두어도 되나요?</div><div class="a">A. 비를 맞은 뒤에는 물기를 닦고 보관해 주세요. 장기간 야외 방치 시 부식이나 변색이 생길 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg" alt="알루미늄 롤 상판 접이식 캠핑 테이블 (대형)"></div>
+<div class="eyebrow">OUTDOOR / FOLDING TABLE</div>
+<div class="h1">알루미늄 롤 상판 접이식 캠핑 테이블 (대형)</div>
+<div class="sub">상판이 롤 형태로 말려 접히는 경량 알루미늄 테이블. 공구 없이 펼치고 접어 수납백에 넣어 이동합니다.</div>
+
+<div class="stat"><div><b>경량</b><span>알루미늄 롤 상판</span></div><div><b>무공구</b><span>펼침 즉시 사용</span></div><div><b>3사이즈</b><span>소·중·대형 선택</span></div></div>
+
+<div class="sec">
+<h2>공구 없이 몇 초 만에 설치</h2>
+<p class="d">X자 프레임을 펼치고 롤 상판을 얹기만 하면 됩니다. 조립 부품이나 나사가 없어 야외에서도 빠르게 세팅됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg" alt="공구 없이 몇 초 만에 설치">
+</div>
+<div class="sec alt">
+<h2>말아서 접는 롤 상판</h2>
+<p class="d">알루미늄 슬랫 상판이 돌돌 말려 부피가 크게 줄어듭니다. 동봉 수납백에 넣어 차량 트렁크나 캠핑 카트에 간편히 싣습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108995008_ds_camptable_658259_2.jpg" alt="말아서 접는 롤 상판">
+</div>
+<div class="sec">
+<h2>야외에서 버티는 마감</h2>
+<p class="d">분체도장 알루미늄 슬랫과 강화 프레임 조합으로 야외 사용에 적합하며, 표면이 매끈해 이물질을 닦아내기 쉽습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg" alt="야외에서 버티는 마감">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>알루미늄 롤 상판 접이식 캠핑 테이블</td></tr><tr><th>소재</th><td>알루미늄 합금 상판 + 강화 합금 프레임</td></tr><tr><th>사이즈</th><td>소형 / 중형 / 대형 (기본 출고 대형)</td></tr><tr><th>접는 방식</th><td>롤업 상판 + X자 프레임</td></tr><tr><th>구성</th><td>본체 1개 (색상 옵션 선택 시 수납백 포함)</td></tr><tr><th>표면 처리</th><td>분체도장</td></tr><tr><th>용도</th><td>캠핑, 피크닉, 차박, 야외 행사</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>사이즈 3종</span><span>혼합 주문 가능</span><span>경량 휴대형</span></div>
+<div class="moq">최소 주문 3개부터 / 사이즈·색상 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전동 부품이나 배터리가 들어 있나요?</div><div class="a">A. 아닙니다. 전원, 모터, 배터리, LED 등 전기 부품이 전혀 없는 순수 기계식 접이 구조입니다.</div><div class="q">Q. 음식이나 조리도구를 직접 올려도 되나요?</div><div class="a">A. 식품 직접 접촉용 기구로 제작된 제품이 아닙니다. 접시, 매트, 조리도구 받침 등을 사용해 음식이 상판에 직접 닿지 않게 해 주세요.</div><div class="q">Q. 화로나 버너를 직접 올려도 되나요?</div><div class="a">A. 안 됩니다. 열원을 상판에 직접 올리면 변형·변색이 발생하므로 내열 받침을 사용하거나 별도 화로대를 쓰세요.</div><div class="q">Q. 최대 하중은 얼마나 되나요?</div><div class="a">A. 가벼운 식기와 소품을 올리는 용도이며, 사람이 앉거나 올라서는 하중 지지 용도로는 사용할 수 없습니다.</div><div class="q">Q. 수납백이 항상 포함되나요?</div><div class="a">A. 색상 옵션(블랙·블루)에는 수납백이 포함되고, 기본 옵션은 본체만 출고됩니다. 주문 시 옵션을 확인해 주세요.</div><div class="q">Q. 야외에 계속 두어도 되나요?</div><div class="a">A. 비를 맞은 뒤에는 물기를 닦고 보관해 주세요. 장기간 야외 방치 시 부식이나 변색이 생길 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/658259094028.html / 货号 145663225 / 大号折叠桌(锰钢合金桌面款) CNY29.97 (소형18.48/중형27.97/색상+수납백 35.96~59.94) / CBM 0.03 추정 / 판매자신고 부피 210000cm3는 과대로 판단]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785108993319_ds_camptable_658259_m.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
