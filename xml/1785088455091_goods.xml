@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[빗자루 쓰레받기 스퀴지 3종 청소세트 빗살 쓰레받기 신축 손잡이]]></goodsNm>
+<purchaseGoodsNm><![CDATA[빗자루·쓰레받기·스퀴지 3종 청소 세트]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_KIT_BROOMSET3]]></goodsCd>
+<cateCd><![CDATA[073]]></cateCd>
+<allCateCd><![CDATA[073]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[BROOM-SET-3PC]]></goodsModelNo>
+<goodsSearchWord><![CDATA[빗자루,쓰레받기,청소세트,스퀴지,물기제거,빗살쓰레받기]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[9200]]></goodsPrice>
+<fixedPrice><![CDATA[9200]]></fixedPrice>
+<costPrice><![CDATA[7623]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[4]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[빗살 쓰레받기 + 빗자루 + 물기제거 스퀴지 3종 세트]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg" alt="빗자루 쓰레받기 물기제거 스퀴지<br>3종 청소 세트"></div>
+<div class="eyebrow">CLEANING SET</div>
+<div class="h1">빗자루 쓰레받기 물기제거 스퀴지<br>3종 청소 세트</div>
+<div class="sub">빗살 필터 · 밀착 고무날 · 스테인리스 신축봉</div>
+
+<div class="stat"><div><b>3종</b><span>빗자루+받기+스퀴지</span></div><div><b>PET</b><span>조밀 브러시모</span></div><div><b>신축</b><span>길이 조절 손잡이</span></div></div>
+
+<div class="sec">
+<h2>서서 쓰는 3종 청소 세트</h2>
+<p class="d">빗자루, 쓰레받기, 물기 제거 스퀴지를 한 세트로 구성했습니다. 허리를 굽히지 않고 선 자세로 바닥 청소와 물기 제거를 한 번에 끝냅니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg" alt="서서 쓰는 3종 청소 세트">
+</div>
+<div class="sec alt">
+<h2>빗살 구조로 머리카락 걷어내기</h2>
+<p class="d">쓰레받기 앞단에 빗살(스크레이퍼 톱니)이 있어 브러시에 엉킨 머리카락과 먼지를 손 대지 않고 훑어낼 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088452246_broomset_2.jpg" alt="빗살 구조로 머리카락 걷어내기">
+</div>
+<div class="sec">
+<h2>바닥에 밀착되는 얇은 고무 립</h2>
+<p class="d">쓰레받기 전면에 얇은 고무 립을 덧대 바닥과 틈 없이 밀착합니다. 미세 먼지가 밑으로 빠져나가지 않고 한 번에 담깁니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088453508_broomset_3.jpg" alt="바닥에 밀착되는 얇은 고무 립">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>빗자루·쓰레받기·스퀴지 3종 청소 세트</td></tr><tr><th>구성</th><td>빗자루 1 + 쓰레받기 1 + 물기제거 스퀴지 1</td></tr><tr><th>브러시모</th><td>PET 조밀모 3열</td></tr><tr><th>본체</th><td>PP 플라스틱</td></tr><tr><th>손잡이</th><td>스테인리스 신축봉</td></tr><tr><th>색상</th><td>카키(베이지)</td></tr><tr><th>사용처</th><td>거실·주방·베란다·매장 바닥</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>3종 세트</span><span>빗살 필터</span><span>고무 립</span><span>신축 손잡이</span></div>
+<div class="moq">최소 구매 수량 4개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전동 청소기인가요?</div><div class="a">A. 아닙니다. 전원·배터리·모터가 없는 수동 청소도구 세트입니다.</div><div class="q">Q. 식기나 조리대에 사용해도 되나요?</div><div class="a">A. 불가합니다. 바닥·베란다 등 생활 공간 청소 전용이며 식품이나 조리기구에 직접 닿는 용도가 아닙니다.</div><div class="q">Q. 물기 제거 스퀴지는 유리에도 쓰나요?</div><div class="a">A. 바닥 물기 제거용으로 설계되었습니다. 유리창은 전용 스퀴지 사용을 권장합니다.</div><div class="q">Q. 손잡이 분리가 되나요?</div><div class="a">A. 신축봉 구조로 길이 조절이 가능하며 보관 시 짧게 줄여 두시면 됩니다.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 생산 로트에 따라 미세한 색상 차이가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg" alt="빗자루 쓰레받기 물기제거 스퀴지<br>3종 청소 세트"></div>
+<div class="eyebrow">CLEANING SET</div>
+<div class="h1">빗자루 쓰레받기 물기제거 스퀴지<br>3종 청소 세트</div>
+<div class="sub">빗살 필터 · 밀착 고무날 · 스테인리스 신축봉</div>
+
+<div class="stat"><div><b>3종</b><span>빗자루+받기+스퀴지</span></div><div><b>PET</b><span>조밀 브러시모</span></div><div><b>신축</b><span>길이 조절 손잡이</span></div></div>
+
+<div class="sec">
+<h2>서서 쓰는 3종 청소 세트</h2>
+<p class="d">빗자루, 쓰레받기, 물기 제거 스퀴지를 한 세트로 구성했습니다. 허리를 굽히지 않고 선 자세로 바닥 청소와 물기 제거를 한 번에 끝냅니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg" alt="서서 쓰는 3종 청소 세트">
+</div>
+<div class="sec alt">
+<h2>빗살 구조로 머리카락 걷어내기</h2>
+<p class="d">쓰레받기 앞단에 빗살(스크레이퍼 톱니)이 있어 브러시에 엉킨 머리카락과 먼지를 손 대지 않고 훑어낼 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088452246_broomset_2.jpg" alt="빗살 구조로 머리카락 걷어내기">
+</div>
+<div class="sec">
+<h2>바닥에 밀착되는 얇은 고무 립</h2>
+<p class="d">쓰레받기 전면에 얇은 고무 립을 덧대 바닥과 틈 없이 밀착합니다. 미세 먼지가 밑으로 빠져나가지 않고 한 번에 담깁니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088453508_broomset_3.jpg" alt="바닥에 밀착되는 얇은 고무 립">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>빗자루·쓰레받기·스퀴지 3종 청소 세트</td></tr><tr><th>구성</th><td>빗자루 1 + 쓰레받기 1 + 물기제거 스퀴지 1</td></tr><tr><th>브러시모</th><td>PET 조밀모 3열</td></tr><tr><th>본체</th><td>PP 플라스틱</td></tr><tr><th>손잡이</th><td>스테인리스 신축봉</td></tr><tr><th>색상</th><td>카키(베이지)</td></tr><tr><th>사용처</th><td>거실·주방·베란다·매장 바닥</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>3종 세트</span><span>빗살 필터</span><span>고무 립</span><span>신축 손잡이</span></div>
+<div class="moq">최소 구매 수량 4개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전동 청소기인가요?</div><div class="a">A. 아닙니다. 전원·배터리·모터가 없는 수동 청소도구 세트입니다.</div><div class="q">Q. 식기나 조리대에 사용해도 되나요?</div><div class="a">A. 불가합니다. 바닥·베란다 등 생활 공간 청소 전용이며 식품이나 조리기구에 직접 닿는 용도가 아닙니다.</div><div class="q">Q. 물기 제거 스퀴지는 유리에도 쓰나요?</div><div class="a">A. 바닥 물기 제거용으로 설계되었습니다. 유리창은 전용 스퀴지 사용을 권장합니다.</div><div class="q">Q. 손잡이 분리가 되나요?</div><div class="a">A. 신축봉 구조로 길이 조절이 가능하며 보관 시 짧게 줄여 두시면 됩니다.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 생산 로트에 따라 미세한 색상 차이가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/991220426266.html 옵션 仿猪鬃丝三件套 CNY16.5 / cbm0.028]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088452246_broomset_2.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088453508_broomset_3.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088450861_broomset_main.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088452246_broomset_2.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088453508_broomset_3.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
