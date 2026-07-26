@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[욕실 미끄럼방지 매트 40x80cm 대형 흡착 샤워매트]]></goodsNm>
+<purchaseGoodsNm><![CDATA[욕실 미끄럼방지 매트 40x80]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_BATHMAT4080]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[BATHMAT-4080]]></goodsModelNo>
+<goodsSearchWord><![CDATA[욕실매트,미끄럼방지매트,샤워매트,흡착매트,욕실용품,화장실매트]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4800]]></goodsPrice>
+<fixedPrice><![CDATA[4800]]></fixedPrice>
+<costPrice><![CDATA[3972]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[7]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[흡착판+배수홀 구조의 두툼한 PVC 욕실 미끄럼방지 매트 (40x80cm)]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070582357_bathmat_m_1785070582.jpg" alt="PVC 대형 욕실 미끄럼방지 매트 40x80cm"></div>
+<div class="eyebrow">BATHROOM SAFETY</div>
+<div class="h1">PVC 대형 욕실 미끄럼방지 매트 40x80cm</div>
+<div class="sub">흡착판 + 배수홀 구조로 젖은 욕실 바닥에서도 밀리지 않는 두툼한 안전 매트입니다.</div>
+
+<div class="stat"><div><b>40x80</b><span>cm 대형 사이즈</span></div><div><b>200+</b><span>흡착판 구조</span></div><div><b>PVC</b><span>환경친화 소재</span></div></div>
+
+<div class="sec">
+<h2>강력 흡착 + 미끄럼 방지</h2>
+<p class="d">바닥면 전체에 배치된 흡착판이 타일에 밀착되어 샤워 중에도 매트가 밀리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070583863_bathmat_a_1785070583.jpg" alt="강력 흡착 + 미끄럼 방지">
+</div>
+<div class="sec alt">
+<h2>배수홀 설계로 빠른 물빠짐</h2>
+<p class="d">전면에 타공된 배수홀로 물이 고이지 않아 곰팡이·물때 걱정을 줄였습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070585583_bathmat_b_1785070585.jpg" alt="배수홀 설계로 빠른 물빠짐">
+</div>
+<div class="sec">
+<h2>발바닥 지압 엠보싱</h2>
+<p class="d">윗면 원형 엠보싱이 발바닥을 부드럽게 자극하며 접지력을 높여줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070586966_bathmat_c_1785070586.jpg" alt="발바닥 지압 엠보싱">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>PVC</td></tr><tr><th>사이즈</th><td>40 x 80 cm</td></tr><tr><th>형태</th><td>사각형 / 타공형</td></tr><tr><th>컬러</th><td>라이트블루·씨블루·그레이·핑크·아이보리·그린·화이트 등</td></tr><tr><th>세척</th><td>물세척 가능</td></tr><tr><th>사용 공간</th><td>욕실·샤워부스·화장실</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용가</span><span>대량 구매 협의</span><span>B2B 세금계산서 발행</span></div>
+<div class="moq">최소구매수량 7개 이상</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 가위로 잘라서 크기를 줄일 수 있나요?</div><div class="a">A. 네, 타공 사이 라인을 따라 가위로 재단이 가능합니다. 재단면은 마감 처리해 사용하시길 권장합니다.</div><div class="q">Q. 컬러 혼합 발주가 되나요?</div><div class="a">A. 가능합니다. 수량과 컬러 구성은 별도 문의 주시면 안내해 드립니다.</div><div class="q">Q. 배송은 얼마나 걸리나요?</div><div class="a">A. 재고 보유 시 1~2일 내 출고되며, 대량 주문은 별도 협의 후 일정 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070582357_bathmat_m_1785070582.jpg" alt="PVC 대형 욕실 미끄럼방지 매트 40x80cm"></div>
+<div class="eyebrow">BATHROOM SAFETY</div>
+<div class="h1">PVC 대형 욕실 미끄럼방지 매트 40x80cm</div>
+<div class="sub">흡착판 + 배수홀 구조로 젖은 욕실 바닥에서도 밀리지 않는 두툼한 안전 매트입니다.</div>
+
+<div class="stat"><div><b>40x80</b><span>cm 대형 사이즈</span></div><div><b>200+</b><span>흡착판 구조</span></div><div><b>PVC</b><span>환경친화 소재</span></div></div>
+
+<div class="sec">
+<h2>강력 흡착 + 미끄럼 방지</h2>
+<p class="d">바닥면 전체에 배치된 흡착판이 타일에 밀착되어 샤워 중에도 매트가 밀리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070583863_bathmat_a_1785070583.jpg" alt="강력 흡착 + 미끄럼 방지">
+</div>
+<div class="sec alt">
+<h2>배수홀 설계로 빠른 물빠짐</h2>
+<p class="d">전면에 타공된 배수홀로 물이 고이지 않아 곰팡이·물때 걱정을 줄였습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070585583_bathmat_b_1785070585.jpg" alt="배수홀 설계로 빠른 물빠짐">
+</div>
+<div class="sec">
+<h2>발바닥 지압 엠보싱</h2>
+<p class="d">윗면 원형 엠보싱이 발바닥을 부드럽게 자극하며 접지력을 높여줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070586966_bathmat_c_1785070586.jpg" alt="발바닥 지압 엠보싱">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>PVC</td></tr><tr><th>사이즈</th><td>40 x 80 cm</td></tr><tr><th>형태</th><td>사각형 / 타공형</td></tr><tr><th>컬러</th><td>라이트블루·씨블루·그레이·핑크·아이보리·그린·화이트 등</td></tr><tr><th>세척</th><td>물세척 가능</td></tr><tr><th>사용 공간</th><td>욕실·샤워부스·화장실</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용가</span><span>대량 구매 협의</span><span>B2B 세금계산서 발행</span></div>
+<div class="moq">최소구매수량 7개 이상</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 가위로 잘라서 크기를 줄일 수 있나요?</div><div class="a">A. 네, 타공 사이 라인을 따라 가위로 재단이 가능합니다. 재단면은 마감 처리해 사용하시길 권장합니다.</div><div class="q">Q. 컬러 혼합 발주가 되나요?</div><div class="a">A. 가능합니다. 수량과 컬러 구성은 별도 문의 주시면 안내해 드립니다.</div><div class="q">Q. 배송은 얼마나 걸리나요?</div><div class="a">A. 재고 보유 시 1~2일 내 출고되며, 대량 주문은 별도 협의 후 일정 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/677080359385.html 货号:按摩款 옵션 40x80cm ¥12.3 (표시 신인가 ¥4.5는 최저옵션가)]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070582357_bathmat_m_1785070582.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070582357_bathmat_m_1785070582.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070582357_bathmat_m_1785070582.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785070582357_bathmat_m_1785070582.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
