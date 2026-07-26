@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[X자 접이식 대형 빨래건조대 1.6M 2단봉 아연도금 실내외 겸용]]></goodsNm>
+<purchaseGoodsNm><![CDATA[X자 접이식 빨래건조대 1.6M 2단봉]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_XDRYRACK160]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[KA01A-160]]></goodsModelNo>
+<goodsSearchWord><![CDATA[빨래건조대,접이식건조대,대형건조대,베란다건조대,X자건조대]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[12800]]></goodsPrice>
+<fixedPrice><![CDATA[12800]]></fixedPrice>
+<costPrice><![CDATA[10665]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[3]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[아연도금 강관 X자 접이식 빨래건조대 1.6M 2단봉. 접으면 납작하게 보관.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043812864_main.jpg" alt="X자 접이식 대형 빨래건조대 1.6M 2단봉"></div>
+<div class="eyebrow">LIVING / LAUNDRY</div>
+<div class="h1">X자 접이식 대형 빨래건조대 1.6M 2단봉</div>
+<div class="sub">아연도금 강관 프레임 · 접으면 납작하게 · 실내외 겸용</div>
+
+<div class="stat"><div><b>1.6M</b><span>건조봉 길이</span></div><div><b>2단</b><span>빨래봉 구성</span></div><div><b>접이식</b><span>보관 시 부피 최소</span></div></div>
+
+<div class="sec">
+<h2>넓은 1.6M 건조 공간</h2>
+<p class="d">한 번에 이불·대형 세탁물까지 널 수 있는 넉넉한 폭입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043814075_d1.jpg" alt="넓은 1.6M 건조 공간">
+</div>
+<div class="sec alt">
+<h2>아연도금 강관 프레임</h2>
+<p class="d">녹 발생을 억제하는 아연도금 처리로 베란다·실외에서도 오래 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043815760_d2.jpg" alt="아연도금 강관 프레임">
+</div>
+<div class="sec">
+<h2>X자 구조 + 완전 접이식</h2>
+<p class="d">사용하지 않을 때는 납작하게 접어 벽면이나 틈새에 세워 보관합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043812864_main.jpg" alt="X자 구조 + 완전 접이식">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>X자 접이식 빨래건조대 1.6M 2단봉</td></tr><tr><th>소재</th><td>아연도금 강관</td></tr><tr><th>펼침 규격</th><td>가로 약 160cm / 폭 약 43~60cm / 높이 약 126cm</td></tr><tr><th>형태</th><td>X형 접이식 이동형</td></tr><tr><th>구성</th><td>본체 1개</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>조립 후 평평한 바닥에서 사용하세요.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>1688 직소싱</span><span>대량주문 협의</span></div>
+<div class="moq">최소구매수량 3개 / 대량 발주 시 별도 단가 협의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 실외 베란다에서 써도 되나요?</div><div class="a">A. 아연도금 처리로 실내외 모두 사용 가능하나, 장기간 우천 노출은 피해 주세요.</div><div class="q">Q. 접었을 때 두께는 어느 정도인가요?</div><div class="a">A. X자 구조로 완전히 접혀 벽면 틈새 보관이 가능합니다.</div><div class="q">Q. 대량 발주가 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043812864_main.jpg" alt="X자 접이식 대형 빨래건조대 1.6M 2단봉"></div>
+<div class="eyebrow">LIVING / LAUNDRY</div>
+<div class="h1">X자 접이식 대형 빨래건조대 1.6M 2단봉</div>
+<div class="sub">아연도금 강관 프레임 · 접으면 납작하게 · 실내외 겸용</div>
+
+<div class="stat"><div><b>1.6M</b><span>건조봉 길이</span></div><div><b>2단</b><span>빨래봉 구성</span></div><div><b>접이식</b><span>보관 시 부피 최소</span></div></div>
+
+<div class="sec">
+<h2>넓은 1.6M 건조 공간</h2>
+<p class="d">한 번에 이불·대형 세탁물까지 널 수 있는 넉넉한 폭입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043814075_d1.jpg" alt="넓은 1.6M 건조 공간">
+</div>
+<div class="sec alt">
+<h2>아연도금 강관 프레임</h2>
+<p class="d">녹 발생을 억제하는 아연도금 처리로 베란다·실외에서도 오래 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043815760_d2.jpg" alt="아연도금 강관 프레임">
+</div>
+<div class="sec">
+<h2>X자 구조 + 완전 접이식</h2>
+<p class="d">사용하지 않을 때는 납작하게 접어 벽면이나 틈새에 세워 보관합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043812864_main.jpg" alt="X자 구조 + 완전 접이식">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>X자 접이식 빨래건조대 1.6M 2단봉</td></tr><tr><th>소재</th><td>아연도금 강관</td></tr><tr><th>펼침 규격</th><td>가로 약 160cm / 폭 약 43~60cm / 높이 약 126cm</td></tr><tr><th>형태</th><td>X형 접이식 이동형</td></tr><tr><th>구성</th><td>본체 1개</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>조립 후 평평한 바닥에서 사용하세요.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>1688 직소싱</span><span>대량주문 협의</span></div>
+<div class="moq">최소구매수량 3개 / 대량 발주 시 별도 단가 협의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 실외 베란다에서 써도 되나요?</div><div class="a">A. 아연도금 처리로 실내외 모두 사용 가능하나, 장기간 우천 노출은 피해 주세요.</div><div class="q">Q. 접었을 때 두께는 어느 정도인가요?</div><div class="a">A. X자 구조로 완전히 접혀 벽면 틈새 보관이 가능합니다.</div><div class="q">Q. 대량 발주가 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1049876331598.html 货号01 CNY27.9 (1.6m双杆) cbm0.028]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043812864_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043812864_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043812864_main.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043814075_d1.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043815760_d2.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043814075_d1.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785043815760_d2.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
