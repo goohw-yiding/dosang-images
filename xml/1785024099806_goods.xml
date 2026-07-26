@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[논슬립 실리콘 저항밴드 4단계 강도 요가 힙업밴드]]></goodsNm>
+<purchaseGoodsNm><![CDATA[논슬립 실리콘 저항밴드]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_HLT_SILBAND]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[SIL-LOOP-60]]></goodsModelNo>
+<goodsSearchWord><![CDATA[저항밴드,실리콘밴드,힙업밴드,요가밴드,홈트레이닝,루프밴드,헬스밴드]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5100]]></goodsPrice>
+<fixedPrice><![CDATA[10200]]></fixedPrice>
+<costPrice><![CDATA[4205]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[6]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[라텍스 프리 실리콘 · 논슬립 벌집 패턴 · 4단계 강도]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024062788_ds074_band_main.jpg" alt="논슬립 실리콘 밴드 (라텍스 프리)"></div>
+<div class="eyebrow">SILICONE RESISTANCE BAND</div>
+<div class="h1">논슬립 실리콘 밴드 (라텍스 프리)</div>
+<div class="sub">15 / 25 / 35 / 50 LB 강도 선택 · 안쪽 벌집 논슬립 · 라텍스 냄새 없음</div>
+
+<div class="stat"><div><b>4단계</b><span>강도 선택</span></div><div><b>60cm</b><span>둘레</span></div><div><b>논슬립</b><span>벌집 패턴</span></div></div>
+
+<div class="sec">
+<h2>운동 중 말려 올라가지 않습니다</h2>
+<p class="d">안쪽 면 벌집(허니콤) 논슬립 패턴이 피부와 옷에 붙잡혀, 스쿼트·힙 브리지에서 밴드가 위로 밀려 올라가지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024065682_ds074_band_pink.jpg" alt="운동 중 말려 올라가지 않습니다">
+</div>
+<div class="sec alt">
+<h2>라텍스 특유의 냄새가 없습니다</h2>
+<p class="d">실리콘 소재라 라텍스 밴드에서 나는 자극적인 고무 냄새가 없고, 라텍스 알레르기 걱정 없이 쓸 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024066592_ds074_band_blue.jpg" alt="라텍스 특유의 냄새가 없습니다">
+</div>
+<div class="sec">
+<h2>4가지 강도 · 4가지 컬러</h2>
+<p class="d">15LB 입문용부터 50LB 고강도까지. 컬러로 강도를 바로 구분할 수 있어 클래스·PT 센터 납품에도 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024064401_ds074_band_roll.jpg" alt="4가지 강도 · 4가지 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>논슬립 실리콘 저항 밴드</td></tr><tr><th>소재</th><td>실리콘 (라텍스 프리)</td></tr><tr><th>규격</th><td>약 60 × 5.6 × 0.14 cm</td></tr><tr><th>강도</th><td>15LB / 25LB / 35LB / 50LB</td></tr><tr><th>컬러</th><td>체리핑크 / 스카이블루 / 그린 / 라일락퍼플</td></tr><tr><th>중량</th><td>약 50~58g (1개)</td></tr><tr><th>구성</th><td>단품 또는 4개 세트</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용가</span><span>즉시출고</span><span>4단계 강도</span><span>라텍스 프리</span></div>
+<div class="moq">최소구매수량 6개부터 / 강도·컬러 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어떤 강도부터 시작해야 하나요?</div><div class="a">A. 운동 입문자는 15LB, 일반 홈트는 25LB, 하체 위주 트레이닝은 35~50LB를 권장합니다.</div><div class="q">Q. 세탁이 되나요?</div><div class="a">A. 미지근한 물에 중성세제로 가볍게 씻어 그늘에서 말려 주세요.</div><div class="q">Q. 4개 세트로도 구매할 수 있나요?</div><div class="a">A. 가능합니다. 세트 구성 수량은 주문 시 알려 주세요.</div><div class="q">Q. 로고 인쇄가 되나요?</div><div class="a">A. 가능합니다. 수량에 따라 단가가 달라지므로 문의 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024062788_ds074_band_main.jpg" alt="논슬립 실리콘 밴드 (라텍스 프리)"></div>
+<div class="eyebrow">SILICONE RESISTANCE BAND</div>
+<div class="h1">논슬립 실리콘 밴드 (라텍스 프리)</div>
+<div class="sub">15 / 25 / 35 / 50 LB 강도 선택 · 안쪽 벌집 논슬립 · 라텍스 냄새 없음</div>
+
+<div class="stat"><div><b>4단계</b><span>강도 선택</span></div><div><b>60cm</b><span>둘레</span></div><div><b>논슬립</b><span>벌집 패턴</span></div></div>
+
+<div class="sec">
+<h2>운동 중 말려 올라가지 않습니다</h2>
+<p class="d">안쪽 면 벌집(허니콤) 논슬립 패턴이 피부와 옷에 붙잡혀, 스쿼트·힙 브리지에서 밴드가 위로 밀려 올라가지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024065682_ds074_band_pink.jpg" alt="운동 중 말려 올라가지 않습니다">
+</div>
+<div class="sec alt">
+<h2>라텍스 특유의 냄새가 없습니다</h2>
+<p class="d">실리콘 소재라 라텍스 밴드에서 나는 자극적인 고무 냄새가 없고, 라텍스 알레르기 걱정 없이 쓸 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024066592_ds074_band_blue.jpg" alt="라텍스 특유의 냄새가 없습니다">
+</div>
+<div class="sec">
+<h2>4가지 강도 · 4가지 컬러</h2>
+<p class="d">15LB 입문용부터 50LB 고강도까지. 컬러로 강도를 바로 구분할 수 있어 클래스·PT 센터 납품에도 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024064401_ds074_band_roll.jpg" alt="4가지 강도 · 4가지 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>논슬립 실리콘 저항 밴드</td></tr><tr><th>소재</th><td>실리콘 (라텍스 프리)</td></tr><tr><th>규격</th><td>약 60 × 5.6 × 0.14 cm</td></tr><tr><th>강도</th><td>15LB / 25LB / 35LB / 50LB</td></tr><tr><th>컬러</th><td>체리핑크 / 스카이블루 / 그린 / 라일락퍼플</td></tr><tr><th>중량</th><td>약 50~58g (1개)</td></tr><tr><th>구성</th><td>단품 또는 4개 세트</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용가</span><span>즉시출고</span><span>4단계 강도</span><span>라텍스 프리</span></div>
+<div class="moq">최소구매수량 6개부터 / 강도·컬러 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어떤 강도부터 시작해야 하나요?</div><div class="a">A. 운동 입문자는 15LB, 일반 홈트는 25LB, 하체 위주 트레이닝은 35~50LB를 권장합니다.</div><div class="q">Q. 세탁이 되나요?</div><div class="a">A. 미지근한 물에 중성세제로 가볍게 씻어 그늘에서 말려 주세요.</div><div class="q">Q. 4개 세트로도 구매할 수 있나요?</div><div class="a">A. 가능합니다. 세트 구성 수량은 주문 시 알려 주세요.</div><div class="q">Q. 로고 인쇄가 되나요?</div><div class="a">A. 가능합니다. 수량에 따라 단가가 달라지므로 문의 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 offer 916107416098 / 货号 硅胶拉力圈 / CNY 15.5 / cbm 0.0006 / landed 4205 / sale 5100 / JOINFIT 브랜드 노출 이미지 및 중국어 이미지 배제]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024062788_ds074_band_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024062788_ds074_band_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024062788_ds074_band_main.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024064401_ds074_band_roll.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024065682_ds074_band_pink.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024066592_ds074_band_blue.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024062788_ds074_band_main.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024064401_ds074_band_roll.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024065682_ds074_band_pink.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785024066592_ds074_band_blue.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
