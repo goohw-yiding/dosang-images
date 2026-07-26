@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[차량 트렁크 고정 그물망 80x60 탄력 네트 D링 브라켓 포함]]></goodsNm>
+<purchaseGoodsNm><![CDATA[차량 트렁크 고정 그물망 80x60]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_TRUNKNET8060]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[TRUNKNET-8060]]></goodsModelNo>
+<goodsSearchWord><![CDATA[트렁크그물망,차량네트,짐고정,트렁크정리,카고넷,SUV수납]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4400]]></goodsPrice>
+<fixedPrice><![CDATA[4400]]></fixedPrice>
+<costPrice><![CDATA[3642]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[7]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[트렁크 짐 쏠림을 잡아주는 80x60 고탄력 카고넷. D링 브라켓 4개 포함.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078181443_ds_trunknet_1.jpg" alt="차량 트렁크 고정 그물망 80x60"></div>
+<div class="eyebrow">트렁크 짐 쏠림 방지</div>
+<div class="h1">차량 트렁크 고정 그물망 80x60</div>
+<div class="sub">고탄력 단층 평면망 + D링 고정 브라켓 4개 포함. 짐이 굴러다니지 않습니다</div>
+
+<div class="stat"><div><b>80x60cm</b><span>기본 규격</span></div><div><b>1.5배</b><span>최대 신축</span></div><div><b>4개</b><span>D링 브라켓</span></div></div>
+
+<div class="sec">
+<h2>고탄력 네트</h2>
+<p class="d">탄성 밴드를 촘촘히 엮어 최대 1.5배까지 늘어나며, 다양한 크기의 짐을 감싸 고정합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078183753_ds_trunknet_3.jpg" alt="고탄력 네트">
+</div>
+<div class="sec alt">
+<h2>차종 무관 범용</h2>
+<p class="d">모서리 4곳의 후크를 트렁크 기본 고정고리에 걸거나, 동봉된 D링 브라켓을 나사로 설치해 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078185385_ds_trunknet_5.jpg" alt="차종 무관 범용">
+</div>
+<div class="sec">
+<h2>생활용품 정리</h2>
+<p class="d">장바구니, 우산, 공구, 캠핑 소품 등 굴러다니기 쉬운 물건을 한 곳에 잡아 둡니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078187032_ds_trunknet_2.jpg" alt="생활용품 정리">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>폴리에스터 고탄력 밴드</td></tr><tr><th>규격</th><td>80 x 60 cm (단층 평면망)</td></tr><tr><th>신축 범위</th><td>권장 1.1배, 최대 1.5배</td></tr><tr><th>구성</th><td>그물망 1개 + D링 브라켓 4개 + 나사 4개</td></tr><tr><th>적용 차종</th><td>공용(SUV/세단 트렁크, 시트 사이)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>고탄력</span><span>브라켓 포함</span><span>차종 공용</span><span>SUV 대응</span></div>
+<div class="moq">최소 7개부터 주문 가능합니다. 60x40 / 70x50 / 100x60 등 다른 규격도 문의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 차량에 구멍을 뚫어야 하나요?</div><div class="a">A. 트렁크에 기본 고정고리가 있으면 후크만 걸어 사용합니다. 고리가 없을 때만 동봉 브라켓을 나사로 설치합니다.</div><div class="q">Q. 얼마나 무거운 짐까지 되나요?</div><div class="a">A. 가벼운 짐의 쏠림 방지용입니다. 무거운 물건을 고정하는 화물 고정 장비가 아니며, 주행 중 하중 지지 용도로 쓰지 마세요.</div><div class="q">Q. 규격 오차가 있나요?</div><div class="a">A. 수작업 측정으로 ±2cm 오차가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078181443_ds_trunknet_1.jpg" alt="차량 트렁크 고정 그물망 80x60"></div>
+<div class="eyebrow">트렁크 짐 쏠림 방지</div>
+<div class="h1">차량 트렁크 고정 그물망 80x60</div>
+<div class="sub">고탄력 단층 평면망 + D링 고정 브라켓 4개 포함. 짐이 굴러다니지 않습니다</div>
+
+<div class="stat"><div><b>80x60cm</b><span>기본 규격</span></div><div><b>1.5배</b><span>최대 신축</span></div><div><b>4개</b><span>D링 브라켓</span></div></div>
+
+<div class="sec">
+<h2>고탄력 네트</h2>
+<p class="d">탄성 밴드를 촘촘히 엮어 최대 1.5배까지 늘어나며, 다양한 크기의 짐을 감싸 고정합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078183753_ds_trunknet_3.jpg" alt="고탄력 네트">
+</div>
+<div class="sec alt">
+<h2>차종 무관 범용</h2>
+<p class="d">모서리 4곳의 후크를 트렁크 기본 고정고리에 걸거나, 동봉된 D링 브라켓을 나사로 설치해 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078185385_ds_trunknet_5.jpg" alt="차종 무관 범용">
+</div>
+<div class="sec">
+<h2>생활용품 정리</h2>
+<p class="d">장바구니, 우산, 공구, 캠핑 소품 등 굴러다니기 쉬운 물건을 한 곳에 잡아 둡니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078187032_ds_trunknet_2.jpg" alt="생활용품 정리">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>폴리에스터 고탄력 밴드</td></tr><tr><th>규격</th><td>80 x 60 cm (단층 평면망)</td></tr><tr><th>신축 범위</th><td>권장 1.1배, 최대 1.5배</td></tr><tr><th>구성</th><td>그물망 1개 + D링 브라켓 4개 + 나사 4개</td></tr><tr><th>적용 차종</th><td>공용(SUV/세단 트렁크, 시트 사이)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>고탄력</span><span>브라켓 포함</span><span>차종 공용</span><span>SUV 대응</span></div>
+<div class="moq">최소 7개부터 주문 가능합니다. 60x40 / 70x50 / 100x60 등 다른 규격도 문의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 차량에 구멍을 뚫어야 하나요?</div><div class="a">A. 트렁크에 기본 고정고리가 있으면 후크만 걸어 사용합니다. 고리가 없을 때만 동봉 브라켓을 나사로 설치합니다.</div><div class="q">Q. 얼마나 무거운 짐까지 되나요?</div><div class="a">A. 가벼운 짐의 쏠림 방지용입니다. 무거운 물건을 고정하는 화물 고정 장비가 아니며, 주행 중 하중 지지 용도로 쓰지 마세요.</div><div class="q">Q. 규격 오차가 있나요?</div><div class="a">A. 수작업 측정으로 ±2cm 오차가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/689110527048.html 옵션 全高弹力单层平网80*60 CNY13 (표시 신인가 3.5 무시)]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078181443_ds_trunknet_1.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078181443_ds_trunknet_1.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078181443_ds_trunknet_1.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078183753_ds_trunknet_3.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078185385_ds_trunknet_5.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078187032_ds_trunknet_2.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078181443_ds_trunknet_1.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078183753_ds_trunknet_3.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078185385_ds_trunknet_5.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785078187032_ds_trunknet_2.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
