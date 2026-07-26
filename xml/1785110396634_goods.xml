@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[천연 소가죽 손바느질 핸들커버 38cm 공용 자동차 핸들 가죽커버]]></goodsNm>
+<purchaseGoodsNm><![CDATA[천연 소가죽 손바느질 핸들커버 38cm 공용 자동차 핸들 가죽커버]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_SWCOVER38]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[SWC-38L]]></goodsModelNo>
+<goodsSearchWord><![CDATA[핸들커버,가죽핸들커버,손바느질핸들커버,자동차용품,소가죽,38cm,차량인테리어]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5400]]></goodsPrice>
+<fixedPrice><![CDATA[5400]]></fixedPrice>
+<costPrice><![CDATA[4463]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[6]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[천연 소가죽 표층, 38cm 공용, 타공 통기, 전용 실·바늘 포함 손바느질 방식]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110357852_swcover_sw5.jpg" alt="천연 소가죽 손바느질 핸들커버<br>38cm 공용"></div>
+<div class="eyebrow">CAR INTERIOR</div>
+<div class="h1">천연 소가죽 손바느질 핸들커버<br>38cm 공용</div>
+<div class="sub">직접 꿰매 밀착시키는 통기 타공 가죽 핸들 커버 · 실과 바늘 포함</div>
+
+<div class="stat"><div><b>38cm</b><span>적용 핸들 지름</span></div><div><b>천연 소가죽</b><span>표층 소재</span></div><div><b>32색</b><span>타공·색상 조합</span></div></div>
+
+<div class="sec">
+<h2>천연 소가죽 표층, 타공 통기</h2>
+<p class="d">표층에 천연 소가죽을 사용해 손에 닿는 감촉이 부드럽고, 전면 타공(또는 중앙 타공) 가공으로 여름철 손 땀이 차는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110360902_swcover_sw6c.jpg" alt="천연 소가죽 표층, 타공 통기">
+</div>
+<div class="sec alt">
+<h2>직접 꿰매 흔들림 없이 밀착</h2>
+<p class="d">실과 바늘이 함께 들어 있어 핸들에 감고 한 땀씩 조여 꿰매면 미끄러지거나 헛도는 일이 없습니다. 기성 끼움식보다 밀착도가 높습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110364031_swcover_sw2c.jpg" alt="직접 꿰매 흔들림 없이 밀착">
+</div>
+<div class="sec">
+<h2>38cm 표준 핸들 공용</h2>
+<p class="d">국내 대부분 승용차에 쓰이는 지름 38cm 핸들에 맞는 공용 규격입니다. 차종별 전용 재단이 아니므로 별도 호환 확인이 필요 없습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110359377_swcover_sw1c.jpg" alt="38cm 표준 핸들 공용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>천연 소가죽 손바느질 핸들커버 38cm</td></tr><tr><th>표층 소재</th><td>천연 소가죽(두층 가죽)</td></tr><tr><th>적용 지름</th><td>38cm (표준 승용차 핸들)</td></tr><tr><th>타공 방식</th><td>전공(전면 타공) / 중공(중앙 타공) / 무공(민자)</td></tr><tr><th>색상</th><td>블랙(흑사·적사), 베이지, 그레이, 브라운, 커피, 와인, 레드, 다크그린, 네이비, 오렌지</td></tr><tr><th>구성</th><td>핸들커버 1개 + 전용 실 + 바늘</td></tr><tr><th>설치</th><td>직접 손바느질</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>천연 소가죽</span><span>타공 통기</span><span>실·바늘 포함</span><span>38cm 공용</span></div>
+<div class="moq">최소 구매 6개부터 / 색상·타공 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전기 부품이 있나요?</div><div class="a">A. 아니요. 열선·전원·배터리가 없는 순수 가죽 커버입니다.</div><div class="q">Q. 설치가 어렵나요?</div><div class="a">A. 한 땀씩 조여 꿰매는 방식이라 30~60분 정도 소요됩니다. 실과 바늘은 기본 제공됩니다.</div><div class="q">Q. 모든 차에 맞나요?</div><div class="a">A. 지름 38cm 표준 핸들 기준입니다. 핸들 두께가 매우 굵거나 D컷 형상인 경우 맞지 않을 수 있습니다.</div><div class="q">Q. 안전 관련 인증 대상인가요?</div><div class="a">A. 자동차 부품 인증 대상이 아닌 실내 액세서리입니다. 에어백 커버·조향 장치를 가리거나 눌리지 않도록 설치해 주세요.</div><div class="q">Q. 냄새가 나나요?</div><div class="a">A. 천연 가죽 특유의 냄새가 초기에 있을 수 있으며 통풍 시 사라집니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110357852_swcover_sw5.jpg" alt="천연 소가죽 손바느질 핸들커버<br>38cm 공용"></div>
+<div class="eyebrow">CAR INTERIOR</div>
+<div class="h1">천연 소가죽 손바느질 핸들커버<br>38cm 공용</div>
+<div class="sub">직접 꿰매 밀착시키는 통기 타공 가죽 핸들 커버 · 실과 바늘 포함</div>
+
+<div class="stat"><div><b>38cm</b><span>적용 핸들 지름</span></div><div><b>천연 소가죽</b><span>표층 소재</span></div><div><b>32색</b><span>타공·색상 조합</span></div></div>
+
+<div class="sec">
+<h2>천연 소가죽 표층, 타공 통기</h2>
+<p class="d">표층에 천연 소가죽을 사용해 손에 닿는 감촉이 부드럽고, 전면 타공(또는 중앙 타공) 가공으로 여름철 손 땀이 차는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110360902_swcover_sw6c.jpg" alt="천연 소가죽 표층, 타공 통기">
+</div>
+<div class="sec alt">
+<h2>직접 꿰매 흔들림 없이 밀착</h2>
+<p class="d">실과 바늘이 함께 들어 있어 핸들에 감고 한 땀씩 조여 꿰매면 미끄러지거나 헛도는 일이 없습니다. 기성 끼움식보다 밀착도가 높습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110364031_swcover_sw2c.jpg" alt="직접 꿰매 흔들림 없이 밀착">
+</div>
+<div class="sec">
+<h2>38cm 표준 핸들 공용</h2>
+<p class="d">국내 대부분 승용차에 쓰이는 지름 38cm 핸들에 맞는 공용 규격입니다. 차종별 전용 재단이 아니므로 별도 호환 확인이 필요 없습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110359377_swcover_sw1c.jpg" alt="38cm 표준 핸들 공용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>천연 소가죽 손바느질 핸들커버 38cm</td></tr><tr><th>표층 소재</th><td>천연 소가죽(두층 가죽)</td></tr><tr><th>적용 지름</th><td>38cm (표준 승용차 핸들)</td></tr><tr><th>타공 방식</th><td>전공(전면 타공) / 중공(중앙 타공) / 무공(민자)</td></tr><tr><th>색상</th><td>블랙(흑사·적사), 베이지, 그레이, 브라운, 커피, 와인, 레드, 다크그린, 네이비, 오렌지</td></tr><tr><th>구성</th><td>핸들커버 1개 + 전용 실 + 바늘</td></tr><tr><th>설치</th><td>직접 손바느질</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>천연 소가죽</span><span>타공 통기</span><span>실·바늘 포함</span><span>38cm 공용</span></div>
+<div class="moq">최소 구매 6개부터 / 색상·타공 혼합 주문 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전기 부품이 있나요?</div><div class="a">A. 아니요. 열선·전원·배터리가 없는 순수 가죽 커버입니다.</div><div class="q">Q. 설치가 어렵나요?</div><div class="a">A. 한 땀씩 조여 꿰매는 방식이라 30~60분 정도 소요됩니다. 실과 바늘은 기본 제공됩니다.</div><div class="q">Q. 모든 차에 맞나요?</div><div class="a">A. 지름 38cm 표준 핸들 기준입니다. 핸들 두께가 매우 굵거나 D컷 형상인 경우 맞지 않을 수 있습니다.</div><div class="q">Q. 안전 관련 인증 대상인가요?</div><div class="a">A. 자동차 부품 인증 대상이 아닌 실내 액세서리입니다. 에어백 커버·조향 장치를 가리거나 눌리지 않도록 설치해 주세요.</div><div class="q">Q. 냄새가 나나요?</div><div class="a">A. 천연 가죽 특유의 냄새가 초기에 있을 수 있으며 통풍 시 사라집니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/611371907599.html / 货号 SWC-38L / ¥15 단일가(38cm) / cbm0.004 / 색상 32옵션 동일가]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110357852_swcover_sw5.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110357852_swcover_sw5.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110357852_swcover_sw5.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110359377_swcover_sw1c.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110360902_swcover_sw6c.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110362581_swcover_sw7c.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110364031_swcover_sw2c.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110357852_swcover_sw5.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110359377_swcover_sw1c.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110360902_swcover_sw6c.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110362581_swcover_sw7c.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785110364031_swcover_sw2c.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
