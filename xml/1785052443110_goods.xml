@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[흡착식 접이식 쓰레기봉투 거치대 무타공]]></goodsNm>
+<purchaseGoodsNm><![CDATA[흡착식 접이식 쓰레기봉투 거치대 무타공]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_TRASHHOLD_M1708]]></goodsCd>
+<cateCd><![CDATA[073]]></cateCd>
+<allCateCd><![CDATA[073]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[M1708]]></goodsModelNo>
+<goodsSearchWord><![CDATA[쓰레기봉투걸이,비닐봉투거치대,주방정리,무타공걸이,싱크대걸이,접이식휴지통]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[3500]]></goodsPrice>
+<fixedPrice><![CDATA[3500]]></fixedPrice>
+<costPrice><![CDATA[2871]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[9]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[싱크대 문에 붙이는 접이식 봉투 거치대 · 무타공 진공 흡착 · 입구 22cm]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052435106_trashholder_i5.jpg" alt="흡착식 접이식 쓰레기봉투 거치대"></div>
+<div class="eyebrow">주방·생활잡화</div>
+<div class="h1">흡착식 접이식 쓰레기봉투 거치대</div>
+<div class="sub">싱크대 문에 붙이고 접었다 폈다 · 타공 없이 설치</div>
+
+<div class="stat"><div><b>220mm</b><span>펼침 폭</span></div><div><b>PET</b><span>투명 신소재</span></div><div><b>무타공</b><span>진공 흡착식</span></div></div>
+
+<div class="sec">
+<h2>문을 열고 닫아도 걸리지 않게 접힙니다</h2>
+<p class="d">양쪽 날개를 접으면 두께 62mm의 납작한 형태가 됩니다. 싱크대 문 안쪽에 붙여도 서랍이나 문 개폐에 방해가 되지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052436458_trashholder_i1.jpg" alt="문을 열고 닫아도 걸리지 않게 접힙니다">
+</div>
+<div class="sec alt">
+<h2>봉투를 걸기만 하면 끝</h2>
+<p class="d">마트 비닐봉투나 종량제 봉투를 양쪽 걸이에 끼우면 그대로 미니 휴지통이 됩니다. 손잡이 부분을 눌러 고정하는 방식이라 무게가 실려도 흘러내리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052438014_trashholder_i2.jpg" alt="봉투를 걸기만 하면 끝">
+</div>
+<div class="sec">
+<h2>입구가 22cm로 넓습니다</h2>
+<p class="d">펼친 폭 220mm로 봉투 입구가 활짝 벌어져 손으로 봉투를 벌리지 않아도 바로 버릴 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052439704_trashholder_i3.jpg" alt="입구가 22cm로 넓습니다">
+</div>
+<div class="sec alt">
+<h2>진공 흡착으로 타공 없이</h2>
+<p class="d">강력 진공 흡착판이 매끄러운 면에 밀착됩니다. 벽에 구멍을 뚫지 않아도 되고 필요할 때 떼어내 위치를 바꿀 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052441409_trashholder_c6.jpg" alt="진공 흡착으로 타공 없이">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>PET (신소재 100%)</td></tr><tr><th>색상</th><td>투명 블랙 / 투명</td></tr><tr><th>규격</th><td>220 × 153 × 62mm (펼친 상태)</td></tr><tr><th>중량</th><td>약 196g</td></tr><tr><th>설치 방식</th><td>진공 흡착 (무타공)</td></tr><tr><th>모델</th><td>M1708</td></tr><tr><th>박스 입수</th><td>64개</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>무타공 설치</span><span>접이식</span><span>PET 투명</span><span>22cm 광폭</span></div>
+<div class="moq">최소 주문 9개부터 / 박스 단위(64개) 주문 시 별도 단가 안내</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어디에 붙일 수 있나요?</div><div class="a">A. 타일, 유리, 도장된 싱크대 문 등 매끄럽고 평평한 면에 부착됩니다. 요철이 있는 벽지나 원목면에는 흡착이 약합니다.</div><div class="q">Q. 어떤 봉투가 맞나요?</div><div class="a">A. 일반 마트 비닐봉투부터 소형 종량제 봉투까지 손잡이가 있는 봉투면 사용 가능합니다.</div><div class="q">Q. 떼었다 다시 붙일 수 있나요?</div><div class="a">A. 흡착판 방식이라 위치 변경이 가능합니다. 재부착 시 부착면의 물기와 먼지를 닦아 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052435106_trashholder_i5.jpg" alt="흡착식 접이식 쓰레기봉투 거치대"></div>
+<div class="eyebrow">주방·생활잡화</div>
+<div class="h1">흡착식 접이식 쓰레기봉투 거치대</div>
+<div class="sub">싱크대 문에 붙이고 접었다 폈다 · 타공 없이 설치</div>
+
+<div class="stat"><div><b>220mm</b><span>펼침 폭</span></div><div><b>PET</b><span>투명 신소재</span></div><div><b>무타공</b><span>진공 흡착식</span></div></div>
+
+<div class="sec">
+<h2>문을 열고 닫아도 걸리지 않게 접힙니다</h2>
+<p class="d">양쪽 날개를 접으면 두께 62mm의 납작한 형태가 됩니다. 싱크대 문 안쪽에 붙여도 서랍이나 문 개폐에 방해가 되지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052436458_trashholder_i1.jpg" alt="문을 열고 닫아도 걸리지 않게 접힙니다">
+</div>
+<div class="sec alt">
+<h2>봉투를 걸기만 하면 끝</h2>
+<p class="d">마트 비닐봉투나 종량제 봉투를 양쪽 걸이에 끼우면 그대로 미니 휴지통이 됩니다. 손잡이 부분을 눌러 고정하는 방식이라 무게가 실려도 흘러내리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052438014_trashholder_i2.jpg" alt="봉투를 걸기만 하면 끝">
+</div>
+<div class="sec">
+<h2>입구가 22cm로 넓습니다</h2>
+<p class="d">펼친 폭 220mm로 봉투 입구가 활짝 벌어져 손으로 봉투를 벌리지 않아도 바로 버릴 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052439704_trashholder_i3.jpg" alt="입구가 22cm로 넓습니다">
+</div>
+<div class="sec alt">
+<h2>진공 흡착으로 타공 없이</h2>
+<p class="d">강력 진공 흡착판이 매끄러운 면에 밀착됩니다. 벽에 구멍을 뚫지 않아도 되고 필요할 때 떼어내 위치를 바꿀 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052441409_trashholder_c6.jpg" alt="진공 흡착으로 타공 없이">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>PET (신소재 100%)</td></tr><tr><th>색상</th><td>투명 블랙 / 투명</td></tr><tr><th>규격</th><td>220 × 153 × 62mm (펼친 상태)</td></tr><tr><th>중량</th><td>약 196g</td></tr><tr><th>설치 방식</th><td>진공 흡착 (무타공)</td></tr><tr><th>모델</th><td>M1708</td></tr><tr><th>박스 입수</th><td>64개</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>무타공 설치</span><span>접이식</span><span>PET 투명</span><span>22cm 광폭</span></div>
+<div class="moq">최소 주문 9개부터 / 박스 단위(64개) 주문 시 별도 단가 안내</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어디에 붙일 수 있나요?</div><div class="a">A. 타일, 유리, 도장된 싱크대 문 등 매끄럽고 평평한 면에 부착됩니다. 요철이 있는 벽지나 원목면에는 흡착이 약합니다.</div><div class="q">Q. 어떤 봉투가 맞나요?</div><div class="a">A. 일반 마트 비닐봉투부터 소형 종량제 봉투까지 손잡이가 있는 봉투면 사용 가능합니다.</div><div class="q">Q. 떼었다 다시 붙일 수 있나요?</div><div class="a">A. 흡착판 방식이라 위치 변경이 가능합니다. 재부착 시 부착면의 물기와 먼지를 닦아 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/845992170611.html / 货号 M1708 / CNY 10.20(투명블랙) / 이미지 10장중 5장 사용(i6은 하단 중국어 띠 크롭)]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052435106_trashholder_i5.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052435106_trashholder_i5.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052435106_trashholder_i5.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052436458_trashholder_i1.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052438014_trashholder_i2.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052439704_trashholder_i3.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052441409_trashholder_c6.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052435106_trashholder_i5.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052436458_trashholder_i1.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052438014_trashholder_i2.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052439704_trashholder_i3.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785052441409_trashholder_c6.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
