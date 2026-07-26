@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[현관 코일 매트 50x80 미끄럼방지 흙먼지 제거 입구매트]]></goodsNm>
+<purchaseGoodsNm><![CDATA[현관 코일 매트 50x80]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_COILMAT5080]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[952070238973]]></goodsModelNo>
+<goodsSearchWord><![CDATA[현관매트,코일매트,입구매트,흙먼지제거매트,현관발매트,상가입구매트]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5400]]></goodsPrice>
+<fixedPrice><![CDATA[5400]]></fixedPrice>
+<costPrice><![CDATA[4426]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[6]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[PVC 코일 구조로 신발의 흙·모래를 긁어내는 50x80 현관 매트. 가위 재단 가능.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074161961_dm1.jpg" alt="실링 현관 코일 매트 50x80"></div>
+<div class="eyebrow">ENTRANCE MAT</div>
+<div class="h1">실링 현관 코일 매트 50x80</div>
+<div class="sub">PVC 코일 구조로 신발 밑창의 모래·흙을 긁어내는 입구 전용 매트</div>
+
+<div class="stat"><div><b>50×80cm</b><span>표준 현관 사이즈</span></div><div><b>PVC 코일</b><span>이중 루프 구조</span></div><div><b>가위 재단</b><span>공간 맞춤 가능</span></div></div>
+
+<div class="sec">
+<h2>모래·흙을 잡아두는 코일 구조</h2>
+<p class="d">촘촘한 PVC 루프가 신발 밑창의 이물질을 긁어내 실내로 들어오는 먼지를 줄여줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074164032_dm5.jpg" alt="모래·흙을 잡아두는 코일 구조">
+</div>
+<div class="sec alt">
+<h2>기하학 웨이브 패턴</h2>
+<p class="d">단색 톤온톤 웨이브 패턴으로 현관·상가 입구 어디에도 어울리는 디자인입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074166044_dm6.jpg" alt="기하학 웨이브 패턴">
+</div>
+<div class="sec">
+<h2>물세척 후 바로 건조</h2>
+<p class="d">물로 헹구고 털어내면 이물질이 빠져나가며, 통기 구조라 빠르게 마릅니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074168146_dm8.jpg" alt="물세척 후 바로 건조">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>현관 코일 매트 50x80</td></tr><tr><th>소재</th><td>PVC 코일 + PVC 백킹</td></tr><tr><th>규격</th><td>가로 50cm × 세로 80cm</td></tr><tr><th>컬러</th><td>그레이 / 카키 / 블루 / 그린</td></tr><tr><th>두께</th><td>약 8mm</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>사용처</th><td>현관·베란다·상가 입구·사무실 출입구</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용가</span><span>혼합 발주 가능</span><span>재고 상시 보유</span></div>
+<div class="moq">최소 구매 6개부터 / 컬러 혼합 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 바닥 사이즈에 맞게 자를 수 있나요?</div><div class="a">A. 네. PVC 코일 매트라 가위나 커터로 재단이 가능합니다. 재단면이 풀리지 않는 구조입니다.</div><div class="q">Q. 실외에서도 쓸 수 있나요?</div><div class="a">A. 방수 PVC 소재로 처마 아래 실외 입구에 사용 가능합니다. 다만 직사광선에 장기간 노출되면 변색될 수 있습니다.</div><div class="q">Q. 세탁기에 돌려도 되나요?</div><div class="a">A. 세탁기 사용은 권장하지 않습니다. 물로 헹군 뒤 털어 그늘에서 말려주세요.</div><div class="q">Q. 식품이 닿는 곳에 사용해도 되나요?</div><div class="a">A. 본 제품은 바닥용 매트로, 식품과 직접 접촉하는 용도가 아닙니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074161961_dm1.jpg" alt="실링 현관 코일 매트 50x80"></div>
+<div class="eyebrow">ENTRANCE MAT</div>
+<div class="h1">실링 현관 코일 매트 50x80</div>
+<div class="sub">PVC 코일 구조로 신발 밑창의 모래·흙을 긁어내는 입구 전용 매트</div>
+
+<div class="stat"><div><b>50×80cm</b><span>표준 현관 사이즈</span></div><div><b>PVC 코일</b><span>이중 루프 구조</span></div><div><b>가위 재단</b><span>공간 맞춤 가능</span></div></div>
+
+<div class="sec">
+<h2>모래·흙을 잡아두는 코일 구조</h2>
+<p class="d">촘촘한 PVC 루프가 신발 밑창의 이물질을 긁어내 실내로 들어오는 먼지를 줄여줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074164032_dm5.jpg" alt="모래·흙을 잡아두는 코일 구조">
+</div>
+<div class="sec alt">
+<h2>기하학 웨이브 패턴</h2>
+<p class="d">단색 톤온톤 웨이브 패턴으로 현관·상가 입구 어디에도 어울리는 디자인입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074166044_dm6.jpg" alt="기하학 웨이브 패턴">
+</div>
+<div class="sec">
+<h2>물세척 후 바로 건조</h2>
+<p class="d">물로 헹구고 털어내면 이물질이 빠져나가며, 통기 구조라 빠르게 마릅니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074168146_dm8.jpg" alt="물세척 후 바로 건조">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>현관 코일 매트 50x80</td></tr><tr><th>소재</th><td>PVC 코일 + PVC 백킹</td></tr><tr><th>규격</th><td>가로 50cm × 세로 80cm</td></tr><tr><th>컬러</th><td>그레이 / 카키 / 블루 / 그린</td></tr><tr><th>두께</th><td>약 8mm</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>사용처</th><td>현관·베란다·상가 입구·사무실 출입구</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용가</span><span>혼합 발주 가능</span><span>재고 상시 보유</span></div>
+<div class="moq">최소 구매 6개부터 / 컬러 혼합 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 바닥 사이즈에 맞게 자를 수 있나요?</div><div class="a">A. 네. PVC 코일 매트라 가위나 커터로 재단이 가능합니다. 재단면이 풀리지 않는 구조입니다.</div><div class="q">Q. 실외에서도 쓸 수 있나요?</div><div class="a">A. 방수 PVC 소재로 처마 아래 실외 입구에 사용 가능합니다. 다만 직사광선에 장기간 노출되면 변색될 수 있습니다.</div><div class="q">Q. 세탁기에 돌려도 되나요?</div><div class="a">A. 세탁기 사용은 권장하지 않습니다. 물로 헹군 뒤 털어 그늘에서 말려주세요.</div><div class="q">Q. 식품이 닿는 곳에 사용해도 되나요?</div><div class="a">A. 본 제품은 바닥용 매트로, 식품과 직접 접촉하는 용도가 아닙니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/952070238973.html 货号 952070238973 / 50*80CM ¥14 (표시 신인가 ¥7.00은 최저옵션 40*60 기준) / cbm 0.006]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074161961_dm1.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074161961_dm1.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074161961_dm1.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785074161961_dm1.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
