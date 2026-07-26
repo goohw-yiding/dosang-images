@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[[도매] 침대 밑 슬림 수납박스 61×40×14cm 이동식 4륜 분할뚜껑 언더베드 수납함]]></goodsNm>
+<purchaseGoodsNm><![CDATA[침대밑 슬림 수납박스 61x40x14]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_BEDBOX61]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-BEDBOX-61]]></goodsModelNo>
+<goodsSearchWord><![CDATA[침대밑수납,언더베드수납,슬림수납박스,이동식수납함,이불수납,계절의류수납,도매]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[13700]]></goodsPrice>
+<fixedPrice><![CDATA[13700]]></fixedPrice>
+<costPrice><![CDATA[11404]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[3]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[높이 14cm 초슬림 · 4륜 이동식 · 좌우 분할 뚜껑으로 침대 밑 데드스페이스를 수납장으로]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063091845_ds_bedbox_a.jpg" alt="침대 밑 슬림 수납박스<br>버려지던 공간을 창고로"></div>
+<div class="eyebrow">UNDER-BED STORAGE</div>
+<div class="h1">침대 밑 슬림 수납박스<br>버려지던 공간을 창고로</div>
+<div class="sub">높이 14cm 초슬림 · 4바퀴 이동식 · 이중 개별 뚜껑</div>
+
+<div class="stat"><div><b>14cm</b><span>초슬림 높이</span></div><div><b>61×40cm</b><span>넉넉한 수용량</span></div><div><b>4륜</b><span>부드러운 이동</span></div></div>
+
+<div class="sec">
+<h2>침대 밑 데드스페이스를 그대로 수납장으로</h2>
+<p class="d">높이 14cm 초슬림 설계로 대부분의 침대·소파 하부에 그대로 들어갑니다. 계절 의류, 이불, 아이 장난감을 눈에 보이지 않게 정리하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063091845_ds_bedbox_a.jpg" alt="침대 밑 데드스페이스를 그대로 수납장으로">
+</div>
+<div class="sec alt">
+<h2>반반 개별 뚜껑, 꺼낼 때 다 열지 않아도 됩니다</h2>
+<p class="d">뚜껑이 좌우로 나뉘어 필요한 쪽만 열 수 있습니다. 무거운 짐을 위에 올려둔 상태에서도 한쪽만 열어 물건을 꺼낼 수 있어 실사용 편의성이 높습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063093203_ds_bedbox_b.jpg" alt="반반 개별 뚜껑, 꺼낼 때 다 열지 않아도 됩니다">
+</div>
+<div class="sec">
+<h2>적재 하중을 견디는 두툼한 PP 신소재</h2>
+<p class="d">100% PP 신소재를 사용해 여러 단을 겹쳐 쌓아도 눌리지 않습니다. 방진·방습 구조라 장기 보관에도 안심하고 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063095076_ds_bedbox_c.jpg" alt="적재 하중을 견디는 두툼한 PP 신소재">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>침대 밑 슬림 수납박스</td></tr><tr><th>소재</th><td>PP (100% 신소재)</td></tr><tr><th>사이즈</th><td>약 61 × 40 × 14 cm</td></tr><tr><th>구성</th><td>본체 + 분할 뚜껑 + 바퀴 4개</td></tr><tr><th>컬러</th><td>그린 / 그레이 / 옐로우 / 핑크 (입고분 랜덤 또는 협의)</td></tr><tr><th>특징</th><td>초슬림 / 이동식 바퀴 / 분할 개폐 / 적재 가능</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>식품 보관용이 아닙니다. 의류·잡화·완구 수납 전용입니다.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 도매 전용</span><span>혼합 컬러 가능</span><span>대량 발주 견적</span></div>
+<div class="moq">최소구매수량 3개부터 도매가 적용</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 침대 높이가 낮아도 들어갈까요?</div><div class="a">A. 박스 총 높이가 14cm(바퀴 포함)입니다. 침대 프레임 하부 여유가 16cm 이상이면 여유 있게 들어갑니다.</div><div class="q">Q. 바퀴 없는 버전도 가능한가요?</div><div class="a">A. 동일 금형의 무바퀴 소형(41×30×11cm) 사양도 발주 가능합니다. 수량 협의 시 문의해 주세요.</div><div class="q">Q. 식품이나 반려동물 사료를 담아도 되나요?</div><div class="a">A. 본 제품은 식품 접촉용으로 신고되지 않았습니다. 의류·침구·잡화 등 비식품 수납으로만 사용해 주세요.</div><div class="q">Q. 대량 주문 리드타임은?</div><div class="a">A. 재고 상황에 따라 다르며, 통상 발주 후 3~4주 내 국내 입고됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063091845_ds_bedbox_a.jpg" alt="침대 밑 슬림 수납박스<br>버려지던 공간을 창고로"></div>
+<div class="eyebrow">UNDER-BED STORAGE</div>
+<div class="h1">침대 밑 슬림 수납박스<br>버려지던 공간을 창고로</div>
+<div class="sub">높이 14cm 초슬림 · 4바퀴 이동식 · 이중 개별 뚜껑</div>
+
+<div class="stat"><div><b>14cm</b><span>초슬림 높이</span></div><div><b>61×40cm</b><span>넉넉한 수용량</span></div><div><b>4륜</b><span>부드러운 이동</span></div></div>
+
+<div class="sec">
+<h2>침대 밑 데드스페이스를 그대로 수납장으로</h2>
+<p class="d">높이 14cm 초슬림 설계로 대부분의 침대·소파 하부에 그대로 들어갑니다. 계절 의류, 이불, 아이 장난감을 눈에 보이지 않게 정리하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063091845_ds_bedbox_a.jpg" alt="침대 밑 데드스페이스를 그대로 수납장으로">
+</div>
+<div class="sec alt">
+<h2>반반 개별 뚜껑, 꺼낼 때 다 열지 않아도 됩니다</h2>
+<p class="d">뚜껑이 좌우로 나뉘어 필요한 쪽만 열 수 있습니다. 무거운 짐을 위에 올려둔 상태에서도 한쪽만 열어 물건을 꺼낼 수 있어 실사용 편의성이 높습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063093203_ds_bedbox_b.jpg" alt="반반 개별 뚜껑, 꺼낼 때 다 열지 않아도 됩니다">
+</div>
+<div class="sec">
+<h2>적재 하중을 견디는 두툼한 PP 신소재</h2>
+<p class="d">100% PP 신소재를 사용해 여러 단을 겹쳐 쌓아도 눌리지 않습니다. 방진·방습 구조라 장기 보관에도 안심하고 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063095076_ds_bedbox_c.jpg" alt="적재 하중을 견디는 두툼한 PP 신소재">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>제품명</th><td>침대 밑 슬림 수납박스</td></tr><tr><th>소재</th><td>PP (100% 신소재)</td></tr><tr><th>사이즈</th><td>약 61 × 40 × 14 cm</td></tr><tr><th>구성</th><td>본체 + 분할 뚜껑 + 바퀴 4개</td></tr><tr><th>컬러</th><td>그린 / 그레이 / 옐로우 / 핑크 (입고분 랜덤 또는 협의)</td></tr><tr><th>특징</th><td>초슬림 / 이동식 바퀴 / 분할 개폐 / 적재 가능</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>식품 보관용이 아닙니다. 의류·잡화·완구 수납 전용입니다.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 도매 전용</span><span>혼합 컬러 가능</span><span>대량 발주 견적</span></div>
+<div class="moq">최소구매수량 3개부터 도매가 적용</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 침대 높이가 낮아도 들어갈까요?</div><div class="a">A. 박스 총 높이가 14cm(바퀴 포함)입니다. 침대 프레임 하부 여유가 16cm 이상이면 여유 있게 들어갑니다.</div><div class="q">Q. 바퀴 없는 버전도 가능한가요?</div><div class="a">A. 동일 금형의 무바퀴 소형(41×30×11cm) 사양도 발주 가능합니다. 수량 협의 시 문의해 주세요.</div><div class="q">Q. 식품이나 반려동물 사료를 담아도 되나요?</div><div class="a">A. 본 제품은 식품 접촉용으로 신고되지 않았습니다. 의류·침구·잡화 등 비식품 수납으로만 사용해 주세요.</div><div class="q">Q. 대량 주문 리드타임은?</div><div class="a">A. 재고 상황에 따라 다르며, 통상 발주 후 3~4주 내 국내 입고됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/677158434445.html / 货号 HQ / 옵션 单开盖 61*40*14cm 4滑轮 기준 ¥28 적용(표시 ¥14.43~, 대형옵션 보수적 반영) / cbm 0.0342]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063091845_ds_bedbox_a.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063091845_ds_bedbox_a.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785063091845_ds_bedbox_a.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[h]]></detailImageData>
+<detailImageData idx="2"><![CDATA[t]]></detailImageData>
+<detailImageData idx="3"><![CDATA[t]]></detailImageData>
+<detailImageData idx="4"><![CDATA[p]]></detailImageData>
+<detailImageData idx="5"><![CDATA[s]]></detailImageData>
+<detailImageData idx="6"><![CDATA[:]]></detailImageData>
+<detailImageData idx="7"><![CDATA[/]]></detailImageData>
+<detailImageData idx="8"><![CDATA[/]]></detailImageData>
+<detailImageData idx="9"><![CDATA[r]]></detailImageData>
+<detailImageData idx="10"><![CDATA[a]]></detailImageData>
+<detailImageData idx="11"><![CDATA[w]]></detailImageData>
+<detailImageData idx="12"><![CDATA[.]]></detailImageData>
+<detailImageData idx="13"><![CDATA[g]]></detailImageData>
+<detailImageData idx="14"><![CDATA[i]]></detailImageData>
+<detailImageData idx="15"><![CDATA[t]]></detailImageData>
+<detailImageData idx="16"><![CDATA[h]]></detailImageData>
+<detailImageData idx="17"><![CDATA[u]]></detailImageData>
+<detailImageData idx="18"><![CDATA[b]]></detailImageData>
+<detailImageData idx="19"><![CDATA[u]]></detailImageData>
+<detailImageData idx="20"><![CDATA[s]]></detailImageData>
+<detailImageData idx="21"><![CDATA[e]]></detailImageData>
+<detailImageData idx="22"><![CDATA[r]]></detailImageData>
+<detailImageData idx="23"><![CDATA[c]]></detailImageData>
+<detailImageData idx="24"><![CDATA[o]]></detailImageData>
+<detailImageData idx="25"><![CDATA[n]]></detailImageData>
+<detailImageData idx="26"><![CDATA[t]]></detailImageData>
+<detailImageData idx="27"><![CDATA[e]]></detailImageData>
+<detailImageData idx="28"><![CDATA[n]]></detailImageData>
+<detailImageData idx="29"><![CDATA[t]]></detailImageData>
+<detailImageData idx="30"><![CDATA[.]]></detailImageData>
+<detailImageData idx="31"><![CDATA[c]]></detailImageData>
+<detailImageData idx="32"><![CDATA[o]]></detailImageData>
+<detailImageData idx="33"><![CDATA[m]]></detailImageData>
+<detailImageData idx="34"><![CDATA[/]]></detailImageData>
+<detailImageData idx="35"><![CDATA[g]]></detailImageData>
+<detailImageData idx="36"><![CDATA[o]]></detailImageData>
+<detailImageData idx="37"><![CDATA[o]]></detailImageData>
+<detailImageData idx="38"><![CDATA[h]]></detailImageData>
+<detailImageData idx="39"><![CDATA[w]]></detailImageData>
+<detailImageData idx="40"><![CDATA[-]]></detailImageData>
+<detailImageData idx="41"><![CDATA[y]]></detailImageData>
+<detailImageData idx="42"><![CDATA[i]]></detailImageData>
+<detailImageData idx="43"><![CDATA[d]]></detailImageData>
+<detailImageData idx="44"><![CDATA[i]]></detailImageData>
+<detailImageData idx="45"><![CDATA[n]]></detailImageData>
+<detailImageData idx="46"><![CDATA[g]]></detailImageData>
+<detailImageData idx="47"><![CDATA[/]]></detailImageData>
+<detailImageData idx="48"><![CDATA[d]]></detailImageData>
+<detailImageData idx="49"><![CDATA[o]]></detailImageData>
+<detailImageData idx="50"><![CDATA[s]]></detailImageData>
+<detailImageData idx="51"><![CDATA[a]]></detailImageData>
+<detailImageData idx="52"><![CDATA[n]]></detailImageData>
+<detailImageData idx="53"><![CDATA[g]]></detailImageData>
+<detailImageData idx="54"><![CDATA[-]]></detailImageData>
+<detailImageData idx="55"><![CDATA[i]]></detailImageData>
+<detailImageData idx="56"><![CDATA[m]]></detailImageData>
+<detailImageData idx="57"><![CDATA[a]]></detailImageData>
+<detailImageData idx="58"><![CDATA[g]]></detailImageData>
+<detailImageData idx="59"><![CDATA[e]]></detailImageData>
+<detailImageData idx="60"><![CDATA[s]]></detailImageData>
+<detailImageData idx="61"><![CDATA[/]]></detailImageData>
+<detailImageData idx="62"><![CDATA[m]]></detailImageData>
+<detailImageData idx="63"><![CDATA[a]]></detailImageData>
+<detailImageData idx="64"><![CDATA[i]]></detailImageData>
+<detailImageData idx="65"><![CDATA[n]]></detailImageData>
+<detailImageData idx="66"><![CDATA[/]]></detailImageData>
+<detailImageData idx="67"><![CDATA[u]]></detailImageData>
+<detailImageData idx="68"><![CDATA[p]]></detailImageData>
+<detailImageData idx="69"><![CDATA[l]]></detailImageData>
+<detailImageData idx="70"><![CDATA[o]]></detailImageData>
+<detailImageData idx="71"><![CDATA[a]]></detailImageData>
+<detailImageData idx="72"><![CDATA[d]]></detailImageData>
+<detailImageData idx="73"><![CDATA[s]]></detailImageData>
+<detailImageData idx="74"><![CDATA[/]]></detailImageData>
+<detailImageData idx="75"><![CDATA[1]]></detailImageData>
+<detailImageData idx="76"><![CDATA[7]]></detailImageData>
+<detailImageData idx="77"><![CDATA[8]]></detailImageData>
+<detailImageData idx="78"><![CDATA[5]]></detailImageData>
+<detailImageData idx="79"><![CDATA[0]]></detailImageData>
+<detailImageData idx="80"><![CDATA[6]]></detailImageData>
+<detailImageData idx="81"><![CDATA[3]]></detailImageData>
+<detailImageData idx="82"><![CDATA[0]]></detailImageData>
+<detailImageData idx="83"><![CDATA[9]]></detailImageData>
+<detailImageData idx="84"><![CDATA[1]]></detailImageData>
+<detailImageData idx="85"><![CDATA[8]]></detailImageData>
+<detailImageData idx="86"><![CDATA[4]]></detailImageData>
+<detailImageData idx="87"><![CDATA[5]]></detailImageData>
+<detailImageData idx="88"><![CDATA[_]]></detailImageData>
+<detailImageData idx="89"><![CDATA[d]]></detailImageData>
+<detailImageData idx="90"><![CDATA[s]]></detailImageData>
+<detailImageData idx="91"><![CDATA[_]]></detailImageData>
+<detailImageData idx="92"><![CDATA[b]]></detailImageData>
+<detailImageData idx="93"><![CDATA[e]]></detailImageData>
+<detailImageData idx="94"><![CDATA[d]]></detailImageData>
+<detailImageData idx="95"><![CDATA[b]]></detailImageData>
+<detailImageData idx="96"><![CDATA[o]]></detailImageData>
+<detailImageData idx="97"><![CDATA[x]]></detailImageData>
+<detailImageData idx="98"><![CDATA[_]]></detailImageData>
+<detailImageData idx="99"><![CDATA[a]]></detailImageData>
+<detailImageData idx="100"><![CDATA[.]]></detailImageData>
+<detailImageData idx="101"><![CDATA[j]]></detailImageData>
+<detailImageData idx="102"><![CDATA[p]]></detailImageData>
+<detailImageData idx="103"><![CDATA[g]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
