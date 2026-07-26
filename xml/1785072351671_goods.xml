@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[기모 안감 롱 고무장갑 51cm 주방 설거지 청소장갑]]></goodsNm>
+<purchaseGoodsNm><![CDATA[家务手套干活洗碗加长家用清洁防水厨房手套橡胶 加厚耐用 (贴绒/加长)]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LONGGLOVE_51]]></goodsCd>
+<cateCd><![CDATA[073]]></cateCd>
+<allCateCd><![CDATA[073]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[LG-51F]]></goodsModelNo>
+<goodsSearchWord><![CDATA[고무장갑,롱고무장갑,설거지장갑,청소장갑,기모장갑,주방장갑,생활잡화]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2100]]></goodsPrice>
+<fixedPrice><![CDATA[2100]]></fixedPrice>
+<costPrice><![CDATA[1720]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[15]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[팔꿈치까지 덮는 51cm 롱 기장 + 기모 안감 고무장갑. 설거지·청소·빨래 겸용.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072345824_longglove51_main.jpg" alt="기모 안감 롱 고무장갑 51cm"></div>
+<div class="eyebrow">주방·청소 · 롱 고무장갑 51cm</div>
+<div class="h1">기모 안감 롱 고무장갑 51cm</div>
+<div class="sub">팔꿈치까지 덮는 51cm 긴 기장에 안쪽은 기모 안감. 설거지·청소·빨래까지 물이 흘러들지 않습니다.</div>
+
+<div class="stat"><div><b>51cm</b><span>총 길이</span></div><div><b>기모</b><span>안감 처리</span></div><div><b>4色</b><span>컬러 구성</span></div></div>
+
+<div class="sec">
+<h2>팔꿈치까지 덮는 51cm</h2>
+<p class="d">일반 고무장갑보다 훨씬 긴 기장으로, 싱크대에 팔을 담가도 소매가 젖지 않습니다. 끝단은 조임 처리로 물이 흘러들지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072347280_longglove51_d1.jpg" alt="팔꿈치까지 덮는 51cm">
+</div>
+<div class="sec alt">
+<h2>기모 안감으로 착용감 개선</h2>
+<p class="d">안쪽에 부드러운 기모를 붙여 겨울철 찬물 작업에도 손이 시리지 않고, 벗을 때 달라붙지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072348753_longglove51_d2.jpg" alt="기모 안감으로 착용감 개선">
+</div>
+<div class="sec">
+<h2>숏 기장도 함께 운영</h2>
+<p class="d">같은 디자인의 34cm 숏 기장 옵션도 있어 용도별로 함께 진열하기 좋습니다. 걸어 보관할 수 있는 고리가 달려 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072350409_longglove51_d3.jpg" alt="숏 기장도 함께 운영">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>기모 안감 롱 고무장갑 51cm (1双 = 1켤레)</td></tr><tr><th>총 길이</th><td>약 51cm (숏 기장 옵션 약 34cm)</td></tr><tr><th>소재</th><td>고무(라텍스) + 기모 안감</td></tr><tr><th>컬러</th><td>그린 / 퍼플 / 옐로우 / 브라운</td></tr><tr><th>구성</th><td>1켤레 단위</td></tr><tr><th>특징</th><td>조임 끝단, 걸이 고리, 논슬립 손바닥 엠보</td></tr><tr><th>용도</th><td>설거지·청소·빨래·욕실 청소</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>51cm 롱기장</span><span>기모 안감</span><span>논슬립 엠보</span><span>걸이 고리</span><span>4색 구성</span></div>
+<div class="moq">최소 구매수량 15켤레 (도매 전용)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 컬러와 기장을 섞어 주문할 수 있나요?</div><div class="a">A. 가능합니다. 총 수량이 최소 구매수량을 넘으면 컬러·기장 구성을 자유롭게 지정해 주세요.</div><div class="q">Q. 사이즈가 하나뿐인가요?</div><div class="a">A. 프리 사이즈(M 상당) 단일 규격입니다. 손이 큰 남성분께는 다소 작을 수 있습니다.</div><div class="q">Q. 식품을 직접 만지는 용도로 써도 되나요?</div><div class="a">A. 이 상품은 설거지·청소용 고무장갑입니다. 식품을 직접 취급하는 용도로는 별도의 식품용 위생장갑을 사용해 주세요.</div><div class="q">Q. 뜨거운 물에도 쓸 수 있나요?</div><div class="a">A. 일반 온수에는 문제없지만 끓는 물이나 강한 유기용제에는 사용하지 마세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072345824_longglove51_main.jpg" alt="기모 안감 롱 고무장갑 51cm"></div>
+<div class="eyebrow">주방·청소 · 롱 고무장갑 51cm</div>
+<div class="h1">기모 안감 롱 고무장갑 51cm</div>
+<div class="sub">팔꿈치까지 덮는 51cm 긴 기장에 안쪽은 기모 안감. 설거지·청소·빨래까지 물이 흘러들지 않습니다.</div>
+
+<div class="stat"><div><b>51cm</b><span>총 길이</span></div><div><b>기모</b><span>안감 처리</span></div><div><b>4色</b><span>컬러 구성</span></div></div>
+
+<div class="sec">
+<h2>팔꿈치까지 덮는 51cm</h2>
+<p class="d">일반 고무장갑보다 훨씬 긴 기장으로, 싱크대에 팔을 담가도 소매가 젖지 않습니다. 끝단은 조임 처리로 물이 흘러들지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072347280_longglove51_d1.jpg" alt="팔꿈치까지 덮는 51cm">
+</div>
+<div class="sec alt">
+<h2>기모 안감으로 착용감 개선</h2>
+<p class="d">안쪽에 부드러운 기모를 붙여 겨울철 찬물 작업에도 손이 시리지 않고, 벗을 때 달라붙지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072348753_longglove51_d2.jpg" alt="기모 안감으로 착용감 개선">
+</div>
+<div class="sec">
+<h2>숏 기장도 함께 운영</h2>
+<p class="d">같은 디자인의 34cm 숏 기장 옵션도 있어 용도별로 함께 진열하기 좋습니다. 걸어 보관할 수 있는 고리가 달려 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072350409_longglove51_d3.jpg" alt="숏 기장도 함께 운영">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>기모 안감 롱 고무장갑 51cm (1双 = 1켤레)</td></tr><tr><th>총 길이</th><td>약 51cm (숏 기장 옵션 약 34cm)</td></tr><tr><th>소재</th><td>고무(라텍스) + 기모 안감</td></tr><tr><th>컬러</th><td>그린 / 퍼플 / 옐로우 / 브라운</td></tr><tr><th>구성</th><td>1켤레 단위</td></tr><tr><th>특징</th><td>조임 끝단, 걸이 고리, 논슬립 손바닥 엠보</td></tr><tr><th>용도</th><td>설거지·청소·빨래·욕실 청소</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>51cm 롱기장</span><span>기모 안감</span><span>논슬립 엠보</span><span>걸이 고리</span><span>4색 구성</span></div>
+<div class="moq">최소 구매수량 15켤레 (도매 전용)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 컬러와 기장을 섞어 주문할 수 있나요?</div><div class="a">A. 가능합니다. 총 수량이 최소 구매수량을 넘으면 컬러·기장 구성을 자유롭게 지정해 주세요.</div><div class="q">Q. 사이즈가 하나뿐인가요?</div><div class="a">A. 프리 사이즈(M 상당) 단일 규격입니다. 손이 큰 남성분께는 다소 작을 수 있습니다.</div><div class="q">Q. 식품을 직접 만지는 용도로 써도 되나요?</div><div class="a">A. 이 상품은 설거지·청소용 고무장갑입니다. 식품을 직접 취급하는 용도로는 별도의 식품용 위생장갑을 사용해 주세요.</div><div class="q">Q. 뜨거운 물에도 쓸 수 있나요?</div><div class="a">A. 일반 온수에는 문제없지만 끓는 물이나 강한 유기용제에는 사용하지 마세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688: https://detail.1688.com/offer/1057632305977.html / 货号 미표기 / 옵션 贴绒 CNY5.8 (单层 4.36, 표시 신인가 2.20) / cbm 0.0015 / landed 1720]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072345824_longglove51_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072345824_longglove51_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072345824_longglove51_main.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072347280_longglove51_d1.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072348753_longglove51_d2.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785072350409_longglove51_d3.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
