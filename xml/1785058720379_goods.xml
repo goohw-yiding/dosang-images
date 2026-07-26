@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[차량용 시트백 수납포켓 접이식 트레이형 뒷좌석 정리함]]></goodsNm>
+<purchaseGoodsNm><![CDATA[차량 시트백 수납포켓 트레이형]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CARBACK_TRAY45]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[8199]]></goodsModelNo>
+<goodsSearchWord><![CDATA[차량수납,시트백포켓,차량정리함,뒷좌석수납,차량테이블,카시트포켓]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[7900]]></goodsPrice>
+<fixedPrice><![CDATA[7900]]></fixedPrice>
+<costPrice><![CDATA[6560]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[4]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[접이식 트레이가 달린 차량 시트백 수납포켓. 4점 고정, 방수 PU 나파 레더.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg" alt="접이식 테이블형<br>차량 시트백 수납포켓"></div>
+<div class="eyebrow">CAR SEAT BACK ORGANIZER</div>
+<div class="h1">접이식 테이블형<br>차량 시트백 수납포켓</div>
+<div class="sub">PU 나파 레더 · 4점 고정 · 태블릿 거치 + 트레이 겸용</div>
+
+<div class="stat"><div><b>4점</b><span>상하 고정 밴드</span></div><div><b>트레이</b><span>접이식 테이블</span></div><div><b>45×30cm</b><span>펼침 사이즈</span></div></div>
+
+<div class="sec">
+<h2>접으면 수납, 펴면 테이블</h2>
+<p class="d">상단 트레이를 내리면 노트북·태블릿을 올려 쓸 수 있는 간이 테이블이 됩니다. 사용하지 않을 때는 접어 두면 얇은 시트백 커버가 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg" alt="접으면 수납, 펴면 테이블">
+</div>
+<div class="sec alt">
+<h2>뒷좌석 정리 한 번에</h2>
+<p class="d">물병·우산·티슈·젖병·태블릿까지 구획별로 나눠 담습니다. 뒷좌석 아이 짐이 바닥에 굴러다니지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058689248_carback_use.jpg" alt="뒷좌석 정리 한 번에">
+</div>
+<div class="sec">
+<h2>상하 4점 고정</h2>
+<p class="d">헤드레스트와 시트 하단을 함께 잡아 주행 중 흔들림이 적습니다. 대부분의 승용차·SUV 시트에 호환됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058690723_carback_use2.jpg" alt="상하 4점 고정">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>PU 나파 레더 + 메쉬</td></tr><tr><th>컬러</th><td>블랙 / 커피 / 그레이</td></tr><tr><th>사이즈</th><td>약 45 × 30cm (트레이 장착형)</td></tr><tr><th>중량</th><td>약 750g</td></tr><tr><th>고정방식</th><td>헤드레스트 + 하단 밴드 4점</td></tr><tr><th>기능</th><td>방수 표면, 접이식 트레이, 태블릿 포켓</td></tr><tr><th>호환</th><td>승용차·SUV 범용</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>4점 고정</span><span>접이식 트레이</span><span>방수 PU</span><span>컬러 3종</span></div>
+<div class="moq">최소 구매수량 4개부터 · 컬러 혼합 발주 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 모든 차량에 맞나요?</div><div class="a">A. 헤드레스트가 분리되는 일반 승용차·SUV에 범용으로 맞습니다. 일체형 시트 차량은 장착이 어렵습니다.</div><div class="q">Q. 트레이에 무게를 얼마나 올릴 수 있나요?</div><div class="a">A. 노트북·태블릿·간단한 음료 수준(약 2kg 이내)을 권장합니다.</div><div class="q">Q. 컬러 혼합 발주 되나요?</div><div class="a">A. 가능합니다. 블랙/커피/그레이를 총 수량 기준으로 섞어 주문하실 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg" alt="접이식 테이블형<br>차량 시트백 수납포켓"></div>
+<div class="eyebrow">CAR SEAT BACK ORGANIZER</div>
+<div class="h1">접이식 테이블형<br>차량 시트백 수납포켓</div>
+<div class="sub">PU 나파 레더 · 4점 고정 · 태블릿 거치 + 트레이 겸용</div>
+
+<div class="stat"><div><b>4점</b><span>상하 고정 밴드</span></div><div><b>트레이</b><span>접이식 테이블</span></div><div><b>45×30cm</b><span>펼침 사이즈</span></div></div>
+
+<div class="sec">
+<h2>접으면 수납, 펴면 테이블</h2>
+<p class="d">상단 트레이를 내리면 노트북·태블릿을 올려 쓸 수 있는 간이 테이블이 됩니다. 사용하지 않을 때는 접어 두면 얇은 시트백 커버가 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg" alt="접으면 수납, 펴면 테이블">
+</div>
+<div class="sec alt">
+<h2>뒷좌석 정리 한 번에</h2>
+<p class="d">물병·우산·티슈·젖병·태블릿까지 구획별로 나눠 담습니다. 뒷좌석 아이 짐이 바닥에 굴러다니지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058689248_carback_use.jpg" alt="뒷좌석 정리 한 번에">
+</div>
+<div class="sec">
+<h2>상하 4점 고정</h2>
+<p class="d">헤드레스트와 시트 하단을 함께 잡아 주행 중 흔들림이 적습니다. 대부분의 승용차·SUV 시트에 호환됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058690723_carback_use2.jpg" alt="상하 4점 고정">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>PU 나파 레더 + 메쉬</td></tr><tr><th>컬러</th><td>블랙 / 커피 / 그레이</td></tr><tr><th>사이즈</th><td>약 45 × 30cm (트레이 장착형)</td></tr><tr><th>중량</th><td>약 750g</td></tr><tr><th>고정방식</th><td>헤드레스트 + 하단 밴드 4점</td></tr><tr><th>기능</th><td>방수 표면, 접이식 트레이, 태블릿 포켓</td></tr><tr><th>호환</th><td>승용차·SUV 범용</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>4점 고정</span><span>접이식 트레이</span><span>방수 PU</span><span>컬러 3종</span></div>
+<div class="moq">최소 구매수량 4개부터 · 컬러 혼합 발주 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 모든 차량에 맞나요?</div><div class="a">A. 헤드레스트가 분리되는 일반 승용차·SUV에 범용으로 맞습니다. 일체형 시트 차량은 장착이 어렵습니다.</div><div class="q">Q. 트레이에 무게를 얼마나 올릴 수 있나요?</div><div class="a">A. 노트북·태블릿·간단한 음료 수준(약 2kg 이내)을 권장합니다.</div><div class="q">Q. 컬러 혼합 발주 되나요?</div><div class="a">A. 가능합니다. 블랙/커피/그레이를 총 수량 기준으로 섞어 주문하실 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/953763631248.html / 货号 8199 / 纳帕托盘长款 CNY22 / cbm0.006]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785058688002_carback_main.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
