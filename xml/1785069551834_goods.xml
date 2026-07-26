@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[걸이형 3단 여행 세면 파우치 (옥스포드 트래블 파우치)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[걸이형 3단 여행 세면 파우치]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_OUT_TOILETBAG3F]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[TB-3FOLD]]></goodsModelNo>
+<goodsSearchWord><![CDATA[여행파우치,세면파우치,트래블파우치,화장품파우치,걸이형파우치,캠핑세면,여행용품]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2300]]></goodsPrice>
+<fixedPrice><![CDATA[2300]]></fixedPrice>
+<costPrice><![CDATA[1861]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[14]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[후크 걸이형 3단 폴딩 구조, 옥스포드 원단 여행용 세면·화장품 파우치]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069540267_toiletbag_1.jpg" alt="걸이형 3단 여행 세면 파우치"></div>
+<div class="eyebrow">TRAVEL ORGANIZER</div>
+<div class="h1">걸이형 3단 여행 세면 파우치</div>
+<div class="sub">옥스포드 원단 · 후크 걸이 · 화장품/세면도구 분리 수납</div>
+
+<div class="stat"><div><b>3단 구조</b><span>펼침 수납</span></div><div><b>후크 걸이</b><span>벽·문 거치</span></div><div><b>6컬러</b><span>색상 선택</span></div></div>
+
+<div class="sec">
+<h2>펼치면 3단, 접으면 손가방</h2>
+<p class="d">평소엔 손잡이가 달린 콤팩트한 파우치, 펼치면 3단 수납공간이 나와 세면도구를 한눈에 정리합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069542117_toiletbag_2.jpg" alt="펼치면 3단, 접으면 손가방">
+</div>
+<div class="sec alt">
+<h2>후크 하나로 어디든 걸이 수납</h2>
+<p class="d">상단 회전 후크로 욕실 문·수건걸이·옷걸이봉에 바로 걸어 좁은 세면대에서도 자리를 차지하지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069544333_toiletbag_3.jpg" alt="후크 하나로 어디든 걸이 수납">
+</div>
+<div class="sec">
+<h2>메쉬 포켓 + 투명창 분리 수납</h2>
+<p class="d">투명창 포켓과 메쉬 포켓으로 브러시·튜브·보틀을 종류별로 나눠 담아 내용물을 바로 확인할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069545718_toiletbag_4.jpg" alt="메쉬 포켓 + 투명창 분리 수납">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>걸이형 3단 여행 세면 파우치</td></tr><tr><th>소재</th><td>폴리에스터(옥스포드)</td></tr><tr><th>구조</th><td>3단 폴딩 · 상단 후크</td></tr><tr><th>개폐 방식</th><td>지퍼 + 벨크로</td></tr><tr><th>색상</th><td>레이크블루 / 베이지 / 블랙 / 그레이 / 핑크 / 네이비</td></tr><tr><th>구성</th><td>파우치 1개 (내용물 미포함)</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>방수 원단이나 완전 방수는 아니며, 세탁기 사용은 권장하지 않습니다.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>6컬러 혼합 가능</span><span>대량 발주 가능</span></div>
+<div class="moq">최소 주문 수량 14개 / 색상 혼합 및 대량 발주 시 별도 단가 협의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사진 속 화장품도 포함되나요?</div><div class="a">A. 아니요. 파우치 본체만 제공되며 연출용 소품은 포함되지 않습니다.</div><div class="q">Q. 기내 반입이 가능한가요?</div><div class="a">A. 파우치 자체는 문제없으나 내용물 액체 용량은 항공사 규정을 따르셔야 합니다.</div><div class="q">Q. 색상 지정이 가능한가요?</div><div class="a">A. 6가지 색상 중 지정 가능하며, 혼합 구성도 발주 시 협의 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069540267_toiletbag_1.jpg" alt="걸이형 3단 여행 세면 파우치"></div>
+<div class="eyebrow">TRAVEL ORGANIZER</div>
+<div class="h1">걸이형 3단 여행 세면 파우치</div>
+<div class="sub">옥스포드 원단 · 후크 걸이 · 화장품/세면도구 분리 수납</div>
+
+<div class="stat"><div><b>3단 구조</b><span>펼침 수납</span></div><div><b>후크 걸이</b><span>벽·문 거치</span></div><div><b>6컬러</b><span>색상 선택</span></div></div>
+
+<div class="sec">
+<h2>펼치면 3단, 접으면 손가방</h2>
+<p class="d">평소엔 손잡이가 달린 콤팩트한 파우치, 펼치면 3단 수납공간이 나와 세면도구를 한눈에 정리합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069542117_toiletbag_2.jpg" alt="펼치면 3단, 접으면 손가방">
+</div>
+<div class="sec alt">
+<h2>후크 하나로 어디든 걸이 수납</h2>
+<p class="d">상단 회전 후크로 욕실 문·수건걸이·옷걸이봉에 바로 걸어 좁은 세면대에서도 자리를 차지하지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069544333_toiletbag_3.jpg" alt="후크 하나로 어디든 걸이 수납">
+</div>
+<div class="sec">
+<h2>메쉬 포켓 + 투명창 분리 수납</h2>
+<p class="d">투명창 포켓과 메쉬 포켓으로 브러시·튜브·보틀을 종류별로 나눠 담아 내용물을 바로 확인할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069545718_toiletbag_4.jpg" alt="메쉬 포켓 + 투명창 분리 수납">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>걸이형 3단 여행 세면 파우치</td></tr><tr><th>소재</th><td>폴리에스터(옥스포드)</td></tr><tr><th>구조</th><td>3단 폴딩 · 상단 후크</td></tr><tr><th>개폐 방식</th><td>지퍼 + 벨크로</td></tr><tr><th>색상</th><td>레이크블루 / 베이지 / 블랙 / 그레이 / 핑크 / 네이비</td></tr><tr><th>구성</th><td>파우치 1개 (내용물 미포함)</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>방수 원단이나 완전 방수는 아니며, 세탁기 사용은 권장하지 않습니다.</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>6컬러 혼합 가능</span><span>대량 발주 가능</span></div>
+<div class="moq">최소 주문 수량 14개 / 색상 혼합 및 대량 발주 시 별도 단가 협의 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사진 속 화장품도 포함되나요?</div><div class="a">A. 아니요. 파우치 본체만 제공되며 연출용 소품은 포함되지 않습니다.</div><div class="q">Q. 기내 반입이 가능한가요?</div><div class="a">A. 파우치 자체는 문제없으나 내용물 액체 용량은 항공사 규정을 따르셔야 합니다.</div><div class="q">Q. 색상 지정이 가능한가요?</div><div class="a">A. 6가지 색상 중 지정 가능하며, 혼합 구성도 발주 시 협의 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1042233383731.html / 货号 挂钩洗漱包 / 옵션 전색 ¥5.9 (신인가 ¥4.9는 미적용) / cbm 0.0025]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069540267_toiletbag_1.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069540267_toiletbag_1.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069540267_toiletbag_1.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069542117_toiletbag_2.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069544333_toiletbag_3.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069545718_toiletbag_4.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069547870_toiletbag_5.jpg]]></magnifyImageData>
+<magnifyImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069549909_toiletbag_6.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069540267_toiletbag_1.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069542117_toiletbag_2.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069544333_toiletbag_3.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069545718_toiletbag_4.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069547870_toiletbag_5.jpg]]></detailImageData>
+<detailImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785069549909_toiletbag_6.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
