@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[3D 입체 수면안대 메모리폼 암막 눈안대 기내 수면용품 3색]]></goodsNm>
+<purchaseGoodsNm><![CDATA[3D 입체 수면안대 메모리폼]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BTY_EYEMASK3D25]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[2306-3D]]></goodsModelNo>
+<goodsSearchWord><![CDATA[수면안대,3D안대,암막안대,메모리폼안대,기내용안대,눈가리개]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5300]]></goodsPrice>
+<fixedPrice><![CDATA[5300]]></fixedPrice>
+<costPrice><![CDATA[4385]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[6]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[눈 미압박 3D 아이컵 / 메모리폼 / 노즈윙 빛샘 차단 / 40g / 블랙·그레이·핑크]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg" alt="3D 입체 수면안대<br>메모리폼 눈 미압박 암막 안대"></div>
+<div class="eyebrow">SLEEP / EYE MASK</div>
+<div class="h1">3D 입체 수면안대<br>메모리폼 눈 미압박 암막 안대</div>
+<div class="sub">눈두덩이 닿지 않는 입체 컵 구조 / 코 옆 빛샘 차단 / 40g 초경량</div>
+
+<div class="stat"><div><b>3D</b><span>입체 아이컵</span></div><div><b>40g</b><span>초경량</span></div><div><b>3색</b><span>블랙·그레이·핑크</span></div></div>
+
+<div class="sec">
+<h2>눈을 누르지 않는 입체 아이컵</h2>
+<p class="d">눈 부위가 오목하게 성형되어 속눈썹과 눈꺼풀에 닿지 않습니다. 옆으로 누워도 눌림이 적습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg" alt="눈을 누르지 않는 입체 아이컵">
+</div>
+<div class="sec alt">
+<h2>코 옆 빛샘을 막는 노즈 윙</h2>
+<p class="d">콧대 양옆을 감싸는 일체형 구조로 아래쪽에서 들어오는 빛을 줄여줍니다. 기내·야간 근무 휴식용으로 적합합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082827846_eyemask3.jpg" alt="코 옆 빛샘을 막는 노즈 윙">
+</div>
+<div class="sec">
+<h2>메모리폼 + 부드러운 표면 원단</h2>
+<p class="d">얼굴 곡선을 따라 복원되는 메모리폼과 부드러운 표면 원단을 사용해 장시간 착용해도 자국이 덜 남습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082826474_eyemask2.jpg" alt="메모리폼 + 부드러운 표면 원단">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>3D 입체 수면안대</td></tr><tr><th>소재</th><td>메모리폼 + 폴리에스터 표면 원단</td></tr><tr><th>사이즈</th><td>약 25 × 10.5 × 2.5 cm (포장 기준)</td></tr><tr><th>중량</th><td>약 40g</td></tr><tr><th>색상</th><td>블랙 / 그레이 / 핑크</td></tr><tr><th>포장</th><td>OPP 개별 포장 (영문 컬러박스 선택 가능)</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>적용</th><td>취침, 기내·차량 이동, 사무실 휴식</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 도매전용</span><span>색상 3종</span><span>OEM 로고 협의</span></div>
+<div class="moq">최소구매수량 6개 / 색상 혼합·영문 박스 포장·로고 각인은 별도 견적 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 빛이 완전히 차단되나요?</div><div class="a">A. 입체 구조로 일반 평면 안대보다 차광성이 높지만, 얼굴 형태에 따라 미세한 빛샘이 있을 수 있습니다.</div><div class="q">Q. 의료기기나 온열 기능이 있나요?</div><div class="a">A. 아닙니다. 전원·발열 기능이 없는 일반 섬유 수면용품이며 의료기기가 아닙니다.</div><div class="q">Q. 세탁이 되나요?</div><div class="a">A. 미온수 손세탁 후 그늘에서 건조하세요. 세탁기·건조기 사용과 비틀어 짜는 것은 피해주세요.</div><div class="q">Q. 밴드 길이 조절이 되나요?</div><div class="a">A. 신축 밴드 방식으로 대부분의 두상에 맞으며, 조절 버클 사양은 별도 문의 바랍니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg" alt="3D 입체 수면안대<br>메모리폼 눈 미압박 암막 안대"></div>
+<div class="eyebrow">SLEEP / EYE MASK</div>
+<div class="h1">3D 입체 수면안대<br>메모리폼 눈 미압박 암막 안대</div>
+<div class="sub">눈두덩이 닿지 않는 입체 컵 구조 / 코 옆 빛샘 차단 / 40g 초경량</div>
+
+<div class="stat"><div><b>3D</b><span>입체 아이컵</span></div><div><b>40g</b><span>초경량</span></div><div><b>3색</b><span>블랙·그레이·핑크</span></div></div>
+
+<div class="sec">
+<h2>눈을 누르지 않는 입체 아이컵</h2>
+<p class="d">눈 부위가 오목하게 성형되어 속눈썹과 눈꺼풀에 닿지 않습니다. 옆으로 누워도 눌림이 적습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg" alt="눈을 누르지 않는 입체 아이컵">
+</div>
+<div class="sec alt">
+<h2>코 옆 빛샘을 막는 노즈 윙</h2>
+<p class="d">콧대 양옆을 감싸는 일체형 구조로 아래쪽에서 들어오는 빛을 줄여줍니다. 기내·야간 근무 휴식용으로 적합합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082827846_eyemask3.jpg" alt="코 옆 빛샘을 막는 노즈 윙">
+</div>
+<div class="sec">
+<h2>메모리폼 + 부드러운 표면 원단</h2>
+<p class="d">얼굴 곡선을 따라 복원되는 메모리폼과 부드러운 표면 원단을 사용해 장시간 착용해도 자국이 덜 남습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082826474_eyemask2.jpg" alt="메모리폼 + 부드러운 표면 원단">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>3D 입체 수면안대</td></tr><tr><th>소재</th><td>메모리폼 + 폴리에스터 표면 원단</td></tr><tr><th>사이즈</th><td>약 25 × 10.5 × 2.5 cm (포장 기준)</td></tr><tr><th>중량</th><td>약 40g</td></tr><tr><th>색상</th><td>블랙 / 그레이 / 핑크</td></tr><tr><th>포장</th><td>OPP 개별 포장 (영문 컬러박스 선택 가능)</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>적용</th><td>취침, 기내·차량 이동, 사무실 휴식</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 도매전용</span><span>색상 3종</span><span>OEM 로고 협의</span></div>
+<div class="moq">최소구매수량 6개 / 색상 혼합·영문 박스 포장·로고 각인은 별도 견적 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 빛이 완전히 차단되나요?</div><div class="a">A. 입체 구조로 일반 평면 안대보다 차광성이 높지만, 얼굴 형태에 따라 미세한 빛샘이 있을 수 있습니다.</div><div class="q">Q. 의료기기나 온열 기능이 있나요?</div><div class="a">A. 아닙니다. 전원·발열 기능이 없는 일반 섬유 수면용품이며 의료기기가 아닙니다.</div><div class="q">Q. 세탁이 되나요?</div><div class="a">A. 미온수 손세탁 후 그늘에서 건조하세요. 세탁기·건조기 사용과 비틀어 짜는 것은 피해주세요.</div><div class="q">Q. 밴드 길이 조절이 되나요?</div><div class="a">A. 신축 밴드 방식으로 대부분의 두상에 맞으며, 조절 버클 사양은 별도 문의 바랍니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/809555698103.html 货号 2306双莱卡 / OPP袋装 ¥16 (英文彩盒 ¥16.5). 电热기능 없음 확인(是否自发热 否)]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082825045_eyemask1.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082826474_eyemask2.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082827846_eyemask3.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082829127_eyemask4.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785082830607_eyemask5.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
