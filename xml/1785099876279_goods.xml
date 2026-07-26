@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[스테인리스 벽걸이 변기솔 세트 타공 무타공 겸용 욕실 화장실 청소 브러시 홀더]]></goodsNm>
+<purchaseGoodsNm><![CDATA[벽걸이 변기솔 세트 스테인리스]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_KIT_TOILETBRUSH8]]></goodsCd>
+<cateCd><![CDATA[073]]></cateCd>
+<allCateCd><![CDATA[073]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[TBRUSH-WALL304]]></goodsModelNo>
+<goodsSearchWord><![CDATA[변기솔,변기청소솔,화장실청소,욕실용품,벽걸이변기솔,무타공,스테인리스,토일렛브러시]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[6000]]></goodsPrice>
+<fixedPrice><![CDATA[6000]]></fixedPrice>
+<costPrice><![CDATA[4996]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[5]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[스테인리스 홀더 / 물빠짐 스틸컵·유리컵 선택 / 타공·무타공 겸용]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg" alt="스테인리스 벽걸이 변기솔 세트<br>타공·무타공 겸용 홀더 일체형"></div>
+<div class="eyebrow">TOILET BRUSH SET</div>
+<div class="h1">스테인리스 벽걸이 변기솔 세트<br>타공·무타공 겸용 홀더 일체형</div>
+<div class="sub">스테인리스 홀더 + 물빠짐 스틸컵 또는 유리컵 / 타공 나사 + 무타공 접착 두 가지 시공</div>
+
+<div class="stat"><div><b>스테인리스</b><span>홀더·손잡이</span></div><div><b>5kg</b><span>브래킷 지지 하중</span></div><div><b>2타입</b><span>스틸컵 / 유리컵</span></div></div>
+
+<div class="sec">
+<h2>바닥에 닿지 않는 벽걸이 구조</h2>
+<p class="d">솔과 컵이 바닥에서 떨어져 있어 물때와 곰팡이가 생기기 어렵고, 변기 주변 청소가 훨씬 수월합니다. 욕실 바닥 면적도 그대로 쓸 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg" alt="바닥에 닿지 않는 벽걸이 구조">
+</div>
+<div class="sec alt">
+<h2>물빠짐 타공 스틸컵 / 무광 유리컵 선택</h2>
+<p class="d">바닥에 타공을 넣은 물빠짐 스틸컵과, 무게감 있는 무광 유리컵 두 가지 중 선택하실 수 있습니다. 컵은 홀더에서 분리해 세척할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099828508_tb4c_tbrush.jpg" alt="물빠짐 타공 스틸컵 / 무광 유리컵 선택">
+</div>
+<div class="sec">
+<h2>타공·무타공 겸용 브래킷</h2>
+<p class="d">벽면 상태에 따라 나사 타공 시공과 강력 접착 무타공 시공을 모두 지원하는 겸용 브래킷 옵션이 있습니다. 타일·유리·매끈한 도장면에 부착 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099826814_tb3c_tbrush.jpg" alt="타공·무타공 겸용 브래킷">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>품명</th><td>벽걸이 변기솔 세트 (홀더 일체형)</td></tr><tr><th>소재</th><td>스테인리스(201/304) 홀더 + 스틸컵 또는 강화유리컵 + PP 브러시모</td></tr><tr><th>포장 크기</th><td>약 27 x 12 x 12cm</td></tr><tr><th>중량</th><td>약 280~500g (옵션별 상이)</td></tr><tr><th>옵션</th><td>201/304 × 유리컵/물빠짐 스틸컵 × 타공/타공·무타공 겸용 (총 8종)</td></tr><tr><th>표면처리</th><td>폴리싱</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>전원</th><td>해당 없음</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>8옵션 혼합 발주</span><span>타공·무타공 겸용</span></div>
+<div class="moq">최소 구매수량 5개 / 옵션 혼합 발주 및 대량 견적 문의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 무타공으로 붙이면 얼마나 버티나요?</div><div class="a">A. 브래킷 설계 지지 하중은 5kg입니다. 타일·유리처럼 평평하고 기름기 없는 면에 부착해야 하며, 벽지·요철면·페인트가 들뜬 면에는 타공 시공을 권장합니다.</div><div class="q">Q. 솔만 따로 교체되나요?</div><div class="a">A. 브러시 헤드는 손잡이와 일체형입니다. 교체용 브러시는 별도 문의해 주세요.</div><div class="q">Q. 식기·조리도구 세척에 써도 되나요?</div><div class="a">A. 안 됩니다. 본 제품은 변기·욕실 전용 청소용품이며 식품이나 조리기구에 직접 닿는 용도로 사용할 수 없습니다.</div><div class="q">Q. 전기 기능이 있나요?</div><div class="a">A. 없습니다. 전원·모터·배터리가 전혀 없습니다.</div><div class="q">Q. 204/304 차이가 뭔가요?</div><div class="a">A. 201은 일반 스테인리스, 304는 내부식성이 더 높은 등급입니다. 습기가 많은 환경에는 304 옵션을 권장합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg" alt="스테인리스 벽걸이 변기솔 세트<br>타공·무타공 겸용 홀더 일체형"></div>
+<div class="eyebrow">TOILET BRUSH SET</div>
+<div class="h1">스테인리스 벽걸이 변기솔 세트<br>타공·무타공 겸용 홀더 일체형</div>
+<div class="sub">스테인리스 홀더 + 물빠짐 스틸컵 또는 유리컵 / 타공 나사 + 무타공 접착 두 가지 시공</div>
+
+<div class="stat"><div><b>스테인리스</b><span>홀더·손잡이</span></div><div><b>5kg</b><span>브래킷 지지 하중</span></div><div><b>2타입</b><span>스틸컵 / 유리컵</span></div></div>
+
+<div class="sec">
+<h2>바닥에 닿지 않는 벽걸이 구조</h2>
+<p class="d">솔과 컵이 바닥에서 떨어져 있어 물때와 곰팡이가 생기기 어렵고, 변기 주변 청소가 훨씬 수월합니다. 욕실 바닥 면적도 그대로 쓸 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg" alt="바닥에 닿지 않는 벽걸이 구조">
+</div>
+<div class="sec alt">
+<h2>물빠짐 타공 스틸컵 / 무광 유리컵 선택</h2>
+<p class="d">바닥에 타공을 넣은 물빠짐 스틸컵과, 무게감 있는 무광 유리컵 두 가지 중 선택하실 수 있습니다. 컵은 홀더에서 분리해 세척할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099828508_tb4c_tbrush.jpg" alt="물빠짐 타공 스틸컵 / 무광 유리컵 선택">
+</div>
+<div class="sec">
+<h2>타공·무타공 겸용 브래킷</h2>
+<p class="d">벽면 상태에 따라 나사 타공 시공과 강력 접착 무타공 시공을 모두 지원하는 겸용 브래킷 옵션이 있습니다. 타일·유리·매끈한 도장면에 부착 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099826814_tb3c_tbrush.jpg" alt="타공·무타공 겸용 브래킷">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>품명</th><td>벽걸이 변기솔 세트 (홀더 일체형)</td></tr><tr><th>소재</th><td>스테인리스(201/304) 홀더 + 스틸컵 또는 강화유리컵 + PP 브러시모</td></tr><tr><th>포장 크기</th><td>약 27 x 12 x 12cm</td></tr><tr><th>중량</th><td>약 280~500g (옵션별 상이)</td></tr><tr><th>옵션</th><td>201/304 × 유리컵/물빠짐 스틸컵 × 타공/타공·무타공 겸용 (총 8종)</td></tr><tr><th>표면처리</th><td>폴리싱</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>전원</th><td>해당 없음</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>8옵션 혼합 발주</span><span>타공·무타공 겸용</span></div>
+<div class="moq">최소 구매수량 5개 / 옵션 혼합 발주 및 대량 견적 문의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 무타공으로 붙이면 얼마나 버티나요?</div><div class="a">A. 브래킷 설계 지지 하중은 5kg입니다. 타일·유리처럼 평평하고 기름기 없는 면에 부착해야 하며, 벽지·요철면·페인트가 들뜬 면에는 타공 시공을 권장합니다.</div><div class="q">Q. 솔만 따로 교체되나요?</div><div class="a">A. 브러시 헤드는 손잡이와 일체형입니다. 교체용 브러시는 별도 문의해 주세요.</div><div class="q">Q. 식기·조리도구 세척에 써도 되나요?</div><div class="a">A. 안 됩니다. 본 제품은 변기·욕실 전용 청소용품이며 식품이나 조리기구에 직접 닿는 용도로 사용할 수 없습니다.</div><div class="q">Q. 전기 기능이 있나요?</div><div class="a">A. 없습니다. 전원·모터·배터리가 전혀 없습니다.</div><div class="q">Q. 204/304 차이가 뭔가요?</div><div class="a">A. 201은 일반 스테인리스, 304는 내부식성이 더 높은 등급입니다. 습기가 많은 환경에는 304 옵션을 권장합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/705557111048.html / 货号 없음(尺寸 8옵션) / CNY 11~17 → 보수적으로 최고가 304沥水钢杯 两用 17 적용 / 27x12x12cm / cbm 0.004 / 이미지 tb1·tb2 clean, tb3 우55% 크롭, tb4 하72% 크롭, tb5 상9%~하78.3% 크롭(중문 배지·띠 제거)]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099825063_tb1_tbrush.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099826814_tb3c_tbrush.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099828508_tb4c_tbrush.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099830223_tb5c_tbrush.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099822995_tb2_tbrush.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099825063_tb1_tbrush.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099826814_tb3c_tbrush.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099828508_tb4c_tbrush.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099830223_tb5c_tbrush.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
