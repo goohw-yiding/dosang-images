@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[자동차 앞유리 햇빛가리개 티타늄실버 접이식 차량용 선쉐이드]]></goodsNm>
+<purchaseGoodsNm><![CDATA[자동차 앞유리 햇빛가리개 티타늄실버 접이식 차량용 선쉐이드]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_922110334856]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-CAR-SUN-145]]></goodsModelNo>
+<goodsSearchWord><![CDATA[햇빛가리개,자동차선쉐이드,차량용햇빛가리개,앞유리가리개,차박,여름차량용품]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[1900]]></goodsPrice>
+<fixedPrice><![CDATA[1900]]></fixedPrice>
+<costPrice><![CDATA[1523]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[16]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[티타늄 실버 코팅 2단 접이식 앞유리 햇빛가리개 (대 145×80 / 소 140×70)]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032991288_sunshade_ds076_sun5.jpg" alt="티타늄 실버 자동차 앞유리 햇빛가리개"></div>
+<div class="eyebrow">CAR SUNSHADE</div>
+<div class="h1">티타늄 실버 자동차 앞유리 햇빛가리개</div>
+<div class="sub">접이식 2단 구조 · 대형(145×80cm) / 소형(140×70cm) · 전차종 범용</div>
+
+<div class="stat"><div><b>2size</b><span>대·소 사이즈</span></div><div><b>145×80</b><span>대형 커버리지</span></div><div><b>190g</b><span>초경량</span></div></div>
+
+<div class="sec">
+<h2>접었다 펴는 2단 폴딩 구조</h2>
+<p class="d">가운데 세로 라인을 기준으로 반으로 접히는 2단 구조라 보관이 간편합니다. 전용 수납 파우치에 넣으면 도어 포켓에도 들어갑니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032991288_sunshade_ds076_sun5.jpg" alt="접었다 펴는 2단 폴딩 구조">
+</div>
+<div class="sec alt">
+<h2>티타늄 실버 코팅 원단</h2>
+<p class="d">외부는 햇빛을 반사하는 실버 코팅, 내부는 블랙 처리로 실내 온도 상승을 억제합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032992656_sunshade_ds076_sunA.jpg" alt="티타늄 실버 코팅 원단">
+</div>
+<div class="sec">
+<h2>대형 145×80cm / 소형 140×70cm</h2>
+<p class="d">중대형 세단·SUV는 대형, 준중형·해치백은 소형을 선택하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032993833_sunshade_ds076_sunC.jpg" alt="대형 145×80cm / 소형 140×70cm">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>자동차 앞유리 햇빛가리개</td></tr><tr><th>소재</th><td>티타늄 실버 코팅 원단</td></tr><tr><th>사이즈</th><td>대형 145×80cm / 소형 140×70cm</td></tr><tr><th>중량</th><td>대형 약 190g / 소형 약 180g</td></tr><tr><th>장착방식</th><td>끼움(카 끼임)식</td></tr><tr><th>적용</th><td>전차종 범용</td></tr><tr><th>구성</th><td>본품 1개 + 수납 파우치</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>주행 중 사용 금지, 주차 시에만 사용</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>여름 필수템</span><span>전차종 범용</span><span>초경량 190g</span><span>수납 파우치 포함</span></div>
+<div class="moq">최소구매수량 16개부터 / 박스 단위 대량 발주 시 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사이즈는 어떻게 고르나요?</div><div class="a">A. 중대형 세단과 SUV는 대형(145×80cm), 준중형·소형·해치백은 소형(140×70cm)을 권장합니다.</div><div class="q">Q. 보관은 어떻게 하나요?</div><div class="a">A. 반으로 접어 동봉된 수납 파우치에 넣으면 트렁크나 도어 포켓에 간편하게 보관됩니다.</div><div class="q">Q. 세탁이 가능한가요?</div><div class="a">A. 물티슈나 젖은 천으로 표면을 닦아 주세요. 세탁기 사용은 권장하지 않습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032991288_sunshade_ds076_sun5.jpg" alt="티타늄 실버 자동차 앞유리 햇빛가리개"></div>
+<div class="eyebrow">CAR SUNSHADE</div>
+<div class="h1">티타늄 실버 자동차 앞유리 햇빛가리개</div>
+<div class="sub">접이식 2단 구조 · 대형(145×80cm) / 소형(140×70cm) · 전차종 범용</div>
+
+<div class="stat"><div><b>2size</b><span>대·소 사이즈</span></div><div><b>145×80</b><span>대형 커버리지</span></div><div><b>190g</b><span>초경량</span></div></div>
+
+<div class="sec">
+<h2>접었다 펴는 2단 폴딩 구조</h2>
+<p class="d">가운데 세로 라인을 기준으로 반으로 접히는 2단 구조라 보관이 간편합니다. 전용 수납 파우치에 넣으면 도어 포켓에도 들어갑니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032991288_sunshade_ds076_sun5.jpg" alt="접었다 펴는 2단 폴딩 구조">
+</div>
+<div class="sec alt">
+<h2>티타늄 실버 코팅 원단</h2>
+<p class="d">외부는 햇빛을 반사하는 실버 코팅, 내부는 블랙 처리로 실내 온도 상승을 억제합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032992656_sunshade_ds076_sunA.jpg" alt="티타늄 실버 코팅 원단">
+</div>
+<div class="sec">
+<h2>대형 145×80cm / 소형 140×70cm</h2>
+<p class="d">중대형 세단·SUV는 대형, 준중형·해치백은 소형을 선택하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032993833_sunshade_ds076_sunC.jpg" alt="대형 145×80cm / 소형 140×70cm">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>자동차 앞유리 햇빛가리개</td></tr><tr><th>소재</th><td>티타늄 실버 코팅 원단</td></tr><tr><th>사이즈</th><td>대형 145×80cm / 소형 140×70cm</td></tr><tr><th>중량</th><td>대형 약 190g / 소형 약 180g</td></tr><tr><th>장착방식</th><td>끼움(카 끼임)식</td></tr><tr><th>적용</th><td>전차종 범용</td></tr><tr><th>구성</th><td>본품 1개 + 수납 파우치</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>주행 중 사용 금지, 주차 시에만 사용</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>여름 필수템</span><span>전차종 범용</span><span>초경량 190g</span><span>수납 파우치 포함</span></div>
+<div class="moq">최소구매수량 16개부터 / 박스 단위 대량 발주 시 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사이즈는 어떻게 고르나요?</div><div class="a">A. 중대형 세단과 SUV는 대형(145×80cm), 준중형·소형·해치백은 소형(140×70cm)을 권장합니다.</div><div class="q">Q. 보관은 어떻게 하나요?</div><div class="a">A. 반으로 접어 동봉된 수납 파우치에 넣으면 트렁크나 도어 포켓에 간편하게 보관됩니다.</div><div class="q">Q. 세탁이 가능한가요?</div><div class="a">A. 물티슈나 젖은 천으로 표면을 닦아 주세요. 세탁기 사용은 권장하지 않습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688: https://detail.1688.com/offer/922110334856.html / 货号: 遮阳板,钛银挡 / 매입 CNY3.12(대형) / 义乌市车轵贸易]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032991288_sunshade_ds076_sun5.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032991288_sunshade_ds076_sun5.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[h]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[t]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[t]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[p]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="6"><![CDATA[:]]></magnifyImageData>
+<magnifyImageData idx="7"><![CDATA[/]]></magnifyImageData>
+<magnifyImageData idx="8"><![CDATA[/]]></magnifyImageData>
+<magnifyImageData idx="9"><![CDATA[r]]></magnifyImageData>
+<magnifyImageData idx="10"><![CDATA[a]]></magnifyImageData>
+<magnifyImageData idx="11"><![CDATA[w]]></magnifyImageData>
+<magnifyImageData idx="12"><![CDATA[.]]></magnifyImageData>
+<magnifyImageData idx="13"><![CDATA[g]]></magnifyImageData>
+<magnifyImageData idx="14"><![CDATA[i]]></magnifyImageData>
+<magnifyImageData idx="15"><![CDATA[t]]></magnifyImageData>
+<magnifyImageData idx="16"><![CDATA[h]]></magnifyImageData>
+<magnifyImageData idx="17"><![CDATA[u]]></magnifyImageData>
+<magnifyImageData idx="18"><![CDATA[b]]></magnifyImageData>
+<magnifyImageData idx="19"><![CDATA[u]]></magnifyImageData>
+<magnifyImageData idx="20"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="21"><![CDATA[e]]></magnifyImageData>
+<magnifyImageData idx="22"><![CDATA[r]]></magnifyImageData>
+<magnifyImageData idx="23"><![CDATA[c]]></magnifyImageData>
+<magnifyImageData idx="24"><![CDATA[o]]></magnifyImageData>
+<magnifyImageData idx="25"><![CDATA[n]]></magnifyImageData>
+<magnifyImageData idx="26"><![CDATA[t]]></magnifyImageData>
+<magnifyImageData idx="27"><![CDATA[e]]></magnifyImageData>
+<magnifyImageData idx="28"><![CDATA[n]]></magnifyImageData>
+<magnifyImageData idx="29"><![CDATA[t]]></magnifyImageData>
+<magnifyImageData idx="30"><![CDATA[.]]></magnifyImageData>
+<magnifyImageData idx="31"><![CDATA[c]]></magnifyImageData>
+<magnifyImageData idx="32"><![CDATA[o]]></magnifyImageData>
+<magnifyImageData idx="33"><![CDATA[m]]></magnifyImageData>
+<magnifyImageData idx="34"><![CDATA[/]]></magnifyImageData>
+<magnifyImageData idx="35"><![CDATA[g]]></magnifyImageData>
+<magnifyImageData idx="36"><![CDATA[o]]></magnifyImageData>
+<magnifyImageData idx="37"><![CDATA[o]]></magnifyImageData>
+<magnifyImageData idx="38"><![CDATA[h]]></magnifyImageData>
+<magnifyImageData idx="39"><![CDATA[w]]></magnifyImageData>
+<magnifyImageData idx="40"><![CDATA[-]]></magnifyImageData>
+<magnifyImageData idx="41"><![CDATA[y]]></magnifyImageData>
+<magnifyImageData idx="42"><![CDATA[i]]></magnifyImageData>
+<magnifyImageData idx="43"><![CDATA[d]]></magnifyImageData>
+<magnifyImageData idx="44"><![CDATA[i]]></magnifyImageData>
+<magnifyImageData idx="45"><![CDATA[n]]></magnifyImageData>
+<magnifyImageData idx="46"><![CDATA[g]]></magnifyImageData>
+<magnifyImageData idx="47"><![CDATA[/]]></magnifyImageData>
+<magnifyImageData idx="48"><![CDATA[d]]></magnifyImageData>
+<magnifyImageData idx="49"><![CDATA[o]]></magnifyImageData>
+<magnifyImageData idx="50"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="51"><![CDATA[a]]></magnifyImageData>
+<magnifyImageData idx="52"><![CDATA[n]]></magnifyImageData>
+<magnifyImageData idx="53"><![CDATA[g]]></magnifyImageData>
+<magnifyImageData idx="54"><![CDATA[-]]></magnifyImageData>
+<magnifyImageData idx="55"><![CDATA[i]]></magnifyImageData>
+<magnifyImageData idx="56"><![CDATA[m]]></magnifyImageData>
+<magnifyImageData idx="57"><![CDATA[a]]></magnifyImageData>
+<magnifyImageData idx="58"><![CDATA[g]]></magnifyImageData>
+<magnifyImageData idx="59"><![CDATA[e]]></magnifyImageData>
+<magnifyImageData idx="60"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="61"><![CDATA[/]]></magnifyImageData>
+<magnifyImageData idx="62"><![CDATA[m]]></magnifyImageData>
+<magnifyImageData idx="63"><![CDATA[a]]></magnifyImageData>
+<magnifyImageData idx="64"><![CDATA[i]]></magnifyImageData>
+<magnifyImageData idx="65"><![CDATA[n]]></magnifyImageData>
+<magnifyImageData idx="66"><![CDATA[/]]></magnifyImageData>
+<magnifyImageData idx="67"><![CDATA[u]]></magnifyImageData>
+<magnifyImageData idx="68"><![CDATA[p]]></magnifyImageData>
+<magnifyImageData idx="69"><![CDATA[l]]></magnifyImageData>
+<magnifyImageData idx="70"><![CDATA[o]]></magnifyImageData>
+<magnifyImageData idx="71"><![CDATA[a]]></magnifyImageData>
+<magnifyImageData idx="72"><![CDATA[d]]></magnifyImageData>
+<magnifyImageData idx="73"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="74"><![CDATA[/]]></magnifyImageData>
+<magnifyImageData idx="75"><![CDATA[1]]></magnifyImageData>
+<magnifyImageData idx="76"><![CDATA[7]]></magnifyImageData>
+<magnifyImageData idx="77"><![CDATA[8]]></magnifyImageData>
+<magnifyImageData idx="78"><![CDATA[5]]></magnifyImageData>
+<magnifyImageData idx="79"><![CDATA[0]]></magnifyImageData>
+<magnifyImageData idx="80"><![CDATA[3]]></magnifyImageData>
+<magnifyImageData idx="81"><![CDATA[2]]></magnifyImageData>
+<magnifyImageData idx="82"><![CDATA[9]]></magnifyImageData>
+<magnifyImageData idx="83"><![CDATA[9]]></magnifyImageData>
+<magnifyImageData idx="84"><![CDATA[1]]></magnifyImageData>
+<magnifyImageData idx="85"><![CDATA[2]]></magnifyImageData>
+<magnifyImageData idx="86"><![CDATA[8]]></magnifyImageData>
+<magnifyImageData idx="87"><![CDATA[8]]></magnifyImageData>
+<magnifyImageData idx="88"><![CDATA[_]]></magnifyImageData>
+<magnifyImageData idx="89"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="90"><![CDATA[u]]></magnifyImageData>
+<magnifyImageData idx="91"><![CDATA[n]]></magnifyImageData>
+<magnifyImageData idx="92"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="93"><![CDATA[h]]></magnifyImageData>
+<magnifyImageData idx="94"><![CDATA[a]]></magnifyImageData>
+<magnifyImageData idx="95"><![CDATA[d]]></magnifyImageData>
+<magnifyImageData idx="96"><![CDATA[e]]></magnifyImageData>
+<magnifyImageData idx="97"><![CDATA[_]]></magnifyImageData>
+<magnifyImageData idx="98"><![CDATA[d]]></magnifyImageData>
+<magnifyImageData idx="99"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="100"><![CDATA[0]]></magnifyImageData>
+<magnifyImageData idx="101"><![CDATA[7]]></magnifyImageData>
+<magnifyImageData idx="102"><![CDATA[6]]></magnifyImageData>
+<magnifyImageData idx="103"><![CDATA[_]]></magnifyImageData>
+<magnifyImageData idx="104"><![CDATA[s]]></magnifyImageData>
+<magnifyImageData idx="105"><![CDATA[u]]></magnifyImageData>
+<magnifyImageData idx="106"><![CDATA[n]]></magnifyImageData>
+<magnifyImageData idx="107"><![CDATA[5]]></magnifyImageData>
+<magnifyImageData idx="108"><![CDATA[.]]></magnifyImageData>
+<magnifyImageData idx="109"><![CDATA[j]]></magnifyImageData>
+<magnifyImageData idx="110"><![CDATA[p]]></magnifyImageData>
+<magnifyImageData idx="111"><![CDATA[g]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032991288_sunshade_ds076_sun5.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032992656_sunshade_ds076_sunA.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032993833_sunshade_ds076_sunC.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785032995177_sunshade_ds076_sunD.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
