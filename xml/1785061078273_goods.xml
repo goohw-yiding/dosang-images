@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[실리콘 두피 마사지 샴푸 브러시 헤어 클렌징 브러쉬]]></goodsNm>
+<purchaseGoodsNm><![CDATA[실리콘 두피 브러시 sr-0168]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BTY_SCALP0168]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[SR-0168]]></goodsModelNo>
+<goodsSearchWord><![CDATA[두피브러시,샴푸브러시,두피마사지,실리콘브러시,헤어브러시,두피케어]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[1700]]></goodsPrice>
+<fixedPrice><![CDATA[1700]]></fixedPrice>
+<costPrice><![CDATA[1403]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[18]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[부드러운 실리콘 돌기로 두피를 자극하는 손잡이형 샴푸 브러시. 건식·습식 겸용 3color.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061038951_p5_2.jpg" alt="실리콘 두피 마사지 샴푸 브러시<br>손잡이형 헤어 클렌징 브러쉬"></div>
+<div class="eyebrow">SCALP BRUSH</div>
+<div class="h1">실리콘 두피 마사지 샴푸 브러시<br>손잡이형 헤어 클렌징 브러쉬</div>
+<div class="sub">부드러운 실리콘 돌기로 두피만 자극, 머리카락은 손상 없이</div>
+
+<div class="stat"><div><b>실리콘</b><span>전체 소재</span></div><div><b>42g</b><span>가벼운 무게</span></div><div><b>3color</b><span>블랙·블루·핑크</span></div></div>
+
+<div class="sec">
+<h2>샴푸할 때 손톱 대신 브러시로</h2>
+<p class="d">손톱으로 긁으면 두피에 상처가 나기 쉽습니다. 둥근 실리콘 돌기가 두피를 눌러 자극하면서 노폐물과 각질을 밀어냅니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061040502_p5_1.jpg" alt="샴푸할 때 손톱 대신 브러시로">
+</div>
+<div class="sec alt">
+<h2>부드럽지만 탄력 있는 돌기 구조</h2>
+<p class="d">끝이 둥근 원뿔형 소프트 돌기가 여러 열로 배열되어 있어 머리카락에 엉키지 않고 두피에 밀착됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061042059_p5_4.jpg" alt="부드럽지만 탄력 있는 돌기 구조">
+</div>
+<div class="sec">
+<h2>한 손에 잡히는 논슬립 그립</h2>
+<p class="d">뒷면 손잡이가 젖은 손에서도 미끄러지지 않도록 잡아줍니다. 샤워 중 한 손 사용에 최적화된 형태입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061043633_p5_0c.jpg" alt="한 손에 잡히는 논슬립 그립">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>실리콘</td></tr><tr><th>색상</th><td>블랙 / 레이크블루 / 핑크</td></tr><tr><th>크기</th><td>약 7 × 7 × 5cm</td></tr><tr><th>중량</th><td>약 42~43g</td></tr><tr><th>사용법</th><td>건식·습식 겸용 (샴푸 중 또는 마른 두피)</td></tr><tr><th>용도</th><td>두피 클렌징 / 두피 마사지</td></tr><tr><th>박스 입수</th><td>1,000개</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>3color</span><span>OEM 로고 문의</span></div>
+<div class="moq">최소 주문 18개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전자 제품인가요?</div><div class="a">A. 아니요. 전원·배터리 없는 순수 수동 실리콘 브러시입니다.</div><div class="q">Q. 탈모가 있어도 쓸 수 있나요?</div><div class="a">A. 돌기가 부드러워 머리카락을 당기지 않지만, 두피 질환이 있는 경우 전문가 상담 후 사용을 권합니다.</div><div class="q">Q. 색상 혼합 발주가 되나요?</div><div class="a">A. 블랙·블루·핑크 3색 재고가 충분해 수량 배분 요청이 가능합니다.</div><div class="q">Q. 로고 인쇄가 가능한가요?</div><div class="a">A. 제조사 기준 형상·색상·로고 커스텀이 가능하며, 수량 조건은 별도 문의 바랍니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061038951_p5_2.jpg" alt="실리콘 두피 마사지 샴푸 브러시<br>손잡이형 헤어 클렌징 브러쉬"></div>
+<div class="eyebrow">SCALP BRUSH</div>
+<div class="h1">실리콘 두피 마사지 샴푸 브러시<br>손잡이형 헤어 클렌징 브러쉬</div>
+<div class="sub">부드러운 실리콘 돌기로 두피만 자극, 머리카락은 손상 없이</div>
+
+<div class="stat"><div><b>실리콘</b><span>전체 소재</span></div><div><b>42g</b><span>가벼운 무게</span></div><div><b>3color</b><span>블랙·블루·핑크</span></div></div>
+
+<div class="sec">
+<h2>샴푸할 때 손톱 대신 브러시로</h2>
+<p class="d">손톱으로 긁으면 두피에 상처가 나기 쉽습니다. 둥근 실리콘 돌기가 두피를 눌러 자극하면서 노폐물과 각질을 밀어냅니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061040502_p5_1.jpg" alt="샴푸할 때 손톱 대신 브러시로">
+</div>
+<div class="sec alt">
+<h2>부드럽지만 탄력 있는 돌기 구조</h2>
+<p class="d">끝이 둥근 원뿔형 소프트 돌기가 여러 열로 배열되어 있어 머리카락에 엉키지 않고 두피에 밀착됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061042059_p5_4.jpg" alt="부드럽지만 탄력 있는 돌기 구조">
+</div>
+<div class="sec">
+<h2>한 손에 잡히는 논슬립 그립</h2>
+<p class="d">뒷면 손잡이가 젖은 손에서도 미끄러지지 않도록 잡아줍니다. 샤워 중 한 손 사용에 최적화된 형태입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061043633_p5_0c.jpg" alt="한 손에 잡히는 논슬립 그립">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>실리콘</td></tr><tr><th>색상</th><td>블랙 / 레이크블루 / 핑크</td></tr><tr><th>크기</th><td>약 7 × 7 × 5cm</td></tr><tr><th>중량</th><td>약 42~43g</td></tr><tr><th>사용법</th><td>건식·습식 겸용 (샴푸 중 또는 마른 두피)</td></tr><tr><th>용도</th><td>두피 클렌징 / 두피 마사지</td></tr><tr><th>박스 입수</th><td>1,000개</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>3color</span><span>OEM 로고 문의</span></div>
+<div class="moq">최소 주문 18개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전자 제품인가요?</div><div class="a">A. 아니요. 전원·배터리 없는 순수 수동 실리콘 브러시입니다.</div><div class="q">Q. 탈모가 있어도 쓸 수 있나요?</div><div class="a">A. 돌기가 부드러워 머리카락을 당기지 않지만, 두피 질환이 있는 경우 전문가 상담 후 사용을 권합니다.</div><div class="q">Q. 색상 혼합 발주가 되나요?</div><div class="a">A. 블랙·블루·핑크 3색 재고가 충분해 수량 배분 요청이 가능합니다.</div><div class="q">Q. 로고 인쇄가 가능한가요?</div><div class="a">A. 제조사 기준 형상·색상·로고 커스텀이 가능하며, 수량 조건은 별도 문의 바랍니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1065167803222.html 货号 sr-0168 옵션가 ¥5.00(표시 ¥4.00, 1000개+ ¥4.70/2000개+ ¥4.30) 실리콘 42g 3color / 갤러리 중 EIVOS 브랜드 박스컷은 타사 제품이라 배제]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061038951_p5_2.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061038951_p5_2.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061038951_p5_2.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061040502_p5_1.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061042059_p5_4.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061043633_p5_0c.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061038951_p5_2.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061040502_p5_1.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061042059_p5_4.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785061043633_p5_0c.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
