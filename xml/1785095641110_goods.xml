@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[호두나무 곡선 티슈케이스 우드 각티슈 커버 16.5cm]]></goodsNm>
+<purchaseGoodsNm><![CDATA[호두나무 곡선 티슈케이스]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_WDTISSUE165]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[WD-TISSUE-165]]></goodsModelNo>
+<goodsSearchWord><![CDATA[티슈케이스,각티슈커버,원목티슈케이스,우드티슈함,티슈함,인테리어소품]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5100]]></goodsPrice>
+<fixedPrice><![CDATA[5100]]></fixedPrice>
+<costPrice><![CDATA[4223]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[6]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[원목을 곡선으로 성형한 미니멀 티슈케이스. 거실·침실·호텔 어메니티용.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg" alt="호두나무 곡선 티슈케이스"></div>
+<div class="eyebrow">WALNUT TISSUE CASE</div>
+<div class="h1">호두나무 곡선 티슈케이스</div>
+<div class="sub">원목 한 장을 곡선으로 성형한 미니멀 티슈 커버 · 거실/침실/호텔 어메니티용</div>
+
+<div class="stat"><div><b>16.5×13.7×8.6cm</b><span>제품 규격</span></div><div><b>340g</b><span>개당 중량</span></div><div><b>원목</b><span>본체 소재</span></div></div>
+
+<div class="sec">
+<h2>모서리 없는 곡선 성형</h2>
+<p class="d">목재를 한 장으로 말아 성형해 각진 모서리가 없습니다. 티슈를 뽑을 때 종이가 걸리거나 찢어지지 않도록 인출구 가장자리를 매끄럽게 마감했습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095607128_wt1c.jpg" alt="모서리 없는 곡선 성형">
+</div>
+<div class="sec alt">
+<h2>어느 공간에나 어울리는 우드 톤</h2>
+<p class="d">월넛 톤의 차분한 목재 결로 거실 테이블, 침실 협탁, 카페·호텔 객실 등 어떤 인테리어에도 무난하게 어울립니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095608646_wt4c.jpg" alt="어느 공간에나 어울리는 우드 톤">
+</div>
+<div class="sec">
+<h2>시중 대부분의 각티슈 호환</h2>
+<p class="d">일반 가정용 각티슈(추출식 티슈)를 그대로 넣어 사용합니다. 티슈 팩을 아래에서 밀어 넣는 구조로 교체가 간단합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg" alt="시중 대부분의 각티슈 호환">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>호두나무 곡선 티슈케이스</td></tr><tr><th>소재</th><td>목재(월넛 무늬)</td></tr><tr><th>규격</th><td>약 16.5 × 13.7 × 8.6 cm</td></tr><tr><th>중량</th><td>약 340g</td></tr><tr><th>호환</th><td>일반 각티슈(추출식)</td></tr><tr><th>색상</th><td>월넛 우드 1종</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>구성</th><td>티슈케이스 본체 1개(티슈 미포함)</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>원목 소재</span><span>전자부품 없음</span><span>각티슈 호환</span><span>B2B 대량납품</span></div>
+<div class="moq">박스 단위(33개입) 발주 시 추가 단가 협의 가능합니다. 카페·호텔·펜션 등 다량 납품 문의 환영합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 티슈가 포함되어 있나요?</div><div class="a">A. 아니요. 티슈케이스(커버) 본체만 배송되며 각티슈는 포함되어 있지 않습니다.</div><div class="q">Q. 식품을 담아도 되나요?</div><div class="a">A. 식품 직접 접촉 용도의 기구·용기가 아닙니다. 티슈 보관 용도로만 사용해 주세요.</div><div class="q">Q. 전기·충전 기능이 있나요?</div><div class="a">A. 전자부품이 전혀 없는 단순 목재 제품입니다. 전원·배터리·조명 기능은 없습니다.</div><div class="q">Q. 물에 닿아도 되나요?</div><div class="a">A. 목재 제품 특성상 침수·장시간 습기 노출 시 변형될 수 있습니다. 마른 천으로 닦아 관리해 주세요.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 천연 목재 무늬 특성상 개체별로 결과 색상 톤에 차이가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg" alt="호두나무 곡선 티슈케이스"></div>
+<div class="eyebrow">WALNUT TISSUE CASE</div>
+<div class="h1">호두나무 곡선 티슈케이스</div>
+<div class="sub">원목 한 장을 곡선으로 성형한 미니멀 티슈 커버 · 거실/침실/호텔 어메니티용</div>
+
+<div class="stat"><div><b>16.5×13.7×8.6cm</b><span>제품 규격</span></div><div><b>340g</b><span>개당 중량</span></div><div><b>원목</b><span>본체 소재</span></div></div>
+
+<div class="sec">
+<h2>모서리 없는 곡선 성형</h2>
+<p class="d">목재를 한 장으로 말아 성형해 각진 모서리가 없습니다. 티슈를 뽑을 때 종이가 걸리거나 찢어지지 않도록 인출구 가장자리를 매끄럽게 마감했습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095607128_wt1c.jpg" alt="모서리 없는 곡선 성형">
+</div>
+<div class="sec alt">
+<h2>어느 공간에나 어울리는 우드 톤</h2>
+<p class="d">월넛 톤의 차분한 목재 결로 거실 테이블, 침실 협탁, 카페·호텔 객실 등 어떤 인테리어에도 무난하게 어울립니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095608646_wt4c.jpg" alt="어느 공간에나 어울리는 우드 톤">
+</div>
+<div class="sec">
+<h2>시중 대부분의 각티슈 호환</h2>
+<p class="d">일반 가정용 각티슈(추출식 티슈)를 그대로 넣어 사용합니다. 티슈 팩을 아래에서 밀어 넣는 구조로 교체가 간단합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg" alt="시중 대부분의 각티슈 호환">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>호두나무 곡선 티슈케이스</td></tr><tr><th>소재</th><td>목재(월넛 무늬)</td></tr><tr><th>규격</th><td>약 16.5 × 13.7 × 8.6 cm</td></tr><tr><th>중량</th><td>약 340g</td></tr><tr><th>호환</th><td>일반 각티슈(추출식)</td></tr><tr><th>색상</th><td>월넛 우드 1종</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>구성</th><td>티슈케이스 본체 1개(티슈 미포함)</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>원목 소재</span><span>전자부품 없음</span><span>각티슈 호환</span><span>B2B 대량납품</span></div>
+<div class="moq">박스 단위(33개입) 발주 시 추가 단가 협의 가능합니다. 카페·호텔·펜션 등 다량 납품 문의 환영합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 티슈가 포함되어 있나요?</div><div class="a">A. 아니요. 티슈케이스(커버) 본체만 배송되며 각티슈는 포함되어 있지 않습니다.</div><div class="q">Q. 식품을 담아도 되나요?</div><div class="a">A. 식품 직접 접촉 용도의 기구·용기가 아닙니다. 티슈 보관 용도로만 사용해 주세요.</div><div class="q">Q. 전기·충전 기능이 있나요?</div><div class="a">A. 전자부품이 전혀 없는 단순 목재 제품입니다. 전원·배터리·조명 기능은 없습니다.</div><div class="q">Q. 물에 닿아도 되나요?</div><div class="a">A. 목재 제품 특성상 침수·장시간 습기 노출 시 변형될 수 있습니다. 마른 천으로 닦아 관리해 주세요.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 천연 목재 무늬 특성상 개체별로 결과 색상 톤에 차이가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 offer 1048831456134 / 货号 纸巾盒(简圆纸巾盒) / CNY 14.75 / 16.5x13.7x8.6cm 340g]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095605537_wt5.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095607128_wt1c.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785095608646_wt4c.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
