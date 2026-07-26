@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[싱크대 물빠짐 선반 행주봉 주방 정리대 무타공]]></goodsNm>
+<purchaseGoodsNm><![CDATA[싱크 슬라이드 물빠짐 선반]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_KIT_SINKRACK888]]></goodsCd>
+<cateCd><![CDATA[073]]></cateCd>
+<allCateCd><![CDATA[073]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[888]]></goodsModelNo>
+<goodsSearchWord><![CDATA[싱크대선반,물빠짐선반,수세미거치대,주방정리대,행주걸이,무타공선반]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2500]]></goodsPrice>
+<fixedPrice><![CDATA[2500]]></fixedPrice>
+<costPrice><![CDATA[2061]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[12]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[45도 경사 물받이 + 타공 바닥. 수세미·세제·행주를 한 번에 정리하는 무타공 싱크 선반.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg" alt="싱크대 물빠짐 선반<br>행주봉 일체형 주방 정리대"></div>
+<div class="eyebrow">SINK ORGANIZER</div>
+<div class="h1">싱크대 물빠짐 선반<br>행주봉 일체형 주방 정리대</div>
+<div class="sub">45° 경사 물받이로 고인 물이 그대로 싱크로</div>
+
+<div class="stat"><div><b>45°</b><span>경사 배수판</span></div><div><b>타공</b><span>전면 통풍 설계</span></div><div><b>무타공</b><span>설치 불필요</span></div></div>
+
+<div class="sec">
+<h2>수세미·철수세미·세제를 한자리에</h2>
+<p class="d">슬릿 타공 바닥으로 물이 바로 빠져 수세미가 눅눅해지지 않습니다. 세제통까지 함께 올릴 수 있는 여유 폭입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060883774_p4_0c.jpg" alt="수세미·철수세미·세제를 한자리에">
+</div>
+<div class="sec alt">
+<h2>45° 기울어진 물받이 트레이</h2>
+<p class="d">선반 아래 경사판이 물을 모아 싱크볼 쪽으로 흘려보냅니다. 상판에 물이 고이지 않아 물때가 덜 생깁니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060885724_p4_2c.jpg" alt="45° 기울어진 물받이 트레이">
+</div>
+<div class="sec">
+<h2>드릴·타공 없이 싱크 턱에 올리기</h2>
+<p class="d">벽에 구멍을 내거나 접착제를 쓰지 않고 싱크 가장자리에 올려두면 끝. 필요할 때 옮기거나 통째로 세척할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg" alt="드릴·타공 없이 싱크 턱에 올리기">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>가공 PP + 스테인리스 행주봉</td></tr><tr><th>색상</th><td>그레이 / 아이보리</td></tr><tr><th>구성 옵션</th><td>단품 / 행주봉 포함형</td></tr><tr><th>중량</th><td>약 200g</td></tr><tr><th>설치</th><td>무타공 거치식</td></tr><tr><th>용도</th><td>수세미·세제·행주·칫솔 정리</td></tr><tr><th>사용 위치</th><td>주방 싱크대 / 욕실 세면대</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>2color</span><span>무타공 설치</span></div>
+<div class="moq">최소 주문 12개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 행주봉은 분리되나요?</div><div class="a">A. 행주봉 포함형은 봉을 끼우는 구조로, 필요에 따라 빼고 쓸 수 있습니다.</div><div class="q">Q. 욕실에서도 쓸 수 있나요?</div><div class="a">A. 네. 세면대 옆에 두고 칫솔컵·클렌저 정리용으로도 사용됩니다.</div><div class="q">Q. 싱크 턱 폭이 좁아도 되나요?</div><div class="a">A. 거치식이라 일반 싱크대 가장자리에 대부분 안정적으로 올라갑니다.</div><div class="q">Q. 대량 발주 단가 협의 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg" alt="싱크대 물빠짐 선반<br>행주봉 일체형 주방 정리대"></div>
+<div class="eyebrow">SINK ORGANIZER</div>
+<div class="h1">싱크대 물빠짐 선반<br>행주봉 일체형 주방 정리대</div>
+<div class="sub">45° 경사 물받이로 고인 물이 그대로 싱크로</div>
+
+<div class="stat"><div><b>45°</b><span>경사 배수판</span></div><div><b>타공</b><span>전면 통풍 설계</span></div><div><b>무타공</b><span>설치 불필요</span></div></div>
+
+<div class="sec">
+<h2>수세미·철수세미·세제를 한자리에</h2>
+<p class="d">슬릿 타공 바닥으로 물이 바로 빠져 수세미가 눅눅해지지 않습니다. 세제통까지 함께 올릴 수 있는 여유 폭입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060883774_p4_0c.jpg" alt="수세미·철수세미·세제를 한자리에">
+</div>
+<div class="sec alt">
+<h2>45° 기울어진 물받이 트레이</h2>
+<p class="d">선반 아래 경사판이 물을 모아 싱크볼 쪽으로 흘려보냅니다. 상판에 물이 고이지 않아 물때가 덜 생깁니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060885724_p4_2c.jpg" alt="45° 기울어진 물받이 트레이">
+</div>
+<div class="sec">
+<h2>드릴·타공 없이 싱크 턱에 올리기</h2>
+<p class="d">벽에 구멍을 내거나 접착제를 쓰지 않고 싱크 가장자리에 올려두면 끝. 필요할 때 옮기거나 통째로 세척할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg" alt="드릴·타공 없이 싱크 턱에 올리기">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>가공 PP + 스테인리스 행주봉</td></tr><tr><th>색상</th><td>그레이 / 아이보리</td></tr><tr><th>구성 옵션</th><td>단품 / 행주봉 포함형</td></tr><tr><th>중량</th><td>약 200g</td></tr><tr><th>설치</th><td>무타공 거치식</td></tr><tr><th>용도</th><td>수세미·세제·행주·칫솔 정리</td></tr><tr><th>사용 위치</th><td>주방 싱크대 / 욕실 세면대</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>2color</span><span>무타공 설치</span></div>
+<div class="moq">최소 주문 12개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 행주봉은 분리되나요?</div><div class="a">A. 행주봉 포함형은 봉을 끼우는 구조로, 필요에 따라 빼고 쓸 수 있습니다.</div><div class="q">Q. 욕실에서도 쓸 수 있나요?</div><div class="a">A. 네. 세면대 옆에 두고 칫솔컵·클렌저 정리용으로도 사용됩니다.</div><div class="q">Q. 싱크 턱 폭이 좁아도 되나요?</div><div class="a">A. 거치식이라 일반 싱크대 가장자리에 대부분 안정적으로 올라갑니다.</div><div class="q">Q. 대량 발주 단가 협의 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1055719290519.html 货号888 ¥5.5(단품)/¥6.0(행주봉포함) PP 200g 그레이·미백 2color]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060883774_p4_0c.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060885724_p4_2c.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060882190_p4_4.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060883774_p4_0c.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060885724_p4_2c.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
