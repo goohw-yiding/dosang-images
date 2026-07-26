@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[접이식 삼각 캠핑 의자 특대형 31x31x38cm 낚시 등받이없는 폴딩 스툴]]></goodsNm>
+<purchaseGoodsNm><![CDATA[접이식 삼각 캠핑 의자 특대형]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_TRISTOOL_38]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[JD-1001]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑의자,접이식의자,낚시의자,폴딩스툴,야외의자,경량의자]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[3500]]></goodsPrice>
+<fixedPrice><![CDATA[3500]]></fixedPrice>
+<costPrice><![CDATA[2915]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[9]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[16mm 강관 프레임의 초경량 삼각 접이식 의자. 캠핑·낚시·행사 대기용.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062192004_stoolmain.jpg" alt="접이식 삼각 캠핑 의자 (특대형 31×31×38cm)"></div>
+<div class="eyebrow">CAMPING & OUTDOOR</div>
+<div class="h1">접이식 삼각 캠핑 의자 (특대형 31×31×38cm)</div>
+<div class="sub">16mm 강관 프레임 · 옥스포드 원단 · 한 손에 들리는 무게</div>
+
+<div class="stat"><div><b>31×31×38cm</b><span>펼침 규격</span></div><div><b>16mm</b><span>강관 굵기</span></div><div><b>5color</b><span>컬러 선택</span></div></div>
+
+<div class="sec">
+<h2>펼치면 의자, 접으면 막대</h2>
+<p class="d">다리를 벌리기만 하면 바로 앉을 수 있고, 접으면 한 손에 잡히는 막대 형태가 됩니다. 낚시·캠핑·행사장 대기용으로 두루 쓰입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062193577_stoold2.jpg" alt="펼치면 의자, 접으면 막대">
+</div>
+<div class="sec alt">
+<h2>미끄러지지 않는 교차 결합 구조</h2>
+<p class="d">세 다리가 중앙 조인트에서 교차 고정되어 흔들림이 적습니다. 다리 끝 캡으로 바닥 긁힘도 줄였습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062195021_stoold3.jpg" alt="미끄러지지 않는 교차 결합 구조">
+</div>
+<div class="sec">
+<h2>컬러별 대량 발주 가능</h2>
+<p class="d">레드·블루·그린·네이비·블랙 5색으로 운영합니다. 행사·단체 납품용 컬러 지정 발주가 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062196251_stoold4.jpg" alt="컬러별 대량 발주 가능">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>접이식 삼각 캠핑 의자</td></tr><tr><th>규격</th><td>31 × 31 × 38cm (특대형)</td></tr><tr><th>소재</th><td>스틸 강관(16mm) + 옥스포드 원단</td></tr><tr><th>컬러</th><td>레드 / 블루 / 그린 / 네이비 / 블랙</td></tr><tr><th>접이 여부</th><td>가능</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>모델</th><td>JD-1001</td></tr><tr><th>구성</th><td>의자 1개</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량</span><span>접이식</span><span>5컬러</span><span>B2B 도매</span></div>
+<div class="moq">최소 구매수량 9개부터 주문 가능합니다. 컬러 혼합·단체 발주는 별도 문의 주세요.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 체중 몇 kg까지 견디나요?</div><div class="a">A. 16mm 강관 프레임 기준 성인 체중 사용을 전제로 제작되었습니다. 무리한 하중이나 한쪽으로 치우친 착석은 피해 주세요.</div><div class="q">Q. 소형 사이즈도 있나요?</div><div class="a">A. 23×23×28cm 소형 규격도 운영 가능합니다. 필요 시 문의 주세요.</div><div class="q">Q. 보관은 어떻게 하나요?</div><div class="a">A. 접은 뒤 밴드로 고정해 세워 보관하면 부피를 거의 차지하지 않습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062192004_stoolmain.jpg" alt="접이식 삼각 캠핑 의자 (특대형 31×31×38cm)"></div>
+<div class="eyebrow">CAMPING & OUTDOOR</div>
+<div class="h1">접이식 삼각 캠핑 의자 (특대형 31×31×38cm)</div>
+<div class="sub">16mm 강관 프레임 · 옥스포드 원단 · 한 손에 들리는 무게</div>
+
+<div class="stat"><div><b>31×31×38cm</b><span>펼침 규격</span></div><div><b>16mm</b><span>강관 굵기</span></div><div><b>5color</b><span>컬러 선택</span></div></div>
+
+<div class="sec">
+<h2>펼치면 의자, 접으면 막대</h2>
+<p class="d">다리를 벌리기만 하면 바로 앉을 수 있고, 접으면 한 손에 잡히는 막대 형태가 됩니다. 낚시·캠핑·행사장 대기용으로 두루 쓰입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062193577_stoold2.jpg" alt="펼치면 의자, 접으면 막대">
+</div>
+<div class="sec alt">
+<h2>미끄러지지 않는 교차 결합 구조</h2>
+<p class="d">세 다리가 중앙 조인트에서 교차 고정되어 흔들림이 적습니다. 다리 끝 캡으로 바닥 긁힘도 줄였습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062195021_stoold3.jpg" alt="미끄러지지 않는 교차 결합 구조">
+</div>
+<div class="sec">
+<h2>컬러별 대량 발주 가능</h2>
+<p class="d">레드·블루·그린·네이비·블랙 5색으로 운영합니다. 행사·단체 납품용 컬러 지정 발주가 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062196251_stoold4.jpg" alt="컬러별 대량 발주 가능">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>접이식 삼각 캠핑 의자</td></tr><tr><th>규격</th><td>31 × 31 × 38cm (특대형)</td></tr><tr><th>소재</th><td>스틸 강관(16mm) + 옥스포드 원단</td></tr><tr><th>컬러</th><td>레드 / 블루 / 그린 / 네이비 / 블랙</td></tr><tr><th>접이 여부</th><td>가능</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>모델</th><td>JD-1001</td></tr><tr><th>구성</th><td>의자 1개</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량</span><span>접이식</span><span>5컬러</span><span>B2B 도매</span></div>
+<div class="moq">최소 구매수량 9개부터 주문 가능합니다. 컬러 혼합·단체 발주는 별도 문의 주세요.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 체중 몇 kg까지 견디나요?</div><div class="a">A. 16mm 강관 프레임 기준 성인 체중 사용을 전제로 제작되었습니다. 무리한 하중이나 한쪽으로 치우친 착석은 피해 주세요.</div><div class="q">Q. 소형 사이즈도 있나요?</div><div class="a">A. 23×23×28cm 소형 규격도 운영 가능합니다. 필요 시 문의 주세요.</div><div class="q">Q. 보관은 어떻게 하나요?</div><div class="a">A. 접은 뒤 밴드로 고정해 세워 보관하면 부피를 거의 차지하지 않습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/836278144655.html 货号 JD-1001 옵션 31*31*38 특대호 ¥9.2 (소호 23*23*28 ¥7). 10개起批]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062192004_stoolmain.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062192004_stoolmain.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062192004_stoolmain.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062193577_stoold2.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062195021_stoold3.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062196251_stoold4.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062192004_stoolmain.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062193577_stoold2.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062195021_stoold3.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785062196251_stoold4.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
