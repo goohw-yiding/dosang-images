@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[자동차 타이어 스노우체인 크로스형 승용차 SUV 겸용 비상 탈출 체인 (1개입)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[스노우체인 크로스형 1개입]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_SNOWCHAIN1]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[SNOWCHAIN-CROSS]]></goodsModelNo>
+<goodsSearchWord><![CDATA[스노우체인,타이어체인,자동차체인,눈길체인,월동용품,차량용품,SUV체인,비상탈출]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[3800]]></goodsPrice>
+<fixedPrice><![CDATA[3800]]></fixedPrice>
+<costPrice><![CDATA[3165]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[8]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[망간강 크로스 체인 / 원터치 텐셔너 / 145-215·225-265 2규격 / 1개입]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg" alt="자동차 타이어 스노우체인 크로스형<br>승용차·SUV 겸용 비상 탈출 체인 (1개입)"></div>
+<div class="eyebrow">SNOW CHAIN</div>
+<div class="h1">자동차 타이어 스노우체인 크로스형<br>승용차·SUV 겸용 비상 탈출 체인 (1개입)</div>
+<div class="sub">망간강 크로스 체인 + 원터치 텐셔너 / 145-215 소형 · 225-265 대형 2규격</div>
+
+<div class="stat"><div><b>2규격</b><span>145-215 / 225-265</span></div><div><b>0.7kg</b><span>1개 중량</span></div><div><b>공구 불필요</b><span>원터치 장착</span></div></div>
+
+<div class="sec">
+<h2>눈길·진흙길 비상 탈출용 크로스 체인</h2>
+<p class="d">타이어 접지면을 가로지르는 크로스 배열로 눈길과 진흙길에서 구동력을 확보합니다. 폭설·빙판 구간 통과용 비상 장비로 차량에 상시 비치하기 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg" alt="눈길·진흙길 비상 탈출용 크로스 체인">
+</div>
+<div class="sec alt">
+<h2>원터치 텐셔너로 공구 없이 장착</h2>
+<p class="d">레버식 텐셔너와 웨빙 벨트를 당겨 고정하는 방식이라 별도 공구 없이 장착·해체할 수 있습니다. 장착 후 짧게 주행한 뒤 한 번 더 조여 주시면 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099329616_sc1c_chain.jpg" alt="원터치 텐셔너로 공구 없이 장착">
+</div>
+<div class="sec">
+<h2>망간강 체인 + 내마모 웨빙 벨트</h2>
+<p class="d">도금 처리한 망간강 체인과 두꺼운 웨빙 벨트, 강판 브래킷으로 구성했습니다. 접지 부위별 확대 사진으로 마감을 확인하실 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099331453_sc4_chain.jpg" alt="망간강 체인 + 내마모 웨빙 벨트">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>품명</th><td>자동차 타이어 스노우체인 (크로스형)</td></tr><tr><th>소재</th><td>망간강 체인 + 강판 브래킷 + 폴리에스터 웨빙</td></tr><tr><th>규격</th><td>소형 145-215 / 대형 225-265</td></tr><tr><th>중량</th><td>약 0.7kg (1개 기준)</td></tr><tr><th>구성</th><td>체인 1개 (OPP 포장)</td></tr><tr><th>적용 차종</th><td>승용차 · SUV 범용</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>전원</th><td>해당 없음</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>OEM/ODM 가능</span><span>2규격 혼합 발주</span></div>
+<div class="moq">최소 구매수량 8개 / 대량 발주 및 OEM 포장 문의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 몇 개를 구매해야 하나요?</div><div class="a">A. 본 상품은 체인 1개 단위 판매입니다. 일반적으로 구동축 2바퀴 기준 2개, 4바퀴 전체 장착 시 4개가 필요합니다.</div><div class="q">Q. 타이어 규격은 어떻게 고르나요?</div><div class="a">A. 타이어 옆면 표기의 폭(mm)을 기준으로 145-215는 소형, 225-265는 대형을 선택하시면 됩니다. 차량별 휠하우스 여유 공간은 반드시 사전 확인해 주세요.</div><div class="q">Q. 주행 속도 제한이 있나요?</div><div class="a">A. 체인 장착 시에는 시속 30~40km 이하 저속 주행을 권장합니다. 눈이 없는 포장도로에서는 즉시 탈거해 주세요.</div><div class="q">Q. 안전인증 장비인가요?</div><div class="a">A. 일반 차량용품이며 별도의 안전인증·형식승인 대상 장비가 아닙니다. 상용 견인·하중 지지 용도로는 사용할 수 없습니다.</div><div class="q">Q. 전기 부품이 있나요?</div><div class="a">A. 없습니다. 전원·배터리·전자 부품이 전혀 없는 순수 기계식 제품입니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg" alt="자동차 타이어 스노우체인 크로스형<br>승용차·SUV 겸용 비상 탈출 체인 (1개입)"></div>
+<div class="eyebrow">SNOW CHAIN</div>
+<div class="h1">자동차 타이어 스노우체인 크로스형<br>승용차·SUV 겸용 비상 탈출 체인 (1개입)</div>
+<div class="sub">망간강 크로스 체인 + 원터치 텐셔너 / 145-215 소형 · 225-265 대형 2규격</div>
+
+<div class="stat"><div><b>2규격</b><span>145-215 / 225-265</span></div><div><b>0.7kg</b><span>1개 중량</span></div><div><b>공구 불필요</b><span>원터치 장착</span></div></div>
+
+<div class="sec">
+<h2>눈길·진흙길 비상 탈출용 크로스 체인</h2>
+<p class="d">타이어 접지면을 가로지르는 크로스 배열로 눈길과 진흙길에서 구동력을 확보합니다. 폭설·빙판 구간 통과용 비상 장비로 차량에 상시 비치하기 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg" alt="눈길·진흙길 비상 탈출용 크로스 체인">
+</div>
+<div class="sec alt">
+<h2>원터치 텐셔너로 공구 없이 장착</h2>
+<p class="d">레버식 텐셔너와 웨빙 벨트를 당겨 고정하는 방식이라 별도 공구 없이 장착·해체할 수 있습니다. 장착 후 짧게 주행한 뒤 한 번 더 조여 주시면 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099329616_sc1c_chain.jpg" alt="원터치 텐셔너로 공구 없이 장착">
+</div>
+<div class="sec">
+<h2>망간강 체인 + 내마모 웨빙 벨트</h2>
+<p class="d">도금 처리한 망간강 체인과 두꺼운 웨빙 벨트, 강판 브래킷으로 구성했습니다. 접지 부위별 확대 사진으로 마감을 확인하실 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099331453_sc4_chain.jpg" alt="망간강 체인 + 내마모 웨빙 벨트">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>품명</th><td>자동차 타이어 스노우체인 (크로스형)</td></tr><tr><th>소재</th><td>망간강 체인 + 강판 브래킷 + 폴리에스터 웨빙</td></tr><tr><th>규격</th><td>소형 145-215 / 대형 225-265</td></tr><tr><th>중량</th><td>약 0.7kg (1개 기준)</td></tr><tr><th>구성</th><td>체인 1개 (OPP 포장)</td></tr><tr><th>적용 차종</th><td>승용차 · SUV 범용</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>전원</th><td>해당 없음</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매 전용</span><span>OEM/ODM 가능</span><span>2규격 혼합 발주</span></div>
+<div class="moq">최소 구매수량 8개 / 대량 발주 및 OEM 포장 문의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 몇 개를 구매해야 하나요?</div><div class="a">A. 본 상품은 체인 1개 단위 판매입니다. 일반적으로 구동축 2바퀴 기준 2개, 4바퀴 전체 장착 시 4개가 필요합니다.</div><div class="q">Q. 타이어 규격은 어떻게 고르나요?</div><div class="a">A. 타이어 옆면 표기의 폭(mm)을 기준으로 145-215는 소형, 225-265는 대형을 선택하시면 됩니다. 차량별 휠하우스 여유 공간은 반드시 사전 확인해 주세요.</div><div class="q">Q. 주행 속도 제한이 있나요?</div><div class="a">A. 체인 장착 시에는 시속 30~40km 이하 저속 주행을 권장합니다. 눈이 없는 포장도로에서는 즉시 탈거해 주세요.</div><div class="q">Q. 안전인증 장비인가요?</div><div class="a">A. 일반 차량용품이며 별도의 안전인증·형식승인 대상 장비가 아닙니다. 상용 견인·하중 지지 용도로는 사용할 수 없습니다.</div><div class="q">Q. 전기 부품이 있나요?</div><div class="a">A. 없습니다. 전원·배터리·전자 부품이 전혀 없는 순수 기계식 제품입니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/607495724302.html / 货号 标准交叉链单条装 / CNY 11 (2규격 동일, 1개 起批) / cbm 0.002 / 이미지 sc2·sc4 clean, sc1 좌33.5%+상10.4%+우96.8%+하78.8% 크롭(판매자 로고·중문 배너·Amazon/eBay/AliExpress 로고 제거). sc3은 휠림에 MAZZINI 브랜드 각인 노출로 배제]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099329616_sc1c_chain.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099331453_sc4_chain.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099327944_sc2_chain.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099329616_sc1c_chain.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785099331453_sc4_chain.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
