@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[150L 접이식 캠핑 웨건 대용량 캠핑카트 알루미늄 테이블 상판 세트]]></goodsNm>
+<purchaseGoodsNm><![CDATA[150L 접이식 캠핑 웨건 (테이블 상판 세트)]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMP_WAGON150T]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[WAGON-150L-TB]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑웨건,캠핑카트,접이식웨건,캠핑테이블,아웃도어카트,대용량웨건]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[62500]]></goodsPrice>
+<fixedPrice><![CDATA[62500]]></fixedPrice>
+<costPrice><![CDATA[52009]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[150L 대용량 · 테이블 겸용 · 전강 프레임 접이식 캠핑 웨건]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="150L 대용량 접이식 캠핑 웨건<br>알루미늄 테이블 상판 세트"></div>
+<div class="eyebrow">CAMPING WAGON</div>
+<div class="h1">150L 대용량 접이식 캠핑 웨건<br>알루미늄 테이블 상판 세트</div>
+<div class="sub">전강 프레임 · 9CM 광폭 타이어 · 원터치 폴딩 수납</div>
+
+<div class="stat"><div><b>150L</b><span>적재 용량</span></div><div><b>87cm</b><span>전장(펼침)</span></div><div><b>9cm</b><span>광폭 휠</span></div></div>
+
+<div class="sec">
+<h2>한 대로 웨건과 테이블 두 가지</h2>
+<p class="d">상판을 올리면 캠핑 테이블, 내리면 대용량 적재 웨건으로 사용합니다. 별도 테이블을 챙기지 않아도 되어 차량 적재 공간을 크게 아낄 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="한 대로 웨건과 테이블 두 가지">
+</div>
+<div class="sec alt">
+<h2>전강 프레임 + 600D 옥스퍼드 원단</h2>
+<p class="d">차체 전체를 강관 프레임으로 구성하고 바닥과 측면은 600D 옥스퍼드 원단으로 마감했습니다. 캠핑장 자갈길, 잔디, 모래밭에서도 형태가 무너지지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="전강 프레임 + 600D 옥스퍼드 원단">
+</div>
+<div class="sec">
+<h2>접으면 트렁크 한켠에</h2>
+<p class="d">사용 후 X형 프레임을 접으면 부피가 크게 줄어 승용차 트렁크에도 무리 없이 들어갑니다. 손잡이 높이는 69~95cm 범위에서 조절됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="접으면 트렁크 한켠에">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>150L 접이식 캠핑 웨건 (테이블 상판 세트)</td></tr><tr><th>프레임</th><td>스틸 강관 (전강 프레임)</td></tr><tr><th>원단</th><td>600D 옥스퍼드</td></tr><tr><th>테이블 상판</th><td>알루미늄 롤테이블, 약 88 x 55cm</td></tr><tr><th>차체 사이즈</th><td>전장 약 87cm / 폭 약 45cm / 프레임 높이 약 56.5cm</td></tr><tr><th>손잡이 높이</th><td>69~95cm 조절</td></tr><tr><th>휠</th><td>9cm 광폭 타이어 4륜 (전륜 360° 회전)</td></tr><tr><th>적재 용량</th><td>약 150L</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>대용량 150L</span><span>테이블 겸용</span><span>전강 프레임</span><span>광폭 휠</span></div>
+<div class="moq">최소 구매 수량 1개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전동 제품인가요?</div><div class="a">A. 아닙니다. 모터·배터리·충전 기능이 전혀 없는 순수 수동 견인식 웨건입니다.</div><div class="q">Q. 사람이 탑승해도 되나요?</div><div class="a">A. 불가합니다. 화물 운반 전용이며 사람·반려동물 탑승용 유아차나 카트가 아닙니다.</div><div class="q">Q. 식품을 직접 담아도 되나요?</div><div class="a">A. 원단과 상판은 식품 직접 접촉용 기구가 아닙니다. 식품은 반드시 별도 용기나 아이스박스에 담아 적재해 주세요.</div><div class="q">Q. 경사로에서 사용해도 되나요?</div><div class="a">A. 급경사·계단에서는 사용을 피해 주세요. 정차 시에는 반드시 평지에 세우고 바퀴를 고정해 주세요.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 생산 로트에 따라 원단 색상과 프레임 도장에 미세한 편차가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="150L 대용량 접이식 캠핑 웨건<br>알루미늄 테이블 상판 세트"></div>
+<div class="eyebrow">CAMPING WAGON</div>
+<div class="h1">150L 대용량 접이식 캠핑 웨건<br>알루미늄 테이블 상판 세트</div>
+<div class="sub">전강 프레임 · 9CM 광폭 타이어 · 원터치 폴딩 수납</div>
+
+<div class="stat"><div><b>150L</b><span>적재 용량</span></div><div><b>87cm</b><span>전장(펼침)</span></div><div><b>9cm</b><span>광폭 휠</span></div></div>
+
+<div class="sec">
+<h2>한 대로 웨건과 테이블 두 가지</h2>
+<p class="d">상판을 올리면 캠핑 테이블, 내리면 대용량 적재 웨건으로 사용합니다. 별도 테이블을 챙기지 않아도 되어 차량 적재 공간을 크게 아낄 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="한 대로 웨건과 테이블 두 가지">
+</div>
+<div class="sec alt">
+<h2>전강 프레임 + 600D 옥스퍼드 원단</h2>
+<p class="d">차체 전체를 강관 프레임으로 구성하고 바닥과 측면은 600D 옥스퍼드 원단으로 마감했습니다. 캠핑장 자갈길, 잔디, 모래밭에서도 형태가 무너지지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="전강 프레임 + 600D 옥스퍼드 원단">
+</div>
+<div class="sec">
+<h2>접으면 트렁크 한켠에</h2>
+<p class="d">사용 후 X형 프레임을 접으면 부피가 크게 줄어 승용차 트렁크에도 무리 없이 들어갑니다. 손잡이 높이는 69~95cm 범위에서 조절됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg" alt="접으면 트렁크 한켠에">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>150L 접이식 캠핑 웨건 (테이블 상판 세트)</td></tr><tr><th>프레임</th><td>스틸 강관 (전강 프레임)</td></tr><tr><th>원단</th><td>600D 옥스퍼드</td></tr><tr><th>테이블 상판</th><td>알루미늄 롤테이블, 약 88 x 55cm</td></tr><tr><th>차체 사이즈</th><td>전장 약 87cm / 폭 약 45cm / 프레임 높이 약 56.5cm</td></tr><tr><th>손잡이 높이</th><td>69~95cm 조절</td></tr><tr><th>휠</th><td>9cm 광폭 타이어 4륜 (전륜 360° 회전)</td></tr><tr><th>적재 용량</th><td>약 150L</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>대용량 150L</span><span>테이블 겸용</span><span>전강 프레임</span><span>광폭 휠</span></div>
+<div class="moq">최소 구매 수량 1개부터 주문 가능합니다.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 전동 제품인가요?</div><div class="a">A. 아닙니다. 모터·배터리·충전 기능이 전혀 없는 순수 수동 견인식 웨건입니다.</div><div class="q">Q. 사람이 탑승해도 되나요?</div><div class="a">A. 불가합니다. 화물 운반 전용이며 사람·반려동물 탑승용 유아차나 카트가 아닙니다.</div><div class="q">Q. 식품을 직접 담아도 되나요?</div><div class="a">A. 원단과 상판은 식품 직접 접촉용 기구가 아닙니다. 식품은 반드시 별도 용기나 아이스박스에 담아 적재해 주세요.</div><div class="q">Q. 경사로에서 사용해도 되나요?</div><div class="a">A. 급경사·계단에서는 사용을 피해 주세요. 정차 시에는 반드시 평지에 세우고 바퀴를 고정해 주세요.</div><div class="q">Q. 색상 편차가 있나요?</div><div class="a">A. 생산 로트에 따라 원단 색상과 프레임 도장에 미세한 편차가 있을 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/945510293211.html 옵션 大号10寸推车黑色+桌板 CNY138.88 / cbm0.13]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785088275679_campwagon150.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
