@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[자동차 시트 틈새 수납함 컵홀더 일체형 가죽 차량용 사이드 포켓]]></goodsNm>
+<purchaseGoodsNm><![CDATA[자동차 시트 틈새 수납함 컵홀더 일체형 가죽 차량용 사이드 포켓]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_672334269132]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DS-CAR-GAP-B01]]></goodsModelNo>
+<goodsSearchWord><![CDATA[시트틈새수납함,차량용수납,컵홀더,사이드포켓,차량용품,자동차수납,틈새수납]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[3500]]></goodsPrice>
+<fixedPrice><![CDATA[3500]]></fixedPrice>
+<costPrice><![CDATA[2862]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[9]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[시트 옆 틈새를 수납공간으로 바꿔주는 컵홀더 일체형 가죽 수납함]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg" alt="자동차 시트 틈새 수납함 (컵홀더 일체형)"></div>
+<div class="eyebrow">CAR SEAT GAP ORGANIZER</div>
+<div class="h1">자동차 시트 틈새 수납함 (컵홀더 일체형)</div>
+<div class="sub">가죽 소재 · 곰돌이 포인트 · 운전석/조수석 겸용 · 전차종 범용</div>
+
+<div class="stat"><div><b>1EA</b><span>컵홀더 일체형</span></div><div><b>PU</b><span>가죽 마감</span></div><div><b>범용</b><span>전차종 호환</span></div></div>
+
+<div class="sec">
+<h2>시트와 콘솔 사이 데드스페이스를 수납공간으로</h2>
+<p class="d">시트 옆 틈으로 떨어지던 소지품을 받아주고, 그 자리에서 바로 수납함이 됩니다. 걸어서 끼우는 방식이라 별도 시공이 필요 없습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg" alt="시트와 콘솔 사이 데드스페이스를 수납공간으로">
+</div>
+<div class="sec alt">
+<h2>컵홀더까지 한 번에</h2>
+<p class="d">한쪽 끝에 원형 컵홀더가 일체로 성형되어 있어 음료를 함께 거치할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033167937_seatgap_ds076_gap4.jpg" alt="컵홀더까지 한 번에">
+</div>
+<div class="sec">
+<h2>PU 가죽 마감 + 곰돌이 자수 포인트</h2>
+<p class="d">차량 실내와 이질감 없는 가죽 마감에 곰돌이 자수를 더해 여성·패밀리 고객층 반응이 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033169664_seatgap_ds076_gap7.jpg" alt="PU 가죽 마감 + 곰돌이 자수 포인트">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>자동차 시트 틈새 수납함</td></tr><tr><th>소재</th><td>PU 가죽 + ABS 프레임</td></tr><tr><th>컬러</th><td>블랙 / 아이보리 (곰돌이 포인트)</td></tr><tr><th>사용 위치</th><td>운전석·조수석 시트 옆 틈새</td></tr><tr><th>장착방식</th><td>걸이·끼움식 (무공구)</td></tr><tr><th>구성</th><td>본품 1개</td></tr><tr><th>적용</th><td>전차종 범용</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>안전벨트 버클 작동을 방해하지 않도록 위치를 확인하세요</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>컵홀더 일체형</span><span>무공구 장착</span><span>전차종 범용</span><span>가죽 마감</span></div>
+<div class="moq">최소구매수량 9개부터 / 컬러 혼합 발주 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 차종이 달라도 맞나요?</div><div class="a">A. 시트와 콘솔 사이 틈에 걸치는 범용 구조로 대부분의 승용차·SUV에 사용 가능합니다.</div><div class="q">Q. 운전석·조수석 구분이 있나요?</div><div class="a">A. 좌/우 방향에 따라 컵홀더 위치가 달라 운전석용·조수석용으로 나뉩니다. 발주 시 지정해 주세요.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 마른 천 또는 물티슈로 표면을 닦아 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg" alt="자동차 시트 틈새 수납함 (컵홀더 일체형)"></div>
+<div class="eyebrow">CAR SEAT GAP ORGANIZER</div>
+<div class="h1">자동차 시트 틈새 수납함 (컵홀더 일체형)</div>
+<div class="sub">가죽 소재 · 곰돌이 포인트 · 운전석/조수석 겸용 · 전차종 범용</div>
+
+<div class="stat"><div><b>1EA</b><span>컵홀더 일체형</span></div><div><b>PU</b><span>가죽 마감</span></div><div><b>범용</b><span>전차종 호환</span></div></div>
+
+<div class="sec">
+<h2>시트와 콘솔 사이 데드스페이스를 수납공간으로</h2>
+<p class="d">시트 옆 틈으로 떨어지던 소지품을 받아주고, 그 자리에서 바로 수납함이 됩니다. 걸어서 끼우는 방식이라 별도 시공이 필요 없습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg" alt="시트와 콘솔 사이 데드스페이스를 수납공간으로">
+</div>
+<div class="sec alt">
+<h2>컵홀더까지 한 번에</h2>
+<p class="d">한쪽 끝에 원형 컵홀더가 일체로 성형되어 있어 음료를 함께 거치할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033167937_seatgap_ds076_gap4.jpg" alt="컵홀더까지 한 번에">
+</div>
+<div class="sec">
+<h2>PU 가죽 마감 + 곰돌이 자수 포인트</h2>
+<p class="d">차량 실내와 이질감 없는 가죽 마감에 곰돌이 자수를 더해 여성·패밀리 고객층 반응이 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033169664_seatgap_ds076_gap7.jpg" alt="PU 가죽 마감 + 곰돌이 자수 포인트">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>자동차 시트 틈새 수납함</td></tr><tr><th>소재</th><td>PU 가죽 + ABS 프레임</td></tr><tr><th>컬러</th><td>블랙 / 아이보리 (곰돌이 포인트)</td></tr><tr><th>사용 위치</th><td>운전석·조수석 시트 옆 틈새</td></tr><tr><th>장착방식</th><td>걸이·끼움식 (무공구)</td></tr><tr><th>구성</th><td>본품 1개</td></tr><tr><th>적용</th><td>전차종 범용</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>주의사항</th><td>안전벨트 버클 작동을 방해하지 않도록 위치를 확인하세요</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>컵홀더 일체형</span><span>무공구 장착</span><span>전차종 범용</span><span>가죽 마감</span></div>
+<div class="moq">최소구매수량 9개부터 / 컬러 혼합 발주 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 차종이 달라도 맞나요?</div><div class="a">A. 시트와 콘솔 사이 틈에 걸치는 범용 구조로 대부분의 승용차·SUV에 사용 가능합니다.</div><div class="q">Q. 운전석·조수석 구분이 있나요?</div><div class="a">A. 좌/우 방향에 따라 컵홀더 위치가 달라 운전석용·조수석용으로 나뉩니다. 발주 시 지정해 주세요.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 마른 천 또는 물티슈로 표면을 닦아 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688: https://detail.1688.com/offer/672334269132.html / 品牌:蓝雨 / 매입 CNY9.0(곰돌이) / 义乌市蓝雨汽车用品]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033166459_seatgap_ds076_gap8.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033167937_seatgap_ds076_gap4.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033169664_seatgap_ds076_gap7.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033164896_seatgap_ds076_gap5.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033166459_seatgap_ds076_gap8.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033167937_seatgap_ds076_gap4.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785033169664_seatgap_ds076_gap7.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
