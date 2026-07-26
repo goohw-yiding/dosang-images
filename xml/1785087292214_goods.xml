@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[현관 실크링 흙털이 매트 60x90cm PVC 논슬립 도어매트 발판]]></goodsNm>
+<purchaseGoodsNm><![CDATA[현관 실크링 매트 60x90]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_DOORMAT6090]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[SILK-MAT-6090]]></goodsModelNo>
+<goodsSearchWord><![CDATA[현관매트,흙털이매트,도어매트,논슬립매트,발판,실크링매트]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[7100]]></goodsPrice>
+<fixedPrice><![CDATA[7100]]></fixedPrice>
+<costPrice><![CDATA[5848]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[5]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[고탄성 PVC 실크링으로 흙·모래를 걸러내는 현관 논슬립 매트(60x90cm)]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg" alt="현관 실크링 흙털이 매트 60x90cm"></div>
+<div class="eyebrow">ENTRANCE MAT</div>
+<div class="h1">현관 실크링 흙털이 매트 60x90cm</div>
+<div class="sub">PVC 고탄성 실크링 구조로 신발 흙·모래를 걸러내는 논슬립 현관 매트</div>
+
+<div class="stat"><div><b>60 x 90cm</b><span>기본 사이즈</span></div><div><b>PVC 실크링</b><span>소재 구조</span></div><div><b>10종</b><span>패턴 선택</span></div></div>
+
+<div class="sec">
+<h2>실크링이 흙과 모래를 붙잡습니다</h2>
+<p class="d">촘촘하게 얽힌 고탄성 PVC 실크링 구조가 신발 밑창의 흙·모래를 매트 안쪽으로 떨어뜨려 실내로 유입되는 먼지를 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg" alt="실크링이 흙과 모래를 붙잡습니다">
+</div>
+<div class="sec alt">
+<h2>사각형 · 곡선형 두 가지 형태</h2>
+<p class="d">같은 소재로 사각형과 곡선(曲边) 실루엣을 함께 운영할 수 있어 현관 구조에 맞춰 제안하기 쉽습니다. 가위로 재단해 크기를 줄이는 것도 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087288784_doormat_sq.jpg" alt="사각형 · 곡선형 두 가지 형태">
+</div>
+<div class="sec">
+<h2>물세척 후 털어서 바로 재사용</h2>
+<p class="d">PVC 재질이라 물로 씻어 그늘에서 말리면 되고, 흙이 마른 뒤 털어내기만 해도 관리가 됩니다. 뒷면은 미끄럼 방지 처리.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087290412_doormat_curve.jpg" alt="물세척 후 털어서 바로 재사용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>현관 실크링 흙털이 매트</td></tr><tr><th>소재</th><td>PVC(열전사 패턴)</td></tr><tr><th>기본 사이즈</th><td>60 x 90cm</td></tr><tr><th>전개 사이즈</th><td>40x60 / 50x80 / 60x90 / 60x120 / 80x120 / 100x120 / 120x140cm</td></tr><tr><th>형태</th><td>사각형 / 곡선형</td></tr><tr><th>패턴</th><td>10종</td></tr><tr><th>중량</th><td>약 2.7kg(사이즈별 상이)</td></tr><tr><th>관리</th><td>물세척 후 그늘 건조</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>실크링 구조</span><span>논슬립</span><span>물세척 가능</span><span>재단 가능</span></div>
+<div class="moq">최소구매수량 5개 · 사이즈/패턴 혼합 발주 가능 · 대량 주문 단가 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 실내·실외 어디에 쓰나요?</div><div class="a">A. 현관 안쪽 또는 문 앞 처마 아래 사용을 권장합니다. 직사광선과 비에 계속 노출되면 변색·경화가 빨라질 수 있습니다.</div><div class="q">Q. 바닥이 미끄럽지 않나요?</div><div class="a">A. 뒷면 미끄럼 방지 처리가 되어 있지만, 매끈한 타일 위에서는 처음 며칠 자리를 잡을 때까지 밀릴 수 있습니다. 필요 시 논슬립 테이프를 함께 사용하세요.</div><div class="q">Q. 사이즈를 줄일 수 있나요?</div><div class="a">A. 가위나 커터로 재단이 가능합니다. 다만 재단면은 실크링이 풀리지 않도록 테두리를 따라 조금씩 잘라 주세요.</div><div class="q">Q. 색상 차이가 있나요?</div><div class="a">A. 열전사 패턴 제품이라 로트별로 미세한 색상 차이가 있을 수 있습니다. 실사용에 영향은 없습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg" alt="현관 실크링 흙털이 매트 60x90cm"></div>
+<div class="eyebrow">ENTRANCE MAT</div>
+<div class="h1">현관 실크링 흙털이 매트 60x90cm</div>
+<div class="sub">PVC 고탄성 실크링 구조로 신발 흙·모래를 걸러내는 논슬립 현관 매트</div>
+
+<div class="stat"><div><b>60 x 90cm</b><span>기본 사이즈</span></div><div><b>PVC 실크링</b><span>소재 구조</span></div><div><b>10종</b><span>패턴 선택</span></div></div>
+
+<div class="sec">
+<h2>실크링이 흙과 모래를 붙잡습니다</h2>
+<p class="d">촘촘하게 얽힌 고탄성 PVC 실크링 구조가 신발 밑창의 흙·모래를 매트 안쪽으로 떨어뜨려 실내로 유입되는 먼지를 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg" alt="실크링이 흙과 모래를 붙잡습니다">
+</div>
+<div class="sec alt">
+<h2>사각형 · 곡선형 두 가지 형태</h2>
+<p class="d">같은 소재로 사각형과 곡선(曲边) 실루엣을 함께 운영할 수 있어 현관 구조에 맞춰 제안하기 쉽습니다. 가위로 재단해 크기를 줄이는 것도 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087288784_doormat_sq.jpg" alt="사각형 · 곡선형 두 가지 형태">
+</div>
+<div class="sec">
+<h2>물세척 후 털어서 바로 재사용</h2>
+<p class="d">PVC 재질이라 물로 씻어 그늘에서 말리면 되고, 흙이 마른 뒤 털어내기만 해도 관리가 됩니다. 뒷면은 미끄럼 방지 처리.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087290412_doormat_curve.jpg" alt="물세척 후 털어서 바로 재사용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>현관 실크링 흙털이 매트</td></tr><tr><th>소재</th><td>PVC(열전사 패턴)</td></tr><tr><th>기본 사이즈</th><td>60 x 90cm</td></tr><tr><th>전개 사이즈</th><td>40x60 / 50x80 / 60x90 / 60x120 / 80x120 / 100x120 / 120x140cm</td></tr><tr><th>형태</th><td>사각형 / 곡선형</td></tr><tr><th>패턴</th><td>10종</td></tr><tr><th>중량</th><td>약 2.7kg(사이즈별 상이)</td></tr><tr><th>관리</th><td>물세척 후 그늘 건조</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>실크링 구조</span><span>논슬립</span><span>물세척 가능</span><span>재단 가능</span></div>
+<div class="moq">최소구매수량 5개 · 사이즈/패턴 혼합 발주 가능 · 대량 주문 단가 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 실내·실외 어디에 쓰나요?</div><div class="a">A. 현관 안쪽 또는 문 앞 처마 아래 사용을 권장합니다. 직사광선과 비에 계속 노출되면 변색·경화가 빨라질 수 있습니다.</div><div class="q">Q. 바닥이 미끄럽지 않나요?</div><div class="a">A. 뒷면 미끄럼 방지 처리가 되어 있지만, 매끈한 타일 위에서는 처음 며칠 자리를 잡을 때까지 밀릴 수 있습니다. 필요 시 논슬립 테이프를 함께 사용하세요.</div><div class="q">Q. 사이즈를 줄일 수 있나요?</div><div class="a">A. 가위나 커터로 재단이 가능합니다. 다만 재단면은 실크링이 풀리지 않도록 테두리를 따라 조금씩 잘라 주세요.</div><div class="q">Q. 색상 차이가 있나요?</div><div class="a">A. 열전사 패턴 제품이라 로트별로 미세한 색상 차이가 있을 수 있습니다. 실사용에 영향은 없습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/970276245221.html / 货号 丝圈地垫(브랜드 馨嘉) / 60*90cm CNY18.9 (신인가 7.4는 40x60 최저옵션, 표시 58.8은 120x140) / cbm0.007 / landed 5848 / 갤러리 dm5(clean 렌더) 메인, dm1·dm3 상단 25pct 크롭(HOME FLOOR MAT 영문은 허용, 梵樾/柏溪 중문 색상명 제거). 검색결과 1061845627304 해리포터 IP 오퍼는 회피]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087288784_doormat_sq.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087290412_doormat_curve.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087285148_doormat_main.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087288784_doormat_sq.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785087290412_doormat_curve.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
