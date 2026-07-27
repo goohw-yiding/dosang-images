@@ -213,17 +213,17 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_main_clean.jpg]]></magnifyImageData>
 <magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rect_2tier.jpg]]></magnifyImageData>
 <magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rect_1tier.jpg]]></magnifyImageData>
-<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각2단그레이.jpg]]></magnifyImageData>
-<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각1단그레이.jpg]]></magnifyImageData>
-<magnifyImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각2단그린(.jpg]]></magnifyImageData>
-<magnifyImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각1단그린(.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq2gray.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq1gray.jpg]]></magnifyImageData>
+<magnifyImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq2green.jpg]]></magnifyImageData>
+<magnifyImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq1green.jpg]]></magnifyImageData>
 <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_main_clean.jpg]]></detailImageData>
 <detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rect_2tier.jpg]]></detailImageData>
 <detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rect_1tier.jpg]]></detailImageData>
-<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각2단그레이.jpg]]></detailImageData>
-<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각1단그레이.jpg]]></detailImageData>
-<detailImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각2단그린(.jpg]]></detailImageData>
-<detailImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각1단그린(.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq2gray.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq1gray.jpg]]></detailImageData>
+<detailImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq2green.jpg]]></detailImageData>
+<detailImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq1green.jpg]]></detailImageData>
 <optionFl><![CDATA[y]]></optionFl>
 <optionDisplayFl><![CDATA[s]]></optionDisplayFl>
 <optionTextFl><![CDATA[n]]></optionTextFl>
@@ -236,7 +236,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C1]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각2단그레이.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq2gray.jpg]]></optionImage>
 </optionData>
 <optionData>
 <optionNo><![CDATA[2]]></optionNo>
@@ -246,7 +246,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C2]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각1단그레이.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq1gray.jpg]]></optionImage>
 </optionData>
 <optionData>
 <optionNo><![CDATA[3]]></optionNo>
@@ -256,7 +256,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C3]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각2단그린(.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq2green.jpg]]></optionImage>
 </optionData>
 <optionData>
 <optionNo><![CDATA[4]]></optionNo>
@@ -266,7 +266,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C4]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_사각1단그린(.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_sq1green.jpg]]></optionImage>
 </optionData>
 <optionData>
 <optionNo><![CDATA[5]]></optionNo>
@@ -276,7 +276,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C5]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_원형대형2단그.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rndL2gray.jpg]]></optionImage>
 </optionData>
 <optionData>
 <optionNo><![CDATA[6]]></optionNo>
@@ -286,7 +286,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C6]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_원형대형1단그.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rndL1gray.jpg]]></optionImage>
 </optionData>
 <optionData>
 <optionNo><![CDATA[7]]></optionNo>
@@ -296,7 +296,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C7]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_원형중형2단그.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rndM2gray.jpg]]></optionImage>
 </optionData>
 <optionData>
 <optionNo><![CDATA[8]]></optionNo>
@@ -306,7 +306,7 @@ table th{background:#f3f4f6;color:#444;width:120px;}
 <optionSellFl><![CDATA[y]]></optionSellFl>
 <optionCode><![CDATA[C8]]></optionCode>
 <stockCnt><![CDATA[999]]></stockCnt>
-<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_원형소형1단그.jpg]]></optionImage>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/dryrack_rndS1gray.jpg]]></optionImage>
 </optionData>
 </goods_data>
 </data>
