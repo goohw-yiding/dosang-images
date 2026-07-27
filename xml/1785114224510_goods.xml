@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[접이식 등산스틱 트레킹폴 3단 알루미늄 초경량 270g 36cm 수납]]></goodsNm>
+<purchaseGoodsNm><![CDATA[알루미늄 3단 폴딩 등산스틱 115-135cm]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMP_TREKPOLE36]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[TREKPOLE-36F]]></goodsModelNo>
+<goodsSearchWord><![CDATA[등산스틱,트레킹폴,등산지팡이,접이식스틱,폴딩스틱,캠핑,하이킹,등산용품,아웃도어]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[8700]]></goodsPrice>
+<fixedPrice><![CDATA[8700]]></fixedPrice>
+<costPrice><![CDATA[7168]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[4]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[36cm로 접히는 270g 초경량 3단 알루미늄 등산스틱. 팁캡·스노우바스켓 포함.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg" alt="알루미늄 3단 접이식 등산스틱"></div>
+<div class="eyebrow">OUTDOOR / TREKKING</div>
+<div class="h1">알루미늄 3단 접이식 등산스틱</div>
+<div class="sub">36cm로 접히는 초경량 270g 트레킹 폴. 텐션 잠금 방식으로 115~135cm 무단 조절, 팁캡·스노우바스켓 기본 제공.</div>
+
+<div class="stat"><div><b>270g</b><span>본체 중량</span></div><div><b>36cm</b><span>접이 수납 길이</span></div><div><b>115-135cm</b><span>사용 길이</span></div><div><b>3단</b><span>폴딩 구조</span></div></div>
+
+<div class="sec">
+<h2>접어서 배낭에 쏙</h2>
+<p class="d">3단 폴딩 구조로 36cm까지 줄어들어 데이팩 사이드 포켓이나 배낭 안에 그대로 수납됩니다. 미끄럼 억제 EVA 폼 그립과 길이 조절 손목 스트랩을 적용했습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg" alt="접어서 배낭에 쏙">
+</div>
+<div class="sec alt">
+<h2>초경량 알루미늄 샤프트</h2>
+<p class="d">알루미늄 합금 샤프트로 한 손에 얹은 듯 가벼운 270g. 텐션 잠금으로 115~135cm 사이를 무단 조절해 오르막·내리막에 맞출 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114185093_trekpole36_2_1785114185.jpg" alt="초경량 알루미늄 샤프트">
+</div>
+<div class="sec">
+<h2>노면별 팁 교체</h2>
+<p class="d">카본스틸 팁에 고무 팁캡과 스노우바스켓이 함께 들어 있어 흙길·눈길·포장로에 맞춰 바꿔 끼울 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114186418_trekpole36_3_1785114186.jpg" alt="노면별 팁 교체">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>알루미늄 합금 샤프트 / EVA 그립 / 카본스틸 팁</td></tr><tr><th>중량</th><td>약 270g (1개 기준)</td></tr><tr><th>접이 길이</th><td>약 36cm</td></tr><tr><th>사용 길이</th><td>약 115~135cm 무단 조절</td></tr><tr><th>구조</th><td>3단 폴딩 + 텐션 잠금</td></tr><tr><th>구성</th><td>등산스틱 1개, 고무 팁캡, 스노우바스켓</td></tr><tr><th>색상</th><td>블랙 / 형광그린 / 옐로우 / 퍼플 / 블루</td></tr><tr><th>길이 타입</th><td>롱(170~190cm) / 숏(140~170cm)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량 270g</span><span>36cm 폴딩</span><span>팁캡·스노우바스켓 포함</span><span>전기부품 없음</span></div>
+<div class="moq">최소 구매수량 4개부터 주문 가능합니다. 색상·길이 타입은 발주 시 협의해 주세요.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 의료용 보행보조기로 사용할 수 있나요?</div><div class="a">A. 아니요. 본 제품은 야외 레저용 등산스틱으로 의료기기·보행보조기·목발이 아닙니다. 보행 재활 목적의 사용은 권장하지 않습니다.</div><div class="q">Q. 전기·배터리 부품이 있나요?</div><div class="a">A. 없습니다. 전원, 배터리, LED, 모터가 전혀 들어 있지 않은 순수 기구 제품입니다.</div><div class="q">Q. 체중을 완전히 실어도 되나요?</div><div class="a">A. 보행 보조용 지지 압력을 전제로 설계된 제품으로, 체중을 완전히 실어 매달리거나 도약·지렛대 용도로 사용하면 파손될 수 있습니다.</div><div class="q">Q. 식품에 닿는 용도로 쓸 수 있나요?</div><div class="a">A. 아니요. 식품과 직접 접촉하는 기구가 아니므로 조리·취식 용도로 사용하지 마세요.</div><div class="q">Q. 색상과 길이는 지정할 수 있나요?</div><div class="a">A. 가능합니다. 롱/숏 타입과 색상은 발주 수량에 따라 조합해 드리니 주문 시 요청해 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg" alt="알루미늄 3단 접이식 등산스틱"></div>
+<div class="eyebrow">OUTDOOR / TREKKING</div>
+<div class="h1">알루미늄 3단 접이식 등산스틱</div>
+<div class="sub">36cm로 접히는 초경량 270g 트레킹 폴. 텐션 잠금 방식으로 115~135cm 무단 조절, 팁캡·스노우바스켓 기본 제공.</div>
+
+<div class="stat"><div><b>270g</b><span>본체 중량</span></div><div><b>36cm</b><span>접이 수납 길이</span></div><div><b>115-135cm</b><span>사용 길이</span></div><div><b>3단</b><span>폴딩 구조</span></div></div>
+
+<div class="sec">
+<h2>접어서 배낭에 쏙</h2>
+<p class="d">3단 폴딩 구조로 36cm까지 줄어들어 데이팩 사이드 포켓이나 배낭 안에 그대로 수납됩니다. 미끄럼 억제 EVA 폼 그립과 길이 조절 손목 스트랩을 적용했습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg" alt="접어서 배낭에 쏙">
+</div>
+<div class="sec alt">
+<h2>초경량 알루미늄 샤프트</h2>
+<p class="d">알루미늄 합금 샤프트로 한 손에 얹은 듯 가벼운 270g. 텐션 잠금으로 115~135cm 사이를 무단 조절해 오르막·내리막에 맞출 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114185093_trekpole36_2_1785114185.jpg" alt="초경량 알루미늄 샤프트">
+</div>
+<div class="sec">
+<h2>노면별 팁 교체</h2>
+<p class="d">카본스틸 팁에 고무 팁캡과 스노우바스켓이 함께 들어 있어 흙길·눈길·포장로에 맞춰 바꿔 끼울 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114186418_trekpole36_3_1785114186.jpg" alt="노면별 팁 교체">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>알루미늄 합금 샤프트 / EVA 그립 / 카본스틸 팁</td></tr><tr><th>중량</th><td>약 270g (1개 기준)</td></tr><tr><th>접이 길이</th><td>약 36cm</td></tr><tr><th>사용 길이</th><td>약 115~135cm 무단 조절</td></tr><tr><th>구조</th><td>3단 폴딩 + 텐션 잠금</td></tr><tr><th>구성</th><td>등산스틱 1개, 고무 팁캡, 스노우바스켓</td></tr><tr><th>색상</th><td>블랙 / 형광그린 / 옐로우 / 퍼플 / 블루</td></tr><tr><th>길이 타입</th><td>롱(170~190cm) / 숏(140~170cm)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량 270g</span><span>36cm 폴딩</span><span>팁캡·스노우바스켓 포함</span><span>전기부품 없음</span></div>
+<div class="moq">최소 구매수량 4개부터 주문 가능합니다. 색상·길이 타입은 발주 시 협의해 주세요.</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 의료용 보행보조기로 사용할 수 있나요?</div><div class="a">A. 아니요. 본 제품은 야외 레저용 등산스틱으로 의료기기·보행보조기·목발이 아닙니다. 보행 재활 목적의 사용은 권장하지 않습니다.</div><div class="q">Q. 전기·배터리 부품이 있나요?</div><div class="a">A. 없습니다. 전원, 배터리, LED, 모터가 전혀 들어 있지 않은 순수 기구 제품입니다.</div><div class="q">Q. 체중을 완전히 실어도 되나요?</div><div class="a">A. 보행 보조용 지지 압력을 전제로 설계된 제품으로, 체중을 완전히 실어 매달리거나 도약·지렛대 용도로 사용하면 파손될 수 있습니다.</div><div class="q">Q. 식품에 닿는 용도로 쓸 수 있나요?</div><div class="a">A. 아니요. 식품과 직접 접촉하는 기구가 아니므로 조리·취식 용도로 사용하지 마세요.</div><div class="q">Q. 색상과 길이는 지정할 수 있나요?</div><div class="a">A. 가능합니다. 롱/숏 타입과 색상은 발주 수량에 따라 조합해 드리니 주문 시 요청해 주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/865195838546.html / 货号 其他 / CNY 26.00 (전 옵션 동일, 1根起批) / 宁波匡途户外用品有限公司 / cbm 0.002]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114185093_trekpole36_2_1785114185.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114186418_trekpole36_3_1785114186.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114183680_trekpole36_1_1785114183.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114185093_trekpole36_2_1785114185.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785114186418_trekpole36_3_1785114186.jpg]]></detailImageData>
+<optionFl><![CDATA[n]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+</goods_data>
+</data>
