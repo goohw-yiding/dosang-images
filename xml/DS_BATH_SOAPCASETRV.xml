@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[휴대용 여행 밀폐형 비누케이스]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 1007095177134 / 便携式旅行肥皂盒密闭型 / 0.95위안]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BATH_SOAPCASETRV]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[휴대용|여행|밀폐형|비누케이스]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[1500]]></goodsPrice>
+<fixedPrice><![CDATA[2550]]></fixedPrice>
+<costPrice><![CDATA[1173]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[20]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[물이 새지 않는 밀폐 설계, 여행 · 헬스장 · 캠핑에 필수템]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg" alt="휴대용 여행 밀폐형 비누케이스"></div>
+<div class="eyebrow">TRAVEL ESSENTIALS</div>
+<div class="h1">휴대용 여행 밀폐형 비누케이스</div>
+<div class="sub">물이 새지 않는 밀폐 설계, 여행 · 헬스장 · 캠핑에 필수템</div>
+
+<div class="stat"><div><b>밀폐구조</b><span>물샘 방지</span></div><div><b>미끄럼방지</b><span>실리콘 손잡이</span></div><div><b>3컬러</b><span>투명그레이/화이트/투명블루</span></div></div>
+
+<div class="sec">
+<h2>완전 밀폐 구조</h2>
+<p class="d">비누 사용 후 물기가 새지 않도록 꼼꼼하게 밀폐</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg" alt="완전 밀폐 구조">
+</div>
+<div class="sec alt">
+<h2>미끄럼 방지 손잡이</h2>
+<p class="d">젖은 손으로도 안전하게 잡을 수 있는 실리콘 손잡이</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_2.jpg" alt="미끄럼 방지 손잡이">
+</div>
+<div class="sec">
+<h2>컴팩트한 휴대성</h2>
+<p class="d">파우치, 캐리어 어디에나 쏙 들어가는 사이즈</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_3.jpg" alt="컴팩트한 휴대성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>PP + 실리콘</td></tr><tr><th>색상</th><td>투명그레이/화이트/투명블루</td></tr><tr><th>용도</th><td>여행/헬스장/캠핑용 비누 보관</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자 세금계산서 발행</span></div>
+<div class="moq">최소구매수량 20개부터 주문 가능 · 대량구매 문의환영</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 비누가 녹아 흐르지 않나요?</div><div class="a">A. 하단 배수홈이 있어 물기가 고이지 않고 통풍이 잘 됩니다.</div><div class="q">Q. 색상은 어떻게 고르나요?</div><div class="a">A. 옵션에서 투명그레이/화이트/투명블루 중 선택 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg" alt="휴대용 여행 밀폐형 비누케이스"></div>
+<div class="eyebrow">TRAVEL ESSENTIALS</div>
+<div class="h1">휴대용 여행 밀폐형 비누케이스</div>
+<div class="sub">물이 새지 않는 밀폐 설계, 여행 · 헬스장 · 캠핑에 필수템</div>
+
+<div class="stat"><div><b>밀폐구조</b><span>물샘 방지</span></div><div><b>미끄럼방지</b><span>실리콘 손잡이</span></div><div><b>3컬러</b><span>투명그레이/화이트/투명블루</span></div></div>
+
+<div class="sec">
+<h2>완전 밀폐 구조</h2>
+<p class="d">비누 사용 후 물기가 새지 않도록 꼼꼼하게 밀폐</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg" alt="완전 밀폐 구조">
+</div>
+<div class="sec alt">
+<h2>미끄럼 방지 손잡이</h2>
+<p class="d">젖은 손으로도 안전하게 잡을 수 있는 실리콘 손잡이</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_2.jpg" alt="미끄럼 방지 손잡이">
+</div>
+<div class="sec">
+<h2>컴팩트한 휴대성</h2>
+<p class="d">파우치, 캐리어 어디에나 쏙 들어가는 사이즈</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_3.jpg" alt="컴팩트한 휴대성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>PP + 실리콘</td></tr><tr><th>색상</th><td>투명그레이/화이트/투명블루</td></tr><tr><th>용도</th><td>여행/헬스장/캠핑용 비누 보관</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자 세금계산서 발행</span></div>
+<div class="moq">최소구매수량 20개부터 주문 가능 · 대량구매 문의환영</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 비누가 녹아 흐르지 않나요?</div><div class="a">A. 하단 배수홈이 있어 물기가 고이지 않고 통풍이 잘 됩니다.</div><div class="q">Q. 색상은 어떻게 고르나요?</div><div class="a">A. 옵션에서 투명그레이/화이트/투명블루 중 선택 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주경로] https://detail.1688.com/offer/1007095177134.html / titleCn: 便携式旅行肥皂盒密闭型 / 단가 ¥0.95]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_2.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_3.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_4.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_5.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_detail_2.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_detail_3.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_detail_4.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_detail_6.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_detail_7.jpg]]></detailImageData>
+<detailImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_detail_8.jpg]]></detailImageData>
+<detailImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_1.jpg]]></detailImageData>
+<detailImageData idx="8"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_2.jpg]]></detailImageData>
+<detailImageData idx="9"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_3.jpg]]></detailImageData>
+<detailImageData idx="10"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_4.jpg]]></detailImageData>
+<detailImageData idx="11"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_gallery_5.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[투명그레이]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_opt_1.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[화이트]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_opt_2.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[3]]></optionNo>
+<optionValue1><![CDATA[투명블루]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/1007095177134_opt_3.jpg]]></optionImage>
+</optionData>
+</goods_data>
+</data>
