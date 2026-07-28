@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230189]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[메모리폼 경추베개 슬로우리바운드 목베개]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_MEMPILLOW_40]]></goodsCd>
+<cateCd><![CDATA[071]]></cateCd>
+<allCateCd><![CDATA[071]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[泡泡记忆枕]]></goodsModelNo>
+<goodsSearchWord><![CDATA[메모리폼베개|경추베개|목베개|기능성베개|수면베개]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[10500.00]]></goodsPrice>
+<fixedPrice><![CDATA[10500.00]]></fixedPrice>
+<costPrice><![CDATA[8693.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 메모리폼 슬로우리바운드 · 경추 라인 설계 · 통기성 커버]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="태공 메모리폼 경추베개<br>천천히 복원되는 슬로우리바운드 · 꺼짐 없는 형태 유지"></div>
+<div class="eyebrow">MEMORY FOAM PILLOW</div>
+<div class="h1">태공 메모리폼 경추베개<br>천천히 복원되는 슬로우리바운드 · 꺼짐 없는 형태 유지</div>
+<div class="sub">목·어깨 라인 지지 · 통기성 니트 커버 · 침구·차량·항공 다용도</div>
+
+<div class="stat"><div><b>슬로우리바운드</b><span>메모리폼 소재</span></div><div><b>4.9 / 5.0</b><span>호평 다수</span></div><div><b>35x55cm</b><span>표준 사이즈</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 눌러도 꺼지지 않는 복원력</h2>
+<p class="d">태공 메모리폼이 목 라인을 따라 천천히 복원되어 편안한 지지력을 유지합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="POINT 1. 눌러도 꺼지지 않는 복원력">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 목·어깨 라인 편안하게 지지</h2>
+<p class="d">인체공학적 곡선 설계로 목과 어깨의 부담을 줄여줍니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="POINT 2. 목·어깨 라인 편안하게 지지">
+</div>
+<div class="sec">
+<h2>POINT 3. 차량·항공·기숙사 등 다용도</h2>
+<p class="d">침실뿐 아니라 차량 목베개, 여행용 베개로도 활용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="POINT 3. 차량·항공·기숙사 등 다용도">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>메모리폼(태공 슬로우리바운드)</td></tr><tr><th>커버</th><td>니트 원단</td></tr><tr><th>사이즈</th><td>35x55cm</td></tr><tr><th>형태</th><td>인체공학 곡선형</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 대량 협의</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁은 어떻게 하나요?</div><div class="a">A. A. 커버는 분리 세탁 가능하며, 메모리폼 본체는 물세탁을 피하고 그늘에서 건조해주세요.</div><div class="q">Q. Q. 냄새가 나나요?</div><div class="a">A. A. 개봉 초기 미세한 소재 냄새가 있을 수 있으며, 통풍 시 자연스럽게 사라집니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="태공 메모리폼 경추베개<br>천천히 복원되는 슬로우리바운드 · 꺼짐 없는 형태 유지"></div>
+<div class="eyebrow">MEMORY FOAM PILLOW</div>
+<div class="h1">태공 메모리폼 경추베개<br>천천히 복원되는 슬로우리바운드 · 꺼짐 없는 형태 유지</div>
+<div class="sub">목·어깨 라인 지지 · 통기성 니트 커버 · 침구·차량·항공 다용도</div>
+
+<div class="stat"><div><b>슬로우리바운드</b><span>메모리폼 소재</span></div><div><b>4.9 / 5.0</b><span>호평 다수</span></div><div><b>35x55cm</b><span>표준 사이즈</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 눌러도 꺼지지 않는 복원력</h2>
+<p class="d">태공 메모리폼이 목 라인을 따라 천천히 복원되어 편안한 지지력을 유지합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="POINT 1. 눌러도 꺼지지 않는 복원력">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 목·어깨 라인 편안하게 지지</h2>
+<p class="d">인체공학적 곡선 설계로 목과 어깨의 부담을 줄여줍니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="POINT 2. 목·어깨 라인 편안하게 지지">
+</div>
+<div class="sec">
+<h2>POINT 3. 차량·항공·기숙사 등 다용도</h2>
+<p class="d">침실뿐 아니라 차량 목베개, 여행용 베개로도 활용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937371786_neckpillow_main.jpg" alt="POINT 3. 차량·항공·기숙사 등 다용도">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>메모리폼(태공 슬로우리바운드)</td></tr><tr><th>커버</th><td>니트 원단</td></tr><tr><th>사이즈</th><td>35x55cm</td></tr><tr><th>형태</th><td>인체공학 곡선형</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 대량 협의</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁은 어떻게 하나요?</div><div class="a">A. A. 커버는 분리 세탁 가능하며, 메모리폼 본체는 물세탁을 피하고 그늘에서 건조해주세요.</div><div class="q">Q. Q. 냄새가 나나요?</div><div class="a">A. A. 개봉 초기 미세한 소재 냄새가 있을 수 있으며, 통풍 시 자연스럽게 사라집니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230189/image/detail/1311230189_detail_06.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230189/image/detail/1311230189_detail_06.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230189/image/magnify/1311230189_magnify_085.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230189/image/detail/1311230189_detail_06.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 21000원)]]></optionValue1>
+<optionPrice><![CDATA[10500]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 10500원)]]></optionValue1>
+<optionPrice><![CDATA[42000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230188]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[방수 대형 피크닉매트 8인용 (캠핑 접이식, 소풍·나들이용)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_PICNICMAT_L]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070|070003]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[無]]></goodsModelNo>
+<goodsSearchWord><![CDATA[피크닉매트|캠핑매트|돗자리|방수매트|소풍매트]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5400.00]]></goodsPrice>
+<fixedPrice><![CDATA[5400.00]]></fixedPrice>
+<costPrice><![CDATA[4463.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 8인용 대형사이즈 · 방수원단 · 접이식 휴대]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대"></div>
+<div class="eyebrow">WATERPROOF PICNIC MAT</div>
+<div class="h1">방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대</div>
+<div class="sub">체크 패턴 · 방수 코팅 원단 · 손잡이 달린 접이식 파우치 겸용</div>
+
+<div class="stat"><div><b>8인용</b><span>대형 사이즈</span></div><div><b>방수 코팅</b><span>습기·이물질 차단</span></div><div><b>접이식</b><span>휴대용 파우치 겸용</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 8인용 넉넉한 사이즈</h2>
+<p class="d">가족·모임 나들이에도 충분한 대형 사이즈로 여유롭게 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 1. 8인용 넉넉한 사이즈">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 방수 코팅으로 습기 걱정 없이</h2>
+<p class="d">표면 방수 코팅 처리로 잔디나 모래 위에서도 쾌적하게 사용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 2. 방수 코팅으로 습기 걱정 없이">
+</div>
+<div class="sec">
+<h2>POINT 3. 접으면 휴대용 파우치로 변신</h2>
+<p class="d">사용 후 접으면 손잡이 달린 파우치 형태가 되어 휴대가 간편합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 3. 접으면 휴대용 파우치로 변신">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>방수 코팅 원단</td></tr><tr><th>사이즈</th><td>8인용 대형</td></tr><tr><th>기능</th><td>방수, 접이식, 휴대용</td></tr><tr><th>용도</th><td>캠핑, 소풍, 나들이, 해변</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>색상 다양</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 6개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 물걸레로 닦거나 물세척 후 완전히 건조시켜 보관해주세요.</div><div class="q">Q. Q. 접었을 때 크기는 어느 정도인가요?</div><div class="a">A. A. 손잡이가 달린 파우치 형태로 접혀 가방처럼 휴대할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대"></div>
+<div class="eyebrow">WATERPROOF PICNIC MAT</div>
+<div class="h1">방수 대형 피크닉매트 8인용<br>캠핑·소풍·나들이 · 접이식 휴대</div>
+<div class="sub">체크 패턴 · 방수 코팅 원단 · 손잡이 달린 접이식 파우치 겸용</div>
+
+<div class="stat"><div><b>8인용</b><span>대형 사이즈</span></div><div><b>방수 코팅</b><span>습기·이물질 차단</span></div><div><b>접이식</b><span>휴대용 파우치 겸용</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 8인용 넉넉한 사이즈</h2>
+<p class="d">가족·모임 나들이에도 충분한 대형 사이즈로 여유롭게 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 1. 8인용 넉넉한 사이즈">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 방수 코팅으로 습기 걱정 없이</h2>
+<p class="d">표면 방수 코팅 처리로 잔디나 모래 위에서도 쾌적하게 사용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 2. 방수 코팅으로 습기 걱정 없이">
+</div>
+<div class="sec">
+<h2>POINT 3. 접으면 휴대용 파우치로 변신</h2>
+<p class="d">사용 후 접으면 손잡이 달린 파우치 형태가 되어 휴대가 간편합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784937118070_picnicmat_main.jpg" alt="POINT 3. 접으면 휴대용 파우치로 변신">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>방수 코팅 원단</td></tr><tr><th>사이즈</th><td>8인용 대형</td></tr><tr><th>기능</th><td>방수, 접이식, 휴대용</td></tr><tr><th>용도</th><td>캠핑, 소풍, 나들이, 해변</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>색상 다양</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 6개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 물걸레로 닦거나 물세척 후 완전히 건조시켜 보관해주세요.</div><div class="q">Q. Q. 접었을 때 크기는 어느 정도인가요?</div><div class="a">A. A. 손잡이가 달린 파우치 형태로 접혀 가방처럼 휴대할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/detail/1311230188_detail_086.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/detail/1311230188_detail_086.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/magnify/1311230188_magnify_020.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230188/image/detail/1311230188_detail_086.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 10800원)]]></optionValue1>
+<optionPrice><![CDATA[5400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 5400원)]]></optionValue1>
+<optionPrice><![CDATA[21600]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230187]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[라텍스 냉감 쿨매트 3종세트 (여름 세탁가능 베개커버 포함)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_COOLLATEX_150]]></goodsCd>
+<cateCd><![CDATA[072]]></cateCd>
+<allCateCd><![CDATA[072]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[cp-kmn-凉感印花RJ席]]></goodsModelNo>
+<goodsSearchWord><![CDATA[쿨매트|냉감자리|여름침구|라텍스매트|쿨링침구]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[17000.00]]></goodsPrice>
+<fixedPrice><![CDATA[17000.00]]></fixedPrice>
+<costPrice><![CDATA[14156.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 2개 · 라텍스 냉감 소재 · 매트+베개커버 3종세트 · 세탁 가능]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="라텍스 냉감 자리 3종세트<br>세탁가능 · 여름 쿨매트 · 베개커버"></div>
+<div class="eyebrow">COOL SUMMER MAT SET</div>
+<div class="h1">라텍스 냉감 자리 3종세트<br>세탁가능 · 여름 쿨매트 · 베개커버</div>
+<div class="sub">매트+베개커버 2개 3종 구성 · 냉감 소재로 시원한 촉감 · 세탁기 사용 가능 · 아동/성인 침구로 활용</div>
+
+<div class="stat"><div><b>3종세트</b><span>매트+베개커버2</span></div><div><b>세탁가능</b><span>간편 관리</span></div><div><b>냉감소재</b><span>시원한 촉감</span></div></div>
+
+<div class="sec">
+<h2>3종 세트 구성</h2>
+<p class="d">매트 1 + 베개커버 2개</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="3종 세트 구성">
+</div>
+<div class="sec alt">
+<h2>침대 장착 예시</h2>
+<p class="d">아늑한 인테리어 연출</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="침대 장착 예시">
+</div>
+<div class="sec">
+<h2>다양한 패턴</h2>
+<p class="d">포인트 있는 프린트 디자인</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="다양한 패턴">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>냉감원단(아이스실크/라텍스)</td></tr><tr><th>구성</th><td>매트 1+베개커버 2</td></tr><tr><th>사이즈</th><td>약 150x200cm</td></tr><tr><th>세탁</th><td>세탁기 사용 가능</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>냉감소재</span><span>세탁기사용가능</span><span>3종세트</span></div>
+<div class="moq">최소 주문수량 2개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세탁 시 줄어들지 않나요?</div><div class="a">A. 찬물 세탁 시 수축이 적습니다.</div><div class="q">Q. 아이 방에 사용해도 되나요?</div><div class="a">A. 유아동용으로도 사용하기 좋은 소재입니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="라텍스 냉감 자리 3종세트<br>세탁가능 · 여름 쿨매트 · 베개커버"></div>
+<div class="eyebrow">COOL SUMMER MAT SET</div>
+<div class="h1">라텍스 냉감 자리 3종세트<br>세탁가능 · 여름 쿨매트 · 베개커버</div>
+<div class="sub">매트+베개커버 2개 3종 구성 · 냉감 소재로 시원한 촉감 · 세탁기 사용 가능 · 아동/성인 침구로 활용</div>
+
+<div class="stat"><div><b>3종세트</b><span>매트+베개커버2</span></div><div><b>세탁가능</b><span>간편 관리</span></div><div><b>냉감소재</b><span>시원한 촉감</span></div></div>
+
+<div class="sec">
+<h2>3종 세트 구성</h2>
+<p class="d">매트 1 + 베개커버 2개</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="3종 세트 구성">
+</div>
+<div class="sec alt">
+<h2>침대 장착 예시</h2>
+<p class="d">아늑한 인테리어 연출</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="침대 장착 예시">
+</div>
+<div class="sec">
+<h2>다양한 패턴</h2>
+<p class="d">포인트 있는 프린트 디자인</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936972907_latexmat_main.jpg" alt="다양한 패턴">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>냉감원단(아이스실크/라텍스)</td></tr><tr><th>구성</th><td>매트 1+베개커버 2</td></tr><tr><th>사이즈</th><td>약 150x200cm</td></tr><tr><th>세탁</th><td>세탁기 사용 가능</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>냉감소재</span><span>세탁기사용가능</span><span>3종세트</span></div>
+<div class="moq">최소 주문수량 2개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세탁 시 줄어들지 않나요?</div><div class="a">A. 찬물 세탁 시 수축이 적습니다.</div><div class="q">Q. 아이 방에 사용해도 되나요?</div><div class="a">A. 유아동용으로도 사용하기 좋은 소재입니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/detail/1311230187_detail_082.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/detail/1311230187_detail_082.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/magnify/1311230187_magnify_095.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/magnify/1311230187_magnify_16.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/magnify/1311230187_magnify_285.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/detail/1311230187_detail_082.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/detail/1311230187_detail_138.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230187/image/detail/1311230187_detail_277.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 34000원)]]></optionValue1>
+<optionPrice><![CDATA[17000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 2개 묶음 (개당 17000원)]]></optionValue1>
+<optionPrice><![CDATA[17000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK2]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230186]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[차량용 TPR 냉감 젤 시트쿠션 (통풍 카시트 방석)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CARGELCUSH_M]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076|076004]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[ZD-02]]></goodsModelNo>
+<goodsSearchWord><![CDATA[차량용방석|카시트쿠션|냉감방석|여름카시트|자동차쿠션]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5400.00]]></goodsPrice>
+<fixedPrice><![CDATA[5400.00]]></fixedPrice>
+<costPrice><![CDATA[4481.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · TPR 쿨젤 소재 · 통풍 설계 · 카시트 전용 방석]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="차량용 냉감 젤 시트쿠션<br>TPR 쿨젤 · 통풍 매쉬 · 여름 카시트 방석"></div>
+<div class="eyebrow">COOLING GEL CAR CUSHION</div>
+<div class="h1">차량용 냉감 젤 시트쿠션<br>TPR 쿨젤 · 통풍 매쉬 · 여름 카시트 방석</div>
+<div class="sub">촉감 시원한 젤 소재 · 통기성 매쉬 원단 · 사무실 의자에도 활용 가능</div>
+
+<div class="stat"><div><b>TPR 젤</b><span>시원한 촉감</span></div><div><b>통풍 매쉬</b><span>땀참 없이 쾌적</span></div><div><b>사계절</b><span>차량·사무실 겸용</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 젤 소재로 시원한 착석감</h2>
+<p class="d">TPR 젤 범프가 체온을 분산시켜 여름철에도 시원하게 앉을 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="POINT 1. 젤 소재로 시원한 착석감">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 통풍 매쉬 원단으로 땀참 방지</h2>
+<p class="d">표면 매쉬 원단이 통기성을 높여 장시간 운전에도 쾌적합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="POINT 2. 통풍 매쉬 원단으로 땀참 방지">
+</div>
+<div class="sec">
+<h2>POINT 3. 차량·사무실 겸용</h2>
+<p class="d">운전석은 물론 사무실 의자에도 바로 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="POINT 3. 차량·사무실 겸용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>사이즈</th><td>약 38×38×2cm(중형 기준)</td></tr><tr><th>소재</th><td>TPR 젤 + 매쉬 원단</td></tr><tr><th>기능</th><td>통풍, 냉감</td></tr><tr><th>용도</th><td>차량 시트, 사무실 의자</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>차종 무관 범용</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 6개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 미끄러지지 않나요?</div><div class="a">A. A. 시트 밀착형으로 일반 사용 환경에서 안정적으로 고정됩니다.</div><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 물걸레로 표면을 닦아주시고, 물세척 시 완전 건조 후 사용해주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="차량용 냉감 젤 시트쿠션<br>TPR 쿨젤 · 통풍 매쉬 · 여름 카시트 방석"></div>
+<div class="eyebrow">COOLING GEL CAR CUSHION</div>
+<div class="h1">차량용 냉감 젤 시트쿠션<br>TPR 쿨젤 · 통풍 매쉬 · 여름 카시트 방석</div>
+<div class="sub">촉감 시원한 젤 소재 · 통기성 매쉬 원단 · 사무실 의자에도 활용 가능</div>
+
+<div class="stat"><div><b>TPR 젤</b><span>시원한 촉감</span></div><div><b>통풍 매쉬</b><span>땀참 없이 쾌적</span></div><div><b>사계절</b><span>차량·사무실 겸용</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 젤 소재로 시원한 착석감</h2>
+<p class="d">TPR 젤 범프가 체온을 분산시켜 여름철에도 시원하게 앉을 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="POINT 1. 젤 소재로 시원한 착석감">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 통풍 매쉬 원단으로 땀참 방지</h2>
+<p class="d">표면 매쉬 원단이 통기성을 높여 장시간 운전에도 쾌적합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="POINT 2. 통풍 매쉬 원단으로 땀참 방지">
+</div>
+<div class="sec">
+<h2>POINT 3. 차량·사무실 겸용</h2>
+<p class="d">운전석은 물론 사무실 의자에도 바로 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936715726_carseat_main.jpg" alt="POINT 3. 차량·사무실 겸용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>사이즈</th><td>약 38×38×2cm(중형 기준)</td></tr><tr><th>소재</th><td>TPR 젤 + 매쉬 원단</td></tr><tr><th>기능</th><td>통풍, 냉감</td></tr><tr><th>용도</th><td>차량 시트, 사무실 의자</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>차종 무관 범용</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 6개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 미끄러지지 않나요?</div><div class="a">A. A. 시트 밀착형으로 일반 사용 환경에서 안정적으로 고정됩니다.</div><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 물걸레로 표면을 닦아주시고, 물세척 시 완전 건조 후 사용해주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230186/image/detail/1311230186_detail_014.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230186/image/detail/1311230186_detail_014.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230186/image/magnify/1311230186_magnify_067.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230186/image/detail/1311230186_detail_014.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 10800원)]]></optionValue1>
+<optionPrice><![CDATA[5400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 5400원)]]></optionValue1>
+<optionPrice><![CDATA[21600]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230185]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[면린넨 접이식 수납박스 25L (방진 뚜껑형, 옷·이불 정리)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_FOLDBOX_25L]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075|075003]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[YJ614-1]]></goodsModelNo>
+<goodsSearchWord><![CDATA[수납박스|접이식수납함|이불수납|의류정리함|리빙박스]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[7600.00]]></goodsPrice>
+<fixedPrice><![CDATA[7600.00]]></fixedPrice>
+<costPrice><![CDATA[6303.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 면린넨 25L · 뚜껑형 방진 · 접이식 절반 부피축소]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="면린넨 접이식 방진 수납박스 25L<br>뚜껑형 지퍼 · 옷·이불 정리 · 무설치"></div>
+<div class="eyebrow">FOLDABLE STORAGE BOX 25L</div>
+<div class="h1">면린넨 접이식 방진 수납박스 25L<br>뚜껑형 지퍼 · 옷·이불 정리 · 무설치</div>
+<div class="sub">면마 소재 통기성 · 튼튼한 손잡이 · 붙박이장·베란다·차량 겸용</div>
+
+<div class="stat"><div><b>25L</b><span>대용량</span></div><div><b>뚜껑형</b><span>지퍼 밀폐</span></div><div><b>무설치</b><span>바로 사용 가능</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 25L 대용량으로 넉넉하게</h2>
+<p class="d">옷, 이불, 잡화 등을 한 번에 정리할 수 있는 넉넉한 용량입니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="POINT 1. 25L 대용량으로 넉넉하게">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 튼튼한 손잡이로 이동 편리</h2>
+<p class="d">양쪽 손잡이가 달려 있어 무거운 짐도 편하게 옮길 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="POINT 2. 튼튼한 손잡이로 이동 편리">
+</div>
+<div class="sec">
+<h2>POINT 3. 접이식 구조로 보관도 간편</h2>
+<p class="d">사용하지 않을 때는 납작하게 접어 공간을 절약할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="POINT 3. 접이식 구조로 보관도 간편">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>면린넨</td></tr><tr><th>용량</th><td>25L</td></tr><tr><th>개폐 방식</th><td>지퍼형 뚜껑</td></tr><tr><th>기능</th><td>접이식, 방진, 무설치</td></tr><tr><th>용도</th><td>의류, 이불, 잡화 수납</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 대량 협의</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 4개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁 가능한가요?</div><div class="a">A. A. 물걸레로 표면을 닦아주시고, 심한 오염 시 중성세제로 부분 세척 후 완전 건조해주세요.</div><div class="q">Q. Q. 사이즈 옵션이 있나요?</div><div class="a">A. A. 네, 대량 주문 시 다양한 사이즈 협의가 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="면린넨 접이식 방진 수납박스 25L<br>뚜껑형 지퍼 · 옷·이불 정리 · 무설치"></div>
+<div class="eyebrow">FOLDABLE STORAGE BOX 25L</div>
+<div class="h1">면린넨 접이식 방진 수납박스 25L<br>뚜껑형 지퍼 · 옷·이불 정리 · 무설치</div>
+<div class="sub">면마 소재 통기성 · 튼튼한 손잡이 · 붙박이장·베란다·차량 겸용</div>
+
+<div class="stat"><div><b>25L</b><span>대용량</span></div><div><b>뚜껑형</b><span>지퍼 밀폐</span></div><div><b>무설치</b><span>바로 사용 가능</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 25L 대용량으로 넉넉하게</h2>
+<p class="d">옷, 이불, 잡화 등을 한 번에 정리할 수 있는 넉넉한 용량입니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="POINT 1. 25L 대용량으로 넉넉하게">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 튼튼한 손잡이로 이동 편리</h2>
+<p class="d">양쪽 손잡이가 달려 있어 무거운 짐도 편하게 옮길 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="POINT 2. 튼튼한 손잡이로 이동 편리">
+</div>
+<div class="sec">
+<h2>POINT 3. 접이식 구조로 보관도 간편</h2>
+<p class="d">사용하지 않을 때는 납작하게 접어 공간을 절약할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936598915_storagebox_main.jpg" alt="POINT 3. 접이식 구조로 보관도 간편">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>면린넨</td></tr><tr><th>용량</th><td>25L</td></tr><tr><th>개폐 방식</th><td>지퍼형 뚜껑</td></tr><tr><th>기능</th><td>접이식, 방진, 무설치</td></tr><tr><th>용도</th><td>의류, 이불, 잡화 수납</td></tr><tr><th>제조사</th><td>도매상닷컴</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 대량 협의</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 4개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁 가능한가요?</div><div class="a">A. A. 물걸레로 표면을 닦아주시고, 심한 오염 시 중성세제로 부분 세척 후 완전 건조해주세요.</div><div class="q">Q. Q. 사이즈 옵션이 있나요?</div><div class="a">A. A. 네, 대량 주문 시 다양한 사이즈 협의가 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230185/image/detail/1311230185_detail_014.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230185/image/detail/1311230185_detail_014.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230185/image/magnify/1311230185_magnify_040.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230185/image/detail/1311230185_detail_014.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 15200원)]]></optionValue1>
+<optionPrice><![CDATA[7600]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 7600원)]]></optionValue1>
+<optionPrice><![CDATA[30400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230184]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[TPE 와이드 요가매트 183x80cm (8mm 두께, 논슬립 필라테스)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_YOGAMAT_W80]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074|074002]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[双色]]></goodsModelNo>
+<goodsSearchWord><![CDATA[요가매트|필라테스매트|홈트매트|운동매트|TPE매트]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[14300.00]]></goodsPrice>
+<fixedPrice><![CDATA[14300.00]]></fixedPrice>
+<costPrice><![CDATA[11895.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 2개 · 183x80cm 와이드 · 8mm 두께 · TPE 논슬립]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="TPE 와이드 요가매트 183x80cm<br>8mm 두께 · 양면 논슬립 · 필라테스 겸용"></div>
+<div class="eyebrow">WIDE YOGA MAT</div>
+<div class="h1">TPE 와이드 요가매트 183x80cm<br>8mm 두께 · 양면 논슬립 · 필라테스 겸용</div>
+<div class="sub">친환경 TPE 소재 무취 · 라인 가이드 각인 · 통 넓은 매트로 전신 동작 여유롭게</div>
+
+<div class="stat"><div><b>183x80cm</b><span>확장 사이즈</span></div><div><b>8mm</b><span>두께 논슬립</span></div><div><b>TPE</b><span>친환경 무취 소재</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 넓은 폭 80cm로 여유로운 동작</h2>
+<p class="d">일반 요가매트보다 폭이 넓어 팔다리를 크게 뻗는 동작에서도 밀리지 않습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="POINT 1. 넓은 폭 80cm로 여유로운 동작">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 양면 논슬립 엠보싱 처리</h2>
+<p class="d">앞뒤 모두 미끄럼방지 엠보싱이 적용되어 땀이 나도 안정적으로 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="POINT 2. 양면 논슬립 엠보싱 처리">
+</div>
+<div class="sec">
+<h2>POINT 3. 자세 가이드 라인 각인</h2>
+<p class="d">매트 표면에 자세 정렬을 돕는 라인이 은은하게 각인되어 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="POINT 3. 자세 가이드 라인 각인">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>TPE(친환경)</td></tr><tr><th>사이즈</th><td>183 x 80cm</td></tr><tr><th>두께</th><td>8mm</td></tr><tr><th>구조</th><td>양면 논슬립 엠보싱</td></tr><tr><th>용도</th><td>요가, 필라테스, 스트레칭, 홈트레이닝</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>색상 다양</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 냄새가 나나요?</div><div class="a">A. A. TPE 친환경 소재로 냄새가 거의 없으며, 개봉 초기 미세한 소재 냄새는 통풍 시 사라집니다.</div><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 젖은 천으로 닦아주시고, 물세척 후에는 완전히 건조시켜 보관해주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="TPE 와이드 요가매트 183x80cm<br>8mm 두께 · 양면 논슬립 · 필라테스 겸용"></div>
+<div class="eyebrow">WIDE YOGA MAT</div>
+<div class="h1">TPE 와이드 요가매트 183x80cm<br>8mm 두께 · 양면 논슬립 · 필라테스 겸용</div>
+<div class="sub">친환경 TPE 소재 무취 · 라인 가이드 각인 · 통 넓은 매트로 전신 동작 여유롭게</div>
+
+<div class="stat"><div><b>183x80cm</b><span>확장 사이즈</span></div><div><b>8mm</b><span>두께 논슬립</span></div><div><b>TPE</b><span>친환경 무취 소재</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 넓은 폭 80cm로 여유로운 동작</h2>
+<p class="d">일반 요가매트보다 폭이 넓어 팔다리를 크게 뻗는 동작에서도 밀리지 않습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="POINT 1. 넓은 폭 80cm로 여유로운 동작">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 양면 논슬립 엠보싱 처리</h2>
+<p class="d">앞뒤 모두 미끄럼방지 엠보싱이 적용되어 땀이 나도 안정적으로 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="POINT 2. 양면 논슬립 엠보싱 처리">
+</div>
+<div class="sec">
+<h2>POINT 3. 자세 가이드 라인 각인</h2>
+<p class="d">매트 표면에 자세 정렬을 돕는 라인이 은은하게 각인되어 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936504815_yogamat_main.jpg" alt="POINT 3. 자세 가이드 라인 각인">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>TPE(친환경)</td></tr><tr><th>사이즈</th><td>183 x 80cm</td></tr><tr><th>두께</th><td>8mm</td></tr><tr><th>구조</th><td>양면 논슬립 엠보싱</td></tr><tr><th>용도</th><td>요가, 필라테스, 스트레칭, 홈트레이닝</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>색상 다양</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 냄새가 나나요?</div><div class="a">A. A. TPE 친환경 소재로 냄새가 거의 없으며, 개봉 초기 미세한 소재 냄새는 통풍 시 사라집니다.</div><div class="q">Q. Q. 세척은 어떻게 하나요?</div><div class="a">A. A. 젖은 천으로 닦아주시고, 물세척 후에는 완전히 건조시켜 보관해주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230184/image/detail/1311230184_detail_071.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230184/image/detail/1311230184_detail_071.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230184/image/magnify/1311230184_magnify_028.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230184/image/detail/1311230184_detail_071.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 28600원)]]></optionValue1>
+<optionPrice><![CDATA[14300]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 2개 묶음 (개당 14300원)]]></optionValue1>
+<optionPrice><![CDATA[14300]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK2]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230183]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[토끼털터치 산호융 극세사 담요 (사계절 무릎담요, 사무실 낮잠용)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CORALBLK_150]]></goodsCd>
+<cateCd><![CDATA[071]]></cateCd>
+<allCateCd><![CDATA[071]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[28]]></goodsModelNo>
+<goodsSearchWord><![CDATA[담요|무릎담요|산호융담요|극세사담요|사무실낮잠담요]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[18500.00]]></goodsPrice>
+<fixedPrice><![CDATA[18500.00]]></fixedPrice>
+<costPrice><![CDATA[15367.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 2개 · 극세사 산호융 · 사계절 사용 · 무릎담요 겸용]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용"></div>
+<div class="eyebrow">CORAL FLEECE BLANKET</div>
+<div class="h1">토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용</div>
+<div class="sub">보들보들한 촉감 · 정전기 방지 · 세탁기 사용 가능</div>
+
+<div class="stat"><div><b>극세사</b><span>토끼털 촉감</span></div><div><b>사계절</b><span>실내외 겸용</span></div><div><b>세탁기 가능</b><span>관리 편리</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 토끼털처럼 부드러운 촉감</h2>
+<p class="d">고밀도 극세사 원단이 피부에 자극 없이 부드럽게 감싸줍니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 1. 토끼털처럼 부드러운 촉감">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 사무실·차량·거실 어디서나</h2>
+<p class="d">가볍고 따뜻해 무릎담요, 낮잠용, 차량용 등 다양하게 활용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 2. 사무실·차량·거실 어디서나">
+</div>
+<div class="sec">
+<h2>POINT 3. 세탁기 사용 가능, 관리 편리</h2>
+<p class="d">가정용 세탁기로 세탁 가능해 위생적으로 오래 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 3. 세탁기 사용 가능, 관리 편리">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>극세사(산호융, 토끼털 터치)</td></tr><tr><th>기능</th><td>정전기 방지, 세탁기 사용 가능</td></tr><tr><th>용도</th><td>무릎담요, 침구, 사무실, 차량</td></tr><tr><th>계절</th><td>사계절</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 협의 가능</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁 시 보풀이 생기나요?</div><div class="a">A. A. 찬물 세탁 및 그늘 건조를 권장하며, 정상적인 사용에서는 보풀이 적습니다.</div><div class="q">Q. Q. 사이즈 옵션이 있나요?</div><div class="a">A. A. 네, 대량 주문 시 사이즈 협의가 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용"></div>
+<div class="eyebrow">CORAL FLEECE BLANKET</div>
+<div class="h1">토끼털 산호융 극세사 담요<br>사계절 무릎담요 · 사무실·낮잠·차량 겸용</div>
+<div class="sub">보들보들한 촉감 · 정전기 방지 · 세탁기 사용 가능</div>
+
+<div class="stat"><div><b>극세사</b><span>토끼털 촉감</span></div><div><b>사계절</b><span>실내외 겸용</span></div><div><b>세탁기 가능</b><span>관리 편리</span></div></div>
+
+<div class="sec">
+<h2>POINT 1. 토끼털처럼 부드러운 촉감</h2>
+<p class="d">고밀도 극세사 원단이 피부에 자극 없이 부드럽게 감싸줍니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 1. 토끼털처럼 부드러운 촉감">
+</div>
+<div class="sec alt">
+<h2>POINT 2. 사무실·차량·거실 어디서나</h2>
+<p class="d">가볍고 따뜻해 무릎담요, 낮잠용, 차량용 등 다양하게 활용 가능합니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 2. 사무실·차량·거실 어디서나">
+</div>
+<div class="sec">
+<h2>POINT 3. 세탁기 사용 가능, 관리 편리</h2>
+<p class="d">가정용 세탁기로 세탁 가능해 위생적으로 오래 사용할 수 있습니다</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936402872_blanket_main.jpg" alt="POINT 3. 세탁기 사용 가능, 관리 편리">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>극세사(산호융, 토끼털 터치)</td></tr><tr><th>기능</th><td>정전기 방지, 세탁기 사용 가능</td></tr><tr><th>용도</th><td>무릎담요, 침구, 사무실, 차량</td></tr><tr><th>계절</th><td>사계절</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>세금계산서 발행</span><span>사이즈 협의 가능</span><span>1688 직소싱</span></div>
+<div class="moq">최소 주문수량 3개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. Q. 세탁 시 보풀이 생기나요?</div><div class="a">A. A. 찬물 세탁 및 그늘 건조를 권장하며, 정상적인 사용에서는 보풀이 적습니다.</div><div class="q">Q. Q. 사이즈 옵션이 있나요?</div><div class="a">A. A. 네, 대량 주문 시 사이즈 협의가 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/detail/1311230183_detail_010.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/detail/1311230183_detail_010.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/magnify/1311230183_magnify_084.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230183/image/detail/1311230183_detail_010.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 37000원)]]></optionValue1>
+<optionPrice><![CDATA[18500]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 2개 묶음 (개당 18500원)]]></optionValue1>
+<optionPrice><![CDATA[18500]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK2]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230181]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[옥스포드 초경량 접이식 캠핑 의자 (낚시·등산 휴대용)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMPCHAIR_01]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070|070002]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[0011]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑의자|접이식의자|낚시의자|등산의자|야외의자]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4900.00]]></goodsPrice>
+<fixedPrice><![CDATA[4900.00]]></fixedPrice>
+<costPrice><![CDATA[3819.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 옥스포드 원단 · 초경량 접이식 · 낚시/등산 겸용]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="옥스포드 접이식 캠핑 의자<br>낚시 · 등산 · 초경량 · 야외 휴대용"></div>
+<div class="eyebrow">FOLDING CAMP CHAIR</div>
+<div class="h1">옥스포드 접이식 캠핑 의자<br>낚시 · 등산 · 초경량 · 야외 휴대용</div>
+<div class="sub">옥스포드 원단+스틸 프레임 · 초경량 접이식 구조 · 사이드 수납 포켓 · 휴대용 캐리백 포함</div>
+
+<div class="stat"><div><b>초경량</b><span>휴대 간편</span></div><div><b>사이드포켓</b><span>수납 편리</span></div><div><b>접이식</b><span>원터치 폴딩</span></div></div>
+
+<div class="sec">
+<h2>프린트 패턴 디자인</h2>
+<p class="d">캠핑감성을 더하는 패턴</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="프린트 패턴 디자인">
+</div>
+<div class="sec alt">
+<h2>사이드 수납 포켓</h2>
+<p class="d">소지품을 간편하게 보관</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="사이드 수납 포켓">
+</div>
+<div class="sec">
+<h2>접이식 구조</h2>
+<p class="d">컴팩트하게 접어 휴대</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="접이식 구조">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>옥스포드 원단+스틸프레임</td></tr><tr><th>색상</th><td>패턴/블랙/화이트</td></tr><tr><th>사이즈</th><td>약 52x33x33cm</td></tr><tr><th>용도</th><td>캠핑/낚시/등산/야외활동</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량</span><span>접이식</span><span>사이드포켓</span></div>
+<div class="moq">최소 주문수량 7개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 최대 하중은 어느 정도인가요?</div><div class="a">A. 일반 성인 체중 기준 안정적으로 사용 가능합니다.</div><div class="q">Q. 수납 가방이 포함되나요?</div><div class="a">A. 전용 수납 가방이 함께 제공됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="옥스포드 접이식 캠핑 의자<br>낚시 · 등산 · 초경량 · 야외 휴대용"></div>
+<div class="eyebrow">FOLDING CAMP CHAIR</div>
+<div class="h1">옥스포드 접이식 캠핑 의자<br>낚시 · 등산 · 초경량 · 야외 휴대용</div>
+<div class="sub">옥스포드 원단+스틸 프레임 · 초경량 접이식 구조 · 사이드 수납 포켓 · 휴대용 캐리백 포함</div>
+
+<div class="stat"><div><b>초경량</b><span>휴대 간편</span></div><div><b>사이드포켓</b><span>수납 편리</span></div><div><b>접이식</b><span>원터치 폴딩</span></div></div>
+
+<div class="sec">
+<h2>프린트 패턴 디자인</h2>
+<p class="d">캠핑감성을 더하는 패턴</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="프린트 패턴 디자인">
+</div>
+<div class="sec alt">
+<h2>사이드 수납 포켓</h2>
+<p class="d">소지품을 간편하게 보관</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="사이드 수납 포켓">
+</div>
+<div class="sec">
+<h2>접이식 구조</h2>
+<p class="d">컴팩트하게 접어 휴대</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1784936114789_campchair_main.jpg" alt="접이식 구조">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>옥스포드 원단+스틸프레임</td></tr><tr><th>색상</th><td>패턴/블랙/화이트</td></tr><tr><th>사이즈</th><td>약 52x33x33cm</td></tr><tr><th>용도</th><td>캠핑/낚시/등산/야외활동</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>초경량</span><span>접이식</span><span>사이드포켓</span></div>
+<div class="moq">최소 주문수량 7개부터</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 최대 하중은 어느 정도인가요?</div><div class="a">A. 일반 성인 체중 기준 안정적으로 사용 가능합니다.</div><div class="q">Q. 수납 가방이 포함되나요?</div><div class="a">A. 전용 수납 가방이 함께 제공됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230181/image/detail/1311230181_detail_017.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230181/image/detail/1311230181_detail_017.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230181/image/magnify/1311230181_magnify_037.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230181/image/detail/1311230181_detail_017.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 9800원)]]></optionValue1>
+<optionPrice><![CDATA[4900]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 4900원)]]></optionValue1>
+<optionPrice><![CDATA[44100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+</data>
