@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230532]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[여름 메밀베개 냉감 대나무 경추베개 아이스실크]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 925091320554 / 기준 CNY14.08(단품)]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BED_BUCKPILLOW]]></goodsCd>
+<cateCd><![CDATA[071]]></cateCd>
+<allCateCd><![CDATA[071]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[메밀베개|경추베개|냉감베개|여름베개|아이스실크베개]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5700.00]]></goodsPrice>
+<fixedPrice><![CDATA[6840.00]]></fixedPrice>
+<costPrice><![CDATA[4677.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 냉감 아이스실크 커버 · 메밀껍질 충전 · 단품/1+1세트]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_main.jpg" alt="여름 메밀베개 냉감 대나무 경추베개"></div>
+<div class="eyebrow">SUMMER BEDDING</div>
+<div class="h1">여름 메밀베개 냉감 대나무 경추베개</div>
+<div class="sub">냉감 아이스실크 커버 · 메밀껍질 충전 · 목/어깨 편안한 곡선 설계</div>
+
+<div class="stat"><div><b>냉감</b><span>아이스실크 커버</span></div><div><b>메밀</b><span>천연 메밀껍질</span></div><div><b>곡선</b><span>경추라인 설계</span></div></div>
+
+<div class="sec">
+<h2>시원한 냉감 커버</h2>
+<p class="d">아이스실크 소재 커버가 체온을 빠르게 식혀주어 무더운 여름밤 시원하게 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_main.jpg" alt="시원한 냉감 커버">
+</div>
+<div class="sec alt">
+<h2>천연 메밀껍질 충전</h2>
+<p class="d">통기성 좋은 천연 메밀껍질을 충전해 머리 모양에 맞게 자연스럽게 지지해줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_d1.jpg" alt="천연 메밀껍질 충전">
+</div>
+<div class="sec">
+<h2>경추 곡선 설계</h2>
+<p class="d">목과 어깨 라인에 맞춘 인체공학적 곡선 디자인으로 편안한 수면 자세를 도와줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_d2.jpg" alt="경추 곡선 설계">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>아이스실크 커버 + 메밀껍질 충전재</td></tr><tr><th>사이즈</th><td>약 30x50cm</td></tr><tr><th>구성</th><td>단품(1개) 또는 1+1세트(2개) 선택</td></tr><tr><th>색상</th><td>골드/컬러/마 소재 등 다양한 원단 보유(요청 시 안내)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>냉감 아이스실크</span><span>1+1세트 가능</span></div>
+<div class="moq">최소구매수량 6개(3만원 기준) · 구성별 최소수량 상이</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 다른 원단 색상으로 주문할 수 있나요?</div><div class="a">A. 네, 금색/컬러/마 소재 등 다양한 원단 옵션이 있습니다. 주문 시 요청사항에 원하시는 원단을 기재해 주시면 확인 후 안내드립니다.</div><div class="q">Q. 세탁은 어떻게 하나요?</div><div class="a">A. 커버는 분리하여 손세탁 가능하며, 내부 메밀 충전재는 물에 닿지 않도록 주의해주세요.</div><div class="q">Q. 대량 주문 시 리드타임은?</div><div class="a">A. 결제 확인 후 3~7영업일 내 순차 출고되며, 대량 주문은 별도 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_main.jpg" alt="여름 메밀베개 냉감 대나무 경추베개"></div>
+<div class="eyebrow">SUMMER BEDDING</div>
+<div class="h1">여름 메밀베개 냉감 대나무 경추베개</div>
+<div class="sub">냉감 아이스실크 커버 · 메밀껍질 충전 · 목/어깨 편안한 곡선 설계</div>
+
+<div class="stat"><div><b>냉감</b><span>아이스실크 커버</span></div><div><b>메밀</b><span>천연 메밀껍질</span></div><div><b>곡선</b><span>경추라인 설계</span></div></div>
+
+<div class="sec">
+<h2>시원한 냉감 커버</h2>
+<p class="d">아이스실크 소재 커버가 체온을 빠르게 식혀주어 무더운 여름밤 시원하게 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_main.jpg" alt="시원한 냉감 커버">
+</div>
+<div class="sec alt">
+<h2>천연 메밀껍질 충전</h2>
+<p class="d">통기성 좋은 천연 메밀껍질을 충전해 머리 모양에 맞게 자연스럽게 지지해줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_d1.jpg" alt="천연 메밀껍질 충전">
+</div>
+<div class="sec">
+<h2>경추 곡선 설계</h2>
+<p class="d">목과 어깨 라인에 맞춘 인체공학적 곡선 디자인으로 편안한 수면 자세를 도와줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/buckwheatpillow1_d2.jpg" alt="경추 곡선 설계">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>아이스실크 커버 + 메밀껍질 충전재</td></tr><tr><th>사이즈</th><td>약 30x50cm</td></tr><tr><th>구성</th><td>단품(1개) 또는 1+1세트(2개) 선택</td></tr><tr><th>색상</th><td>골드/컬러/마 소재 등 다양한 원단 보유(요청 시 안내)</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>냉감 아이스실크</span><span>1+1세트 가능</span></div>
+<div class="moq">최소구매수량 6개(3만원 기준) · 구성별 최소수량 상이</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 다른 원단 색상으로 주문할 수 있나요?</div><div class="a">A. 네, 금색/컬러/마 소재 등 다양한 원단 옵션이 있습니다. 주문 시 요청사항에 원하시는 원단을 기재해 주시면 확인 후 안내드립니다.</div><div class="q">Q. 세탁은 어떻게 하나요?</div><div class="a">A. 커버는 분리하여 손세탁 가능하며, 내부 메밀 충전재는 물에 닿지 않도록 주의해주세요.</div><div class="q">Q. 대량 주문 시 리드타임은?</div><div class="a">A. 결제 확인 후 3~7영업일 내 순차 출고되며, 대량 주문은 별도 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/925091320554.html / 기준 CNY14.08(단품) / 원단 색상 4종(금藤/彩藤/麻藤/竹) 중 대표 이미지만 사용, 나머지는 요청 시 안내]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_056.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_056.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/magnify/1311230532_magnify_024.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/magnify/1311230532_magnify_126.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/magnify/1311230532_magnify_23.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/magnify/1311230532_magnify_32.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/magnify/1311230532_magnify_468.jpg]]></magnifyImageData>
+<magnifyImageData idx="6"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/magnify/1311230532_magnify_568.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_056.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_180.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_279.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_372.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_491.jpg]]></detailImageData>
+<detailImageData idx="6"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_524.jpg]]></detailImageData>
+<detailImageData idx="7"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230532/image/detail/1311230532_detail_610.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 11400원)]]></optionValue1>
+<optionPrice><![CDATA[5700]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 5700원)]]></optionValue1>
+<optionPrice><![CDATA[22800]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+</data>
