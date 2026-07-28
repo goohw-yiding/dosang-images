@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230390]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[알루미늄 3단 접이식 옷걸이 (캠핑 여행용 휴대 행어)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[알루미늄 폴딩 행어]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAMP_ALHANGER]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070|070004]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[AL-FOLD-HANGER]]></goodsModelNo>
+<goodsSearchWord><![CDATA[접이식옷걸이,캠핑옷걸이,휴대용옷걸이,여행옷걸이,알루미늄행어,차박용품]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2100.00]]></goodsPrice>
+<fixedPrice><![CDATA[2100.00]]></fixedPrice>
+<costPrice><![CDATA[1736.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 펼치면 40cm, 접으면 12cm. 88g 알루미늄 합금 휴대용 접이식 옷걸이.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060713937_p3_4.jpg" alt="알루미늄 3단 접이식 옷걸이<br>캠핑·차박·여행용 휴대 행어"></div>
+<div class="eyebrow">FOLDING HANGER</div>
+<div class="h1">알루미늄 3단 접이식 옷걸이<br>캠핑·차박·여행용 휴대 행어</div>
+<div class="sub">펼치면 40cm, 접으면 12cm — 주머니에 들어가는 옷걸이</div>
+
+<div class="stat"><div><b>40cm</b><span>펼침 폭</span></div><div><b>12cm</b><span>접힘 크기</span></div><div><b>88g</b><span>초경량</span></div></div>
+
+<div class="sec">
+<h2>접으면 손바닥, 펴면 정식 옷걸이</h2>
+<p class="d">양 날개가 두 번 접혀 12 × 4.5cm로 줄어듭니다. 배낭 옆주머니나 파우치에 그대로 들어갑니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060715372_p3_1c.jpg" alt="접으면 손바닥, 펴면 정식 옷걸이">
+</div>
+<div class="sec alt">
+<h2>알루미늄 합금, 가볍지만 튼튼하게</h2>
+<p class="d">무게는 88g에 불과하지만 알루미늄 합금 바디와 리벳 조인트로 아우터도 무리 없이 걸 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060716931_p3_5c.jpg" alt="알루미늄 합금, 가볍지만 튼튼하게">
+</div>
+<div class="sec">
+<h2>텐트 폴·나뭇가지·빨랫줄 어디든</h2>
+<p class="d">상단 오픈 훅 구조로 봉·줄·가지 어디에나 걸리고, 날개 끝 노치가 옷이 흘러내리는 것을 막아줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060717986_p3_0c.jpg" alt="텐트 폴·나뭇가지·빨랫줄 어디든">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>알루미늄 합금</td></tr><tr><th>색상</th><td>블랙 / 골드 / 실버 / 오렌지</td></tr><tr><th>펼친 크기</th><td>약 40 × 20cm</td></tr><tr><th>접은 크기</th><td>약 12 × 4.5cm</td></tr><tr><th>훅 폭</th><td>약 2.5cm</td></tr><tr><th>중량</th><td>약 88~100g</td></tr><tr><th>용도</th><td>캠핑·차박·여행·출장 휴대용 옷걸이</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>4color 구성</span><span>소량 사입 가능</span></div>
+<div class="moq">최소 주문 15개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 색상 혼합 발주가 되나요?</div><div class="a">A. 블랙·골드·실버·오렌지 4색 재고가 있어 수량 배분 요청이 가능합니다.</div><div class="q">Q. 두꺼운 패딩도 걸리나요?</div><div class="a">A. 알루미늄 합금 구조로 일반 아우터·패딩까지 걸 수 있습니다. 다만 과도한 중량은 권장하지 않습니다.</div><div class="q">Q. 접었을 때 저절로 펴지지 않나요?</div><div class="a">A. 리벳 조인트에 마찰이 있어 접은 상태가 유지됩니다.</div><div class="q">Q. 대량 발주 단가 협의 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060713937_p3_4.jpg" alt="알루미늄 3단 접이식 옷걸이<br>캠핑·차박·여행용 휴대 행어"></div>
+<div class="eyebrow">FOLDING HANGER</div>
+<div class="h1">알루미늄 3단 접이식 옷걸이<br>캠핑·차박·여행용 휴대 행어</div>
+<div class="sub">펼치면 40cm, 접으면 12cm — 주머니에 들어가는 옷걸이</div>
+
+<div class="stat"><div><b>40cm</b><span>펼침 폭</span></div><div><b>12cm</b><span>접힘 크기</span></div><div><b>88g</b><span>초경량</span></div></div>
+
+<div class="sec">
+<h2>접으면 손바닥, 펴면 정식 옷걸이</h2>
+<p class="d">양 날개가 두 번 접혀 12 × 4.5cm로 줄어듭니다. 배낭 옆주머니나 파우치에 그대로 들어갑니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060715372_p3_1c.jpg" alt="접으면 손바닥, 펴면 정식 옷걸이">
+</div>
+<div class="sec alt">
+<h2>알루미늄 합금, 가볍지만 튼튼하게</h2>
+<p class="d">무게는 88g에 불과하지만 알루미늄 합금 바디와 리벳 조인트로 아우터도 무리 없이 걸 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060716931_p3_5c.jpg" alt="알루미늄 합금, 가볍지만 튼튼하게">
+</div>
+<div class="sec">
+<h2>텐트 폴·나뭇가지·빨랫줄 어디든</h2>
+<p class="d">상단 오픈 훅 구조로 봉·줄·가지 어디에나 걸리고, 날개 끝 노치가 옷이 흘러내리는 것을 막아줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060717986_p3_0c.jpg" alt="텐트 폴·나뭇가지·빨랫줄 어디든">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>알루미늄 합금</td></tr><tr><th>색상</th><td>블랙 / 골드 / 실버 / 오렌지</td></tr><tr><th>펼친 크기</th><td>약 40 × 20cm</td></tr><tr><th>접은 크기</th><td>약 12 × 4.5cm</td></tr><tr><th>훅 폭</th><td>약 2.5cm</td></tr><tr><th>중량</th><td>약 88~100g</td></tr><tr><th>용도</th><td>캠핑·차박·여행·출장 휴대용 옷걸이</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>4color 구성</span><span>소량 사입 가능</span></div>
+<div class="moq">최소 주문 15개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 색상 혼합 발주가 되나요?</div><div class="a">A. 블랙·골드·실버·오렌지 4색 재고가 있어 수량 배분 요청이 가능합니다.</div><div class="q">Q. 두꺼운 패딩도 걸리나요?</div><div class="a">A. 알루미늄 합금 구조로 일반 아우터·패딩까지 걸 수 있습니다. 다만 과도한 중량은 권장하지 않습니다.</div><div class="q">Q. 접었을 때 저절로 펴지지 않나요?</div><div class="a">A. 리벳 조인트에 마찰이 있어 접은 상태가 유지됩니다.</div><div class="q">Q. 대량 발주 단가 협의 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1056056576424.html 货号 -铝合金衣架 옵션가 ¥5.99(표시 ¥4.99) 알루미늄 88~100g 4color]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/detail/1311230390_detail_08.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/detail/1311230390_detail_08.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/magnify/1311230390_magnify_068.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/magnify/1311230390_magnify_17.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/magnify/1311230390_magnify_218.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/magnify/1311230390_magnify_377.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/detail/1311230390_detail_08.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/detail/1311230390_detail_120.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/detail/1311230390_detail_258.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230390/image/detail/1311230390_detail_317.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 4200원)]]></optionValue1>
+<optionPrice><![CDATA[2100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 2100원)]]></optionValue1>
+<optionPrice><![CDATA[39900]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230389]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[차량용 헤드레스트 다용도 걸이 (시트백 후크 2개 세트)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[차량 좌석 수납 후크 2P]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CAR_HOOK2P]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076|076004]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[CARHOOK-2P]]></goodsModelNo>
+<goodsSearchWord><![CDATA[차량걸이,헤드레스트후크,차량용훅,시트백걸이,자동차수납,우산걸이]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2100.00]]></goodsPrice>
+<fixedPrice><![CDATA[2100.00]]></fixedPrice>
+<costPrice><![CDATA[1712.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 헤드레스트 봉에 끼우는 이중 후크. 우산·장바구니·가방 걸이용 2개 1세트.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060564620_p2_4.jpg" alt="차량 헤드레스트 다용도 걸이<br>2개 1세트 시트백 후크"></div>
+<div class="eyebrow">CAR SEAT HOOK</div>
+<div class="h1">차량 헤드레스트 다용도 걸이<br>2개 1세트 시트백 후크</div>
+<div class="sub">우산·장바구니·가방을 뒷좌석 공간에 깔끔하게</div>
+
+<div class="stat"><div><b>2개</b><span>1세트 구성</span></div><div><b>나일론</b><span>웨빙 스트랩</span></div><div><b>헤드레스트</b><span>봉 고정식</span></div></div>
+
+<div class="sec">
+<h2>헤드레스트 봉에 끼우기만 하면 끝</h2>
+<p class="d">별도 공구나 접착제 없이 시트 헤드레스트 지지봉에 끼워 고정합니다. 클립이 봉을 감싸 주행 중에도 흔들리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060566131_p2_1.jpg" alt="헤드레스트 봉에 끼우기만 하면 끝">
+</div>
+<div class="sec alt">
+<h2>이중 후크로 두 가지를 동시에</h2>
+<p class="d">위아래 두 개의 걸이가 있어 우산과 가방을 각각 걸 수 있습니다. 뒷좌석 바닥에 물건이 굴러다니지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060567840_p2_3.jpg" alt="이중 후크로 두 가지를 동시에">
+</div>
+<div class="sec">
+<h2>무광 블랙, 어떤 실내에도 자연스럽게</h2>
+<p class="d">눈에 띄지 않는 매트 블랙 마감으로 베이지·블랙 인테리어 모두에 무난하게 어울립니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060564620_p2_4.jpg" alt="무광 블랙, 어떤 실내에도 자연스럽게">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>플라스틱 본체 + 나일론/폴리에스터 웨빙</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>구성</th><td>후크 2개 (1세트)</td></tr><tr><th>중량</th><td>세트당 약 50g</td></tr><tr><th>장착 방식</th><td>헤드레스트 지지봉 클립 고정</td></tr><tr><th>용도</th><td>우산·장바구니·가방·수건 걸이</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>소량 사입 가능</span><span>재고 상시</span></div>
+<div class="moq">최소 주문 15세트부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 헤드레스트 봉 굵기가 달라도 되나요?</div><div class="a">A. 일반 승용차 헤드레스트 지지봉 규격에 맞춰 설계되어 대부분 차종에 장착됩니다.</div><div class="q">Q. 무거운 짐도 걸 수 있나요?</div><div class="a">A. 장바구니·우산·에코백 등 일상 소지품 용도로 적합합니다. 과도한 중량물은 권장하지 않습니다.</div><div class="q">Q. 시트에 자국이 남지 않나요?</div><div class="a">A. 봉에 끼우는 방식이라 시트 표면에 접착하거나 구멍을 내지 않습니다.</div><div class="q">Q. 대량 발주 단가 협의 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060564620_p2_4.jpg" alt="차량 헤드레스트 다용도 걸이<br>2개 1세트 시트백 후크"></div>
+<div class="eyebrow">CAR SEAT HOOK</div>
+<div class="h1">차량 헤드레스트 다용도 걸이<br>2개 1세트 시트백 후크</div>
+<div class="sub">우산·장바구니·가방을 뒷좌석 공간에 깔끔하게</div>
+
+<div class="stat"><div><b>2개</b><span>1세트 구성</span></div><div><b>나일론</b><span>웨빙 스트랩</span></div><div><b>헤드레스트</b><span>봉 고정식</span></div></div>
+
+<div class="sec">
+<h2>헤드레스트 봉에 끼우기만 하면 끝</h2>
+<p class="d">별도 공구나 접착제 없이 시트 헤드레스트 지지봉에 끼워 고정합니다. 클립이 봉을 감싸 주행 중에도 흔들리지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060566131_p2_1.jpg" alt="헤드레스트 봉에 끼우기만 하면 끝">
+</div>
+<div class="sec alt">
+<h2>이중 후크로 두 가지를 동시에</h2>
+<p class="d">위아래 두 개의 걸이가 있어 우산과 가방을 각각 걸 수 있습니다. 뒷좌석 바닥에 물건이 굴러다니지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060567840_p2_3.jpg" alt="이중 후크로 두 가지를 동시에">
+</div>
+<div class="sec">
+<h2>무광 블랙, 어떤 실내에도 자연스럽게</h2>
+<p class="d">눈에 띄지 않는 매트 블랙 마감으로 베이지·블랙 인테리어 모두에 무난하게 어울립니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060564620_p2_4.jpg" alt="무광 블랙, 어떤 실내에도 자연스럽게">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>플라스틱 본체 + 나일론/폴리에스터 웨빙</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>구성</th><td>후크 2개 (1세트)</td></tr><tr><th>중량</th><td>세트당 약 50g</td></tr><tr><th>장착 방식</th><td>헤드레스트 지지봉 클립 고정</td></tr><tr><th>용도</th><td>우산·장바구니·가방·수건 걸이</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>소량 사입 가능</span><span>재고 상시</span></div>
+<div class="moq">최소 주문 15세트부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 헤드레스트 봉 굵기가 달라도 되나요?</div><div class="a">A. 일반 승용차 헤드레스트 지지봉 규격에 맞춰 설계되어 대부분 차종에 장착됩니다.</div><div class="q">Q. 무거운 짐도 걸 수 있나요?</div><div class="a">A. 장바구니·우산·에코백 등 일상 소지품 용도로 적합합니다. 과도한 중량물은 권장하지 않습니다.</div><div class="q">Q. 시트에 자국이 남지 않나요?</div><div class="a">A. 봉에 끼우는 방식이라 시트 표면에 접착하거나 구멍을 내지 않습니다.</div><div class="q">Q. 대량 발주 단가 협의 가능한가요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/793008797522.html 货号 汽车座椅收纳挂钩 ¥5.90/2개1팩 나일론+플라스틱 50g]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/detail/1311230389_detail_080.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/detail/1311230389_detail_080.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/magnify/1311230389_magnify_030.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/magnify/1311230389_magnify_15.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/magnify/1311230389_magnify_288.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/detail/1311230389_detail_080.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/detail/1311230389_detail_142.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230389/image/detail/1311230389_detail_288.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 4200원)]]></optionValue1>
+<optionPrice><![CDATA[2100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 2100원)]]></optionValue1>
+<optionPrice><![CDATA[39900]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230388]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[신축형 서랍 정리함 26.8~38.3cm 칸막이 수납박스]]></goodsNm>
+<purchaseGoodsNm><![CDATA[신축 서랍정리함 5008]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LIV_5008X]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075|075004]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[5008]]></goodsModelNo>
+<goodsSearchWord><![CDATA[서랍정리함,수납박스,신축정리함,화장대정리,칸막이수납,서랍칸막이]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[1600.00]]></goodsPrice>
+<fixedPrice><![CDATA[1600.00]]></fixedPrice>
+<costPrice><![CDATA[1312.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 서랍 폭에 맞춰 늘어나는 신축형 정리함. 칸막이 이동으로 2~3칸 자유 분할.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060430874_p1_4.jpg" alt="길이 조절되는 서랍 정리함<br>26.8 → 38.3cm 신축 수납박스"></div>
+<div class="eyebrow">DRAWER ORGANIZER</div>
+<div class="h1">길이 조절되는 서랍 정리함<br>26.8 → 38.3cm 신축 수납박스</div>
+<div class="sub">서랍 크기에 맞춰 늘어나는 PP 소재 분리형 정리함</div>
+
+<div class="stat"><div><b>26.8~38.3cm</b><span>신축 길이</span></div><div><b>PP</b><span>친환경 소재</span></div><div><b>2~3칸</b><span>자유 분할</span></div></div>
+
+<div class="sec">
+<h2>서랍 안에 딱 맞게, 남는 공간 없이</h2>
+<p class="d">좌우로 늘려 서랍 폭에 맞추면 흔들림 없이 고정됩니다. 여러 개를 나란히 배치해도 빈틈이 생기지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060433802_p1_3c.jpg" alt="서랍 안에 딱 맞게, 남는 공간 없이">
+</div>
+<div class="sec alt">
+<h2>칸막이를 옮겨 원하는 대로 분할</h2>
+<p class="d">내부 칸막이를 이동해 2칸·3칸으로 자유롭게 나눌 수 있습니다. 화장품, 문구, 액세서리, 소품까지 한 번에 정리됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060432360_p1_0c.jpg" alt="칸막이를 옮겨 원하는 대로 분할">
+</div>
+<div class="sec">
+<h2>매끈한 무광 화이트, 어디에나 어울림</h2>
+<p class="d">군더더기 없는 심플한 디자인으로 화장대·책상·주방 서랍 어디에 넣어도 깔끔합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060430874_p1_4.jpg" alt="매끈한 무광 화이트, 어디에나 어울림">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>폴리프로필렌(PP)</td></tr><tr><th>색상</th><td>화이트</td></tr><tr><th>사이즈(협형)</th><td>26.8 × 9 × 5.5cm (신축 시 최대 38.3cm)</td></tr><tr><th>사이즈(광형)</th><td>26.8 × 11 × 6cm (신축 시 최대 38.3cm)</td></tr><tr><th>중량</th><td>약 145~186g</td></tr><tr><th>구성</th><td>본체 1개 + 이동식 칸막이</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>품목</th><td>서랍 정리함 / 신축형 수납박스</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>소량 사입 가능</span><span>재고 상시</span></div>
+<div class="moq">최소 주문 19개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 서랍 깊이가 얕아도 들어가나요?</div><div class="a">A. 협형 기준 높이 5.5cm, 광형 6cm로 일반 화장대·책상 서랍에 대부분 들어갑니다.</div><div class="q">Q. 여러 개를 붙여서 쓸 수 있나요?</div><div class="a">A. 네. 측면이 평평해 여러 개를 나란히 배치해 서랍 전체를 구획할 수 있습니다.</div><div class="q">Q. 칸막이는 고정인가요?</div><div class="a">A. 이동식입니다. 홈을 따라 위치를 옮겨 칸 크기를 조절할 수 있습니다.</div><div class="q">Q. 대량 발주 시 단가 협의가 되나요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060430874_p1_4.jpg" alt="길이 조절되는 서랍 정리함<br>26.8 → 38.3cm 신축 수납박스"></div>
+<div class="eyebrow">DRAWER ORGANIZER</div>
+<div class="h1">길이 조절되는 서랍 정리함<br>26.8 → 38.3cm 신축 수납박스</div>
+<div class="sub">서랍 크기에 맞춰 늘어나는 PP 소재 분리형 정리함</div>
+
+<div class="stat"><div><b>26.8~38.3cm</b><span>신축 길이</span></div><div><b>PP</b><span>친환경 소재</span></div><div><b>2~3칸</b><span>자유 분할</span></div></div>
+
+<div class="sec">
+<h2>서랍 안에 딱 맞게, 남는 공간 없이</h2>
+<p class="d">좌우로 늘려 서랍 폭에 맞추면 흔들림 없이 고정됩니다. 여러 개를 나란히 배치해도 빈틈이 생기지 않습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060433802_p1_3c.jpg" alt="서랍 안에 딱 맞게, 남는 공간 없이">
+</div>
+<div class="sec alt">
+<h2>칸막이를 옮겨 원하는 대로 분할</h2>
+<p class="d">내부 칸막이를 이동해 2칸·3칸으로 자유롭게 나눌 수 있습니다. 화장품, 문구, 액세서리, 소품까지 한 번에 정리됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060432360_p1_0c.jpg" alt="칸막이를 옮겨 원하는 대로 분할">
+</div>
+<div class="sec">
+<h2>매끈한 무광 화이트, 어디에나 어울림</h2>
+<p class="d">군더더기 없는 심플한 디자인으로 화장대·책상·주방 서랍 어디에 넣어도 깔끔합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060430874_p1_4.jpg" alt="매끈한 무광 화이트, 어디에나 어울림">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>폴리프로필렌(PP)</td></tr><tr><th>색상</th><td>화이트</td></tr><tr><th>사이즈(협형)</th><td>26.8 × 9 × 5.5cm (신축 시 최대 38.3cm)</td></tr><tr><th>사이즈(광형)</th><td>26.8 × 11 × 6cm (신축 시 최대 38.3cm)</td></tr><tr><th>중량</th><td>약 145~186g</td></tr><tr><th>구성</th><td>본체 1개 + 이동식 칸막이</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>품목</th><td>서랍 정리함 / 신축형 수납박스</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>B2B 전용</span><span>도매 공급</span><span>소량 사입 가능</span><span>재고 상시</span></div>
+<div class="moq">최소 주문 19개부터 / 사입가 기준 공급</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 서랍 깊이가 얕아도 들어가나요?</div><div class="a">A. 협형 기준 높이 5.5cm, 광형 6cm로 일반 화장대·책상 서랍에 대부분 들어갑니다.</div><div class="q">Q. 여러 개를 붙여서 쓸 수 있나요?</div><div class="a">A. 네. 측면이 평평해 여러 개를 나란히 배치해 서랍 전체를 구획할 수 있습니다.</div><div class="q">Q. 칸막이는 고정인가요?</div><div class="a">A. 이동식입니다. 홈을 따라 위치를 옮겨 칸 크기를 조절할 수 있습니다.</div><div class="q">Q. 대량 발주 시 단가 협의가 되나요?</div><div class="a">A. 가능합니다. 수량과 납기를 알려주시면 별도 견적 드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/963583658641.html 货号5008 ¥3.84(광형)/¥3.45(협형) PP 145~186g]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/detail/1311230388_detail_010.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/detail/1311230388_detail_010.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/magnify/1311230388_magnify_071.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/magnify/1311230388_magnify_16.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/magnify/1311230388_magnify_23.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/detail/1311230388_detail_010.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/detail/1311230388_detail_152.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230388/image/detail/1311230388_detail_276.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 3200원)]]></optionValue1>
+<optionPrice><![CDATA[1600]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 1600원)]]></optionValue1>
+<optionPrice><![CDATA[30400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230387]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[패브릭 힙밴드 3종 세트 (20·40·60LB, 저항밴드 필라테스 홈트레이닝)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[패브릭 힙밴드 3종 세트]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_HIPBAND_3SET]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074|074003]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[MTD-05-3SET]]></goodsModelNo>
+<goodsSearchWord><![CDATA[힙밴드,저항밴드,밴드운동,홈트레이닝,필라테스밴드,요가밴드]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5000.00]]></goodsPrice>
+<fixedPrice><![CDATA[5000.00]]></fixedPrice>
+<costPrice><![CDATA[4095.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 20/40/60LB 강도별 3종으로 구성된 니트 패브릭 힙밴드 세트. 실리콘 미끄럼 방지 처리.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060079788_ds_hipband3_main.jpg" alt="패브릭 힙밴드 3종 세트<br>20 / 40 / 60LB 저항밴드"></div>
+<div class="eyebrow">RESISTANCE BAND SET</div>
+<div class="h1">패브릭 힙밴드 3종 세트<br>20 / 40 / 60LB 저항밴드</div>
+<div class="sub">니트 원단 · 실리콘 미끄럼 방지 · 강도별 3단 구성</div>
+
+<div class="stat"><div><b>3개</b><span>세트 구성</span></div><div><b>20~60LB</b><span>저항 단계</span></div><div><b>니트</b><span>패브릭 소재</span></div></div>
+
+<div class="sec">
+<h2>강도별 3단 구성</h2>
+<p class="d">20LB(입문·어깨/팔), 40LB(중급·힙업), 60LB(고강도·힙·하체)로 구성됩니다. 운동 부위와 숙련도에 따라 단계적으로 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060079788_ds_hipband3_main.jpg" alt="강도별 3단 구성">
+</div>
+<div class="sec alt">
+<h2>실리콘 미끄럼 방지 처리</h2>
+<p class="d">밴드 안쪽에 실리콘 라인이 적용되어 스쿼트·런지 동작에서 밴드가 말려 올라가거나 미끄러지는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060081264_ds_hipband3_02.jpg" alt="실리콘 미끄럼 방지 처리">
+</div>
+<div class="sec">
+<h2>니트 패브릭 밴드</h2>
+<p class="d">고무 밴드 대비 피부 자극과 당김이 적은 니트 원단 밴드입니다. 세탁 후 재사용이 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060082938_ds_hipband3_03.jpg" alt="니트 패브릭 밴드">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>패브릭 힙밴드 3종 세트 (20/40/60LB)</td></tr><tr><th>소재</th><td>폴리에스터 혼방 니트 + 실리콘</td></tr><tr><th>구성</th><td>20LB 1 + 40LB 1 + 60LB 1</td></tr><tr><th>색상</th><td>코랄 핑크 / 라이트 퍼플 / 민트</td></tr><tr><th>용도</th><td>힙업, 하체, 어깨·팔 트레이닝, 필라테스</td></tr><tr><th>관리</th><td>미지근한 물 손세탁 후 그늘 건조</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>비고</th><td>90LB 추가 4종 세트 발주 가능</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>3단 강도</span><span>미끄럼 방지</span><span>니트 패브릭</span><span>홈트레이닝</span></div>
+<div class="moq">최소 주문수량 6세트부터 / 단일 강도·4종 세트 구성 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어느 강도부터 시작해야 하나요?</div><div class="a">A. 운동 경험이 적다면 20LB부터 시작해 40LB, 60LB 순으로 올리는 것을 권장합니다.</div><div class="q">Q. 세탁이 가능한가요?</div><div class="a">A. 미지근한 물에 손세탁 후 그늘에서 말리시면 됩니다. 건조기 사용은 권장하지 않습니다.</div><div class="q">Q. 단일 강도만 발주할 수 있나요?</div><div class="a">A. 20/40/60/90LB 단품 및 2종·4종 세트 구성 모두 발주 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060079788_ds_hipband3_main.jpg" alt="패브릭 힙밴드 3종 세트<br>20 / 40 / 60LB 저항밴드"></div>
+<div class="eyebrow">RESISTANCE BAND SET</div>
+<div class="h1">패브릭 힙밴드 3종 세트<br>20 / 40 / 60LB 저항밴드</div>
+<div class="sub">니트 원단 · 실리콘 미끄럼 방지 · 강도별 3단 구성</div>
+
+<div class="stat"><div><b>3개</b><span>세트 구성</span></div><div><b>20~60LB</b><span>저항 단계</span></div><div><b>니트</b><span>패브릭 소재</span></div></div>
+
+<div class="sec">
+<h2>강도별 3단 구성</h2>
+<p class="d">20LB(입문·어깨/팔), 40LB(중급·힙업), 60LB(고강도·힙·하체)로 구성됩니다. 운동 부위와 숙련도에 따라 단계적으로 사용합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060079788_ds_hipband3_main.jpg" alt="강도별 3단 구성">
+</div>
+<div class="sec alt">
+<h2>실리콘 미끄럼 방지 처리</h2>
+<p class="d">밴드 안쪽에 실리콘 라인이 적용되어 스쿼트·런지 동작에서 밴드가 말려 올라가거나 미끄러지는 것을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060081264_ds_hipband3_02.jpg" alt="실리콘 미끄럼 방지 처리">
+</div>
+<div class="sec">
+<h2>니트 패브릭 밴드</h2>
+<p class="d">고무 밴드 대비 피부 자극과 당김이 적은 니트 원단 밴드입니다. 세탁 후 재사용이 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785060082938_ds_hipband3_03.jpg" alt="니트 패브릭 밴드">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>패브릭 힙밴드 3종 세트 (20/40/60LB)</td></tr><tr><th>소재</th><td>폴리에스터 혼방 니트 + 실리콘</td></tr><tr><th>구성</th><td>20LB 1 + 40LB 1 + 60LB 1</td></tr><tr><th>색상</th><td>코랄 핑크 / 라이트 퍼플 / 민트</td></tr><tr><th>용도</th><td>힙업, 하체, 어깨·팔 트레이닝, 필라테스</td></tr><tr><th>관리</th><td>미지근한 물 손세탁 후 그늘 건조</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>비고</th><td>90LB 추가 4종 세트 발주 가능</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>3단 강도</span><span>미끄럼 방지</span><span>니트 패브릭</span><span>홈트레이닝</span></div>
+<div class="moq">최소 주문수량 6세트부터 / 단일 강도·4종 세트 구성 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어느 강도부터 시작해야 하나요?</div><div class="a">A. 운동 경험이 적다면 20LB부터 시작해 40LB, 60LB 순으로 올리는 것을 권장합니다.</div><div class="q">Q. 세탁이 가능한가요?</div><div class="a">A. 미지근한 물에 손세탁 후 그늘에서 말리시면 됩니다. 건조기 사용은 권장하지 않습니다.</div><div class="q">Q. 단일 강도만 발주할 수 있나요?</div><div class="a">A. 20/40/60/90LB 단품 및 2종·4종 세트 구성 모두 발주 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/752380737670.html / 货号 MTD-05 / 옵션 达人推荐组合 20+40+60磅 ¥14.7 / cbm 0.0015]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230387/image/detail/1311230387_detail_018.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230387/image/detail/1311230387_detail_018.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230387/image/magnify/1311230387_magnify_069.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230387/image/detail/1311230387_detail_018.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230387/image/detail/1311230387_detail_18.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230387/image/detail/1311230387_detail_277.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 10000원)]]></optionValue1>
+<optionPrice><![CDATA[5000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 5000원)]]></optionValue1>
+<optionPrice><![CDATA[20000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230386]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[길이조절 이불 옷걸이 2개입 39-62.5cm (접이식 대형 건조행거)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[길이조절 이불 건조 옷걸이 2개입]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_EXTHANGER_2P]]></goodsCd>
+<cateCd><![CDATA[073]]></cateCd>
+<allCateCd><![CDATA[073|073002]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[YW-EXH-625]]></goodsModelNo>
+<goodsSearchWord><![CDATA[이불옷걸이,길이조절옷걸이,시트건조,대형옷걸이,빨래건조,베란다용품]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2000.00]]></goodsPrice>
+<fixedPrice><![CDATA[2000.00]]></fixedPrice>
+<costPrice><![CDATA[1621.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 39~62.5cm 폭 조절로 침대 시트·이불까지 널 수 있는 확장형 옷걸이 2개입. 접으면 일반 옷걸이 크기.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="길이조절 이불 건조 옷걸이 2개입<br>39~62.5cm 접이식 대형 행거"></div>
+<div class="eyebrow">EXTENDABLE HANGER</div>
+<div class="h1">길이조절 이불 건조 옷걸이 2개입<br>39~62.5cm 접이식 대형 행거</div>
+<div class="sub">침대 시트·이불·타월을 널 수 있는 확장형 옷걸이 · 접으면 일반 옷걸이 크기</div>
+
+<div class="stat"><div><b>39~62.5cm</b><span>조절 범위</span></div><div><b>2개</b><span>1세트 구성</span></div><div><b>PP</b><span>본체 소재</span></div></div>
+
+<div class="sec">
+<h2>시트·이불용 확장 옷걸이</h2>
+<p class="d">일반 옷걸이로는 널기 어려운 침대 시트, 여름 이불, 대형 타월을 널 수 있도록 하단 프레임이 좌우로 확장됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="시트·이불용 확장 옷걸이">
+</div>
+<div class="sec alt">
+<h2>39~62.5cm 무단 길이 조절</h2>
+<p class="d">건조물 크기에 맞춰 폭을 조절합니다. 이중 봉 구조로 통풍 면적을 확보해 건조 속도를 높입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="39~62.5cm 무단 길이 조절">
+</div>
+<div class="sec">
+<h2>접으면 일반 옷걸이 크기</h2>
+<p class="d">사용하지 않을 때는 접어서 옷장 봉에 그대로 걸어 보관합니다. 세로 23.5cm, 깊이 13.5cm 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="접으면 일반 옷걸이 크기">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>길이조절 이불 건조 옷걸이 (2개입)</td></tr><tr><th>소재</th><td>PP</td></tr><tr><th>색상</th><td>화이트</td></tr><tr><th>조절 범위</th><td>39cm ~ 62.5cm</td></tr><tr><th>규격</th><td>세로 23.5cm · 깊이 13.5cm</td></tr><tr><th>구성</th><td>2개 1세트</td></tr><tr><th>중량</th><td>세트당 약 420g</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>길이 조절</span><span>접이식 보관</span><span>이중 봉 통풍</span><span>2개입 세트</span></div>
+<div class="moq">최소 주문수량 15세트부터 / 1개입 단품 발주도 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세트 구성이 어떻게 되나요?</div><div class="a">A. 본 상품은 2개입 1세트 기준입니다. 1개입 단품 구성도 발주 가능합니다.</div><div class="q">Q. 어떤 빨래에 적합한가요?</div><div class="a">A. 침대 시트, 여름 이불, 대형 타월, 커튼 등 폭이 넓은 세탁물에 적합합니다.</div><div class="q">Q. 베란다 봉에 걸어도 되나요?</div><div class="a">A. 일반 옷장 봉·베란다 건조봉 모두 사용 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="길이조절 이불 건조 옷걸이 2개입<br>39~62.5cm 접이식 대형 행거"></div>
+<div class="eyebrow">EXTENDABLE HANGER</div>
+<div class="h1">길이조절 이불 건조 옷걸이 2개입<br>39~62.5cm 접이식 대형 행거</div>
+<div class="sub">침대 시트·이불·타월을 널 수 있는 확장형 옷걸이 · 접으면 일반 옷걸이 크기</div>
+
+<div class="stat"><div><b>39~62.5cm</b><span>조절 범위</span></div><div><b>2개</b><span>1세트 구성</span></div><div><b>PP</b><span>본체 소재</span></div></div>
+
+<div class="sec">
+<h2>시트·이불용 확장 옷걸이</h2>
+<p class="d">일반 옷걸이로는 널기 어려운 침대 시트, 여름 이불, 대형 타월을 널 수 있도록 하단 프레임이 좌우로 확장됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="시트·이불용 확장 옷걸이">
+</div>
+<div class="sec alt">
+<h2>39~62.5cm 무단 길이 조절</h2>
+<p class="d">건조물 크기에 맞춰 폭을 조절합니다. 이중 봉 구조로 통풍 면적을 확보해 건조 속도를 높입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="39~62.5cm 무단 길이 조절">
+</div>
+<div class="sec">
+<h2>접으면 일반 옷걸이 크기</h2>
+<p class="d">사용하지 않을 때는 접어서 옷장 봉에 그대로 걸어 보관합니다. 세로 23.5cm, 깊이 13.5cm 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059944791_ds_exthanger_main.jpg" alt="접으면 일반 옷걸이 크기">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>길이조절 이불 건조 옷걸이 (2개입)</td></tr><tr><th>소재</th><td>PP</td></tr><tr><th>색상</th><td>화이트</td></tr><tr><th>조절 범위</th><td>39cm ~ 62.5cm</td></tr><tr><th>규격</th><td>세로 23.5cm · 깊이 13.5cm</td></tr><tr><th>구성</th><td>2개 1세트</td></tr><tr><th>중량</th><td>세트당 약 420g</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>길이 조절</span><span>접이식 보관</span><span>이중 봉 통풍</span><span>2개입 세트</span></div>
+<div class="moq">최소 주문수량 15세트부터 / 1개입 단품 발주도 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세트 구성이 어떻게 되나요?</div><div class="a">A. 본 상품은 2개입 1세트 기준입니다. 1개입 단품 구성도 발주 가능합니다.</div><div class="q">Q. 어떤 빨래에 적합한가요?</div><div class="a">A. 침대 시트, 여름 이불, 대형 타월, 커튼 등 폭이 넓은 세탁물에 적합합니다.</div><div class="q">Q. 베란다 봉에 걸어도 되나요?</div><div class="a">A. 일반 옷장 봉·베란다 건조봉 모두 사용 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1031365763030.html / 货号 折叠大衣架 / 옵션 2개装 ¥5 / cbm 0.0025 / 갤러리 중 깨끗한 이미지 1장만 사용(나머지 중국어 문구)]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230386/image/detail/1311230386_detail_057.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230386/image/detail/1311230386_detail_057.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230386/image/magnify/1311230386_magnify_071.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230386/image/detail/1311230386_detail_057.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 4000원)]]></optionValue1>
+<optionPrice><![CDATA[2000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 2000원)]]></optionValue1>
+<optionPrice><![CDATA[38000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230385]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[알루미늄 캠핑 랜턴 스탠드 폴대 (테이블 클램프·지면고정 2way)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[캠핑 랜턴 스탠드 폴대 2way]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LAMPSTAND_2W]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070|070001]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[FOLD-ALU-LS1]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캠핑랜턴스탠드,랜턴걸이,캠핑폴대,랜턴스탠드,캠핑용품,감성캠핑]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[6000.00]]></goodsPrice>
+<fixedPrice><![CDATA[6000.00]]></fixedPrice>
+<costPrice><![CDATA[4929.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 테이블 클램프와 지면 스파이크를 모두 지원하는 알루미늄 캠핑 랜턴 스탠드. 펼침 92.5cm, 218g, 수납 파우치 포함.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way"></div>
+<div class="eyebrow">CAMPING LAMP STAND</div>
+<div class="h1">캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way</div>
+<div class="sub">알루미늄 분할 폴대 · 조절 후크 · 전용 수납 파우치 포함</div>
+
+<div class="stat"><div><b>92.5cm</b><span>펼침 길이</span></div><div><b>218g</b><span>본체 중량</span></div><div><b>2way</b><span>테이블/지면</span></div></div>
+
+<div class="sec">
+<h2>분할 조립식 알루미늄 폴대</h2>
+<p class="d">2단 분할 구조로 조립·분해가 빠릅니다. 알루미늄 소재로 218g 수준의 가벼운 무게이면서 랜턴을 안정적으로 지지합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="분할 조립식 알루미늄 폴대">
+</div>
+<div class="sec alt">
+<h2>테이블 클램프 + 지면 스파이크</h2>
+<p class="d">두께 2.5cm 이내 테이블에 물리는 클램프와 30cm 지면 고정 스파이크가 함께 구성됩니다. 사이트 상황에 맞춰 두 방식 모두 사용 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059810543_ds_lampstand_02.jpg" alt="테이블 클램프 + 지면 스파이크">
+</div>
+<div class="sec">
+<h2>수납 파우치 포함</h2>
+<p class="d">분해 후 38cm 파우치에 넣어 보관합니다. 후크 높이 12cm, 폴 지름 1.1cm 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059811557_ds_lampstand_03.jpg" alt="수납 파우치 포함">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>캠핑 랜턴 스탠드 폴대 (단일 후크·2way)</td></tr><tr><th>소재</th><td>알루미늄 + 스테인리스 후크</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>펼침 길이</th><td>92.5cm (폴 지름 1.1cm)</td></tr><tr><th>구성</th><td>폴대 2단 + 후크 + 테이블 클램프 + 지면 스파이크 30cm + 파우치</td></tr><tr><th>중량</th><td>약 218g</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>용도</th><td>캠핑·야외 랜턴 거치, 소품 걸이</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>알루미늄 경량</span><span>2way 고정</span><span>조립 분해식</span><span>파우치 포함</span></div>
+<div class="moq">최소 주문수량 5개부터 / 단일·이중 후크 옵션 대량 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 랜턴은 포함되나요?</div><div class="a">A. 스탠드 폴대 단품 상품이며 랜턴은 포함되지 않습니다.</div><div class="q">Q. 어느 정도 무게까지 걸 수 있나요?</div><div class="a">A. 일반적인 캠핑 랜턴·소품 거치 용도로 설계되었습니다. 과도한 중량물 거치는 권장하지 않습니다.</div><div class="q">Q. 이중 후크 버전도 있나요?</div><div class="a">A. 단일 후크/이중 후크, 테이블 전용/2way 옵션이 있습니다. 발주 시 문의 주십시오.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way"></div>
+<div class="eyebrow">CAMPING LAMP STAND</div>
+<div class="h1">캠핑 랜턴 스탠드 폴대<br>테이블 클램프 + 지면 고정 2way</div>
+<div class="sub">알루미늄 분할 폴대 · 조절 후크 · 전용 수납 파우치 포함</div>
+
+<div class="stat"><div><b>92.5cm</b><span>펼침 길이</span></div><div><b>218g</b><span>본체 중량</span></div><div><b>2way</b><span>테이블/지면</span></div></div>
+
+<div class="sec">
+<h2>분할 조립식 알루미늄 폴대</h2>
+<p class="d">2단 분할 구조로 조립·분해가 빠릅니다. 알루미늄 소재로 218g 수준의 가벼운 무게이면서 랜턴을 안정적으로 지지합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059808930_ds_lampstand_main.jpg" alt="분할 조립식 알루미늄 폴대">
+</div>
+<div class="sec alt">
+<h2>테이블 클램프 + 지면 스파이크</h2>
+<p class="d">두께 2.5cm 이내 테이블에 물리는 클램프와 30cm 지면 고정 스파이크가 함께 구성됩니다. 사이트 상황에 맞춰 두 방식 모두 사용 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059810543_ds_lampstand_02.jpg" alt="테이블 클램프 + 지면 스파이크">
+</div>
+<div class="sec">
+<h2>수납 파우치 포함</h2>
+<p class="d">분해 후 38cm 파우치에 넣어 보관합니다. 후크 높이 12cm, 폴 지름 1.1cm 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059811557_ds_lampstand_03.jpg" alt="수납 파우치 포함">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>캠핑 랜턴 스탠드 폴대 (단일 후크·2way)</td></tr><tr><th>소재</th><td>알루미늄 + 스테인리스 후크</td></tr><tr><th>색상</th><td>블랙</td></tr><tr><th>펼침 길이</th><td>92.5cm (폴 지름 1.1cm)</td></tr><tr><th>구성</th><td>폴대 2단 + 후크 + 테이블 클램프 + 지면 스파이크 30cm + 파우치</td></tr><tr><th>중량</th><td>약 218g</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>용도</th><td>캠핑·야외 랜턴 거치, 소품 걸이</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>알루미늄 경량</span><span>2way 고정</span><span>조립 분해식</span><span>파우치 포함</span></div>
+<div class="moq">최소 주문수량 5개부터 / 단일·이중 후크 옵션 대량 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 랜턴은 포함되나요?</div><div class="a">A. 스탠드 폴대 단품 상품이며 랜턴은 포함되지 않습니다.</div><div class="q">Q. 어느 정도 무게까지 걸 수 있나요?</div><div class="a">A. 일반적인 캠핑 랜턴·소품 거치 용도로 설계되었습니다. 과도한 중량물 거치는 권장하지 않습니다.</div><div class="q">Q. 이중 후크 버전도 있나요?</div><div class="a">A. 단일 후크/이중 후크, 테이블 전용/2way 옵션이 있습니다. 발주 시 문의 주십시오.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/808249240509.html / 货号 折叠铝合金灯架 / 옵션 单钩两用款 ¥13.3 / 포장 80x15x10cm cbm 0.012]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230385/image/detail/1311230385_detail_070.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230385/image/detail/1311230385_detail_070.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230385/image/magnify/1311230385_magnify_012.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230385/image/detail/1311230385_detail_070.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230385/image/detail/1311230385_detail_12.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230385/image/detail/1311230385_detail_276.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 12000원)]]></optionValue1>
+<optionPrice><![CDATA[6000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 6000원)]]></optionValue1>
+<optionPrice><![CDATA[24000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230384]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[우산형 차량용 앞유리 햇빛가리개 140cm (대형 차광막 썬쉐이드)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[우산형 차량 앞유리 햇빛가리개 대형]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CARSHADE_140]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076|076003]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[ZQ-CARUMB-140]]></goodsModelNo>
+<goodsSearchWord><![CDATA[자동차햇빛가리개,차량용썬쉐이드,앞유리가리개,우산형가리개,차량용품,차광막]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4300.00]]></goodsPrice>
+<fixedPrice><![CDATA[4300.00]]></fixedPrice>
+<costPrice><![CDATA[3551.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 우산처럼 펴서 거치하는 자동차 앞유리 햇빛가리개. 대형 140x79cm, 티타늄 실버 코팅, 수납 파우치 포함.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059633868_ds_carshade140_main.jpg" alt="우산형 자동차 앞유리 햇빛가리개<br>대형 140x79cm 티타늄 실버"></div>
+<div class="eyebrow">CAR SUN SHADE</div>
+<div class="h1">우산형 자동차 앞유리 햇빛가리개<br>대형 140x79cm 티타늄 실버</div>
+<div class="sub">펼쳐서 끼우는 우산 구조 · 티타늄 실버 코팅 · 전용 파우치 포함</div>
+
+<div class="stat"><div><b>140cm</b><span>펼침 가로</span></div><div><b>79cm</b><span>펼침 세로</span></div><div><b>통용</b><span>전 차종</span></div></div>
+
+<div class="sec">
+<h2>접었다 펴는 우산 구조</h2>
+<p class="d">기존 접이식 판형과 달리 우산처럼 펴서 앞유리에 걸치는 구조입니다. 수납 시 우산 크기로 접혀 도어 포켓이나 트렁크에 간단히 보관됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059633868_ds_carshade140_main.jpg" alt="접었다 펴는 우산 구조">
+</div>
+<div class="sec alt">
+<h2>대형 사이즈 140 x 79cm</h2>
+<p class="d">세단·SUV 앞유리를 폭넓게 덮는 대형 규격입니다. 중형 133x73cm 등 사이즈 옵션도 발주 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059635670_ds_carshade140_02.jpg" alt="대형 사이즈 140 x 79cm">
+</div>
+<div class="sec">
+<h2>티타늄 실버 차광 원단</h2>
+<p class="d">폴리에스터 원단에 티타늄 실버 코팅을 적용해 직사광선을 반사합니다. 여름철 차량 실내 온도 상승과 대시보드 변색을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059637031_ds_carshade140_03.jpg" alt="티타늄 실버 차광 원단">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>우산형 자동차 앞유리 햇빛가리개 대형</td></tr><tr><th>소재</th><td>폴리에스터 + 티타늄 실버 코팅</td></tr><tr><th>사이즈</th><td>펼침 140 x 79 cm (대형)</td></tr><tr><th>적용 차종</th><td>통용 (세단/SUV)</td></tr><tr><th>구성</th><td>본체 1 + 수납 파우치</td></tr><tr><th>설치방식</th><td>펼침 거치식</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>OEM</th><td>로고 인쇄 주문제작 가능</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>전 차종 통용</span><span>티타늄 실버</span><span>우산식 접이</span><span>파우치 포함</span></div>
+<div class="moq">최소 주문수량 7개부터 / 사이즈·로고 인쇄 대량 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사이즈는 어떻게 고르나요?</div><div class="a">A. 소형 125x65, 중형 133x73, 대형 140x79cm 중 앞유리 폭에 맞춰 선택하시면 됩니다. 본 상품은 대형 기준입니다.</div><div class="q">Q. 로고 인쇄가 가능한가요?</div><div class="a">A. 판촉용 로고 인쇄 주문제작이 가능합니다. 수량과 도안 문의 주십시오.</div><div class="q">Q. 보관은 어떻게 하나요?</div><div class="a">A. 접으면 우산 형태가 되며 동봉 파우치에 넣어 도어 포켓·시트백에 보관할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059633868_ds_carshade140_main.jpg" alt="우산형 자동차 앞유리 햇빛가리개<br>대형 140x79cm 티타늄 실버"></div>
+<div class="eyebrow">CAR SUN SHADE</div>
+<div class="h1">우산형 자동차 앞유리 햇빛가리개<br>대형 140x79cm 티타늄 실버</div>
+<div class="sub">펼쳐서 끼우는 우산 구조 · 티타늄 실버 코팅 · 전용 파우치 포함</div>
+
+<div class="stat"><div><b>140cm</b><span>펼침 가로</span></div><div><b>79cm</b><span>펼침 세로</span></div><div><b>통용</b><span>전 차종</span></div></div>
+
+<div class="sec">
+<h2>접었다 펴는 우산 구조</h2>
+<p class="d">기존 접이식 판형과 달리 우산처럼 펴서 앞유리에 걸치는 구조입니다. 수납 시 우산 크기로 접혀 도어 포켓이나 트렁크에 간단히 보관됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059633868_ds_carshade140_main.jpg" alt="접었다 펴는 우산 구조">
+</div>
+<div class="sec alt">
+<h2>대형 사이즈 140 x 79cm</h2>
+<p class="d">세단·SUV 앞유리를 폭넓게 덮는 대형 규격입니다. 중형 133x73cm 등 사이즈 옵션도 발주 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059635670_ds_carshade140_02.jpg" alt="대형 사이즈 140 x 79cm">
+</div>
+<div class="sec">
+<h2>티타늄 실버 차광 원단</h2>
+<p class="d">폴리에스터 원단에 티타늄 실버 코팅을 적용해 직사광선을 반사합니다. 여름철 차량 실내 온도 상승과 대시보드 변색을 줄여 줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059637031_ds_carshade140_03.jpg" alt="티타늄 실버 차광 원단">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>우산형 자동차 앞유리 햇빛가리개 대형</td></tr><tr><th>소재</th><td>폴리에스터 + 티타늄 실버 코팅</td></tr><tr><th>사이즈</th><td>펼침 140 x 79 cm (대형)</td></tr><tr><th>적용 차종</th><td>통용 (세단/SUV)</td></tr><tr><th>구성</th><td>본체 1 + 수납 파우치</td></tr><tr><th>설치방식</th><td>펼침 거치식</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>OEM</th><td>로고 인쇄 주문제작 가능</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>전 차종 통용</span><span>티타늄 실버</span><span>우산식 접이</span><span>파우치 포함</span></div>
+<div class="moq">최소 주문수량 7개부터 / 사이즈·로고 인쇄 대량 발주 협의 가능</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 사이즈는 어떻게 고르나요?</div><div class="a">A. 소형 125x65, 중형 133x73, 대형 140x79cm 중 앞유리 폭에 맞춰 선택하시면 됩니다. 본 상품은 대형 기준입니다.</div><div class="q">Q. 로고 인쇄가 가능한가요?</div><div class="a">A. 판촉용 로고 인쇄 주문제작이 가능합니다. 수량과 도안 문의 주십시오.</div><div class="q">Q. 보관은 어떻게 하나요?</div><div class="a">A. 접으면 우산 형태가 되며 동봉 파우치에 넣어 도어 포켓·시트백에 보관할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/1038129539998.html / 货号 汽车伞 / 옵션 遮阳伞-钛银大号140*79 ¥11.8 / cbm 0.0035]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230384/image/detail/1311230384_detail_076.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230384/image/detail/1311230384_detail_076.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230384/image/magnify/1311230384_magnify_02.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230384/image/detail/1311230384_detail_076.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230384/image/detail/1311230384_detail_136.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230384/image/detail/1311230384_detail_270.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 8600원)]]></optionValue1>
+<optionPrice><![CDATA[4300]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 4300원)]]></optionValue1>
+<optionPrice><![CDATA[38700]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230383]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[무타공 탄소강 욕실 선반 40cm (걸이형 벽선반, 방청 화장실 수납)]]></goodsNm>
+<purchaseGoodsNm><![CDATA[무타공 욕실 선반 40cm 걸이형]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BATHRACK_40H]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075|075002]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[DL-BR40H]]></goodsModelNo>
+<goodsSearchWord><![CDATA[욕실선반,무타공선반,화장실수납,벽선반,욕실정리,세면대선반]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4500.00]]></goodsPrice>
+<fixedPrice><![CDATA[4500.00]]></fixedPrice>
+<costPrice><![CDATA[3742.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 드릴 없이 접착 설치하는 40cm 욕실 벽선반. 물빠짐 타공 바닥, 후크 5개, 분리 세척 구조.]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059464771_ds_bathrack40_main.jpg" alt="무타공 욕실 선반 40cm (걸이형)<br>탄소강 방청 코팅 벽선반"></div>
+<div class="eyebrow">BATHROOM ORGANIZER</div>
+<div class="h1">무타공 욕실 선반 40cm (걸이형)<br>탄소강 방청 코팅 벽선반</div>
+<div class="sub">드릴 없이 접착 설치 · 물빠짐 타공 바닥 · 분리 세척 가능</div>
+
+<div class="stat"><div><b>40cm</b><span>가로 길이</span></div><div><b>12.5cm</b><span>선반 깊이</span></div><div><b>5개</b><span>하단 후크</span></div></div>
+
+<div class="sec">
+<h2>타공 없이 붙이는 욕실 수납</h2>
+<p class="d">강력 접착 브래킷 방식으로 타일·유리·도장면에 드릴 없이 설치합니다. 전월세 주택, 상가 화장실 리모델링 없이 수납을 늘릴 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059464771_ds_bathrack40_main.jpg" alt="타공 없이 붙이는 욕실 수납">
+</div>
+<div class="sec alt">
+<h2>물빠짐 타공 바닥 + 분리형 구조</h2>
+<p class="d">바닥 전면 슬릿 타공으로 물이 고이지 않습니다. 선반 본체를 브래킷에서 분리해 통째로 세척한 뒤 다시 끼우는 구조입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059467787_ds_bathrack40_02.jpg" alt="물빠짐 타공 바닥 + 분리형 구조">
+</div>
+<div class="sec">
+<h2>사이즈 규격</h2>
+<p class="d">30 / 40 / 50 / 60cm 4가지 길이, 깊이 12.5cm · 높이 5.7cm 공통 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059470127_ds_bathrack40_03.jpg" alt="사이즈 규격">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>무타공 욕실 선반 40cm 걸이형</td></tr><tr><th>소재</th><td>탄소강 + 알루미늄 (분체도장)</td></tr><tr><th>색상</th><td>건메탈 그레이</td></tr><tr><th>사이즈</th><td>40 x 12.5 x 5.7 cm</td></tr><tr><th>설치방식</th><td>접착 브래킷 (무타공)</td></tr><tr><th>구성</th><td>선반 본체 1 + 접착 브래킷 + 후크 5</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>용도</th><td>욕실·세면대·주방 벽면 수납</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>무타공 설치</span><span>방청 코팅</span><span>물빠짐 타공</span><span>분리 세척</span></div>
+<div class="moq">최소 주문수량 7개부터 / 대량 발주 시 별도 단가 협의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 타일에도 붙나요?</div><div class="a">A. 평활한 타일·유리·도장면에 부착 가능합니다. 요철이 심한 벽면이나 벽지 위에는 권장하지 않습니다.</div><div class="q">Q. 하중은 얼마나 견디나요?</div><div class="a">A. 정상 부착 24시간 경화 후 일반 욕실 용품 기준으로 사용하시고, 과도한 중량물은 피해 주십시오.</div><div class="q">Q. 색상/사이즈 추가 발주 가능한가요?</div><div class="a">A. 30/40/50/60cm, 단층/이중 및 후크·봉 옵션 발주 가능합니다. 문의 주시면 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059464771_ds_bathrack40_main.jpg" alt="무타공 욕실 선반 40cm (걸이형)<br>탄소강 방청 코팅 벽선반"></div>
+<div class="eyebrow">BATHROOM ORGANIZER</div>
+<div class="h1">무타공 욕실 선반 40cm (걸이형)<br>탄소강 방청 코팅 벽선반</div>
+<div class="sub">드릴 없이 접착 설치 · 물빠짐 타공 바닥 · 분리 세척 가능</div>
+
+<div class="stat"><div><b>40cm</b><span>가로 길이</span></div><div><b>12.5cm</b><span>선반 깊이</span></div><div><b>5개</b><span>하단 후크</span></div></div>
+
+<div class="sec">
+<h2>타공 없이 붙이는 욕실 수납</h2>
+<p class="d">강력 접착 브래킷 방식으로 타일·유리·도장면에 드릴 없이 설치합니다. 전월세 주택, 상가 화장실 리모델링 없이 수납을 늘릴 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059464771_ds_bathrack40_main.jpg" alt="타공 없이 붙이는 욕실 수납">
+</div>
+<div class="sec alt">
+<h2>물빠짐 타공 바닥 + 분리형 구조</h2>
+<p class="d">바닥 전면 슬릿 타공으로 물이 고이지 않습니다. 선반 본체를 브래킷에서 분리해 통째로 세척한 뒤 다시 끼우는 구조입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059467787_ds_bathrack40_02.jpg" alt="물빠짐 타공 바닥 + 분리형 구조">
+</div>
+<div class="sec">
+<h2>사이즈 규격</h2>
+<p class="d">30 / 40 / 50 / 60cm 4가지 길이, 깊이 12.5cm · 높이 5.7cm 공통 규격입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/1785059470127_ds_bathrack40_03.jpg" alt="사이즈 규격">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>상품명</th><td>무타공 욕실 선반 40cm 걸이형</td></tr><tr><th>소재</th><td>탄소강 + 알루미늄 (분체도장)</td></tr><tr><th>색상</th><td>건메탈 그레이</td></tr><tr><th>사이즈</th><td>40 x 12.5 x 5.7 cm</td></tr><tr><th>설치방식</th><td>접착 브래킷 (무타공)</td></tr><tr><th>구성</th><td>선반 본체 1 + 접착 브래킷 + 후크 5</td></tr><tr><th>원산지</th><td>중국</td></tr><tr><th>용도</th><td>욕실·세면대·주방 벽면 수납</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>무타공 설치</span><span>방청 코팅</span><span>물빠짐 타공</span><span>분리 세척</span></div>
+<div class="moq">최소 주문수량 7개부터 / 대량 발주 시 별도 단가 협의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 타일에도 붙나요?</div><div class="a">A. 평활한 타일·유리·도장면에 부착 가능합니다. 요철이 심한 벽면이나 벽지 위에는 권장하지 않습니다.</div><div class="q">Q. 하중은 얼마나 견디나요?</div><div class="a">A. 정상 부착 24시간 경화 후 일반 욕실 용품 기준으로 사용하시고, 과도한 중량물은 피해 주십시오.</div><div class="q">Q. 색상/사이즈 추가 발주 가능한가요?</div><div class="a">A. 30/40/50/60cm, 단층/이중 및 후크·봉 옵션 발주 가능합니다. 문의 주시면 안내드립니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[1688 https://detail.1688.com/offer/902836581861.html / 货号 DL-BR40H / 옵션 40CM 带钩 ¥12.3 / cbm 0.004]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230383/image/detail/1311230383_detail_066.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230383/image/detail/1311230383_detail_066.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230383/image/magnify/1311230383_magnify_098.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230383/image/detail/1311230383_detail_066.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230383/image/detail/1311230383_detail_169.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230383/image/detail/1311230383_detail_268.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 9000원)]]></optionValue1>
+<optionPrice><![CDATA[4500]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 4500원)]]></optionValue1>
+<optionPrice><![CDATA[40500]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+</data>
