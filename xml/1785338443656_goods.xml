@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230838]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[종아리 마사지 환형 클립 9구 전신 근막 마사지롤러]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 1038710145179 / ¥2.80]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_CALFMASSAGERING]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[종아리마사지기|근막마사지롤러|다리마사지|셀룰라이트마사지]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[1500.00]]></goodsPrice>
+<fixedPrice><![CDATA[2900.00]]></fixedPrice>
+<costPrice><![CDATA[1207.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 360도 감싸는 환형 마사지 · 9구 롤러볼 · 4컬러]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_pink_clean.jpg" alt="종아리 마사지 환형 클립 9구"></div>
+<div class="eyebrow">CALF MASSAGE RING</div>
+<div class="h1">종아리 마사지 환형 클립 9구</div>
+<div class="sub">360도 감싸는 환형 구조로 종아리·팔뚝을 한번에</div>
+
+<div class="stat"><div><b>9구</b><span>롤러볼</span></div><div><b>360°</b><span>환형감쌈</span></div><div><b>4</b><span>컬러</span></div></div>
+
+<div class="sec">
+<h2>360도 환형 마사지</h2>
+<p class="d">다리나 팔을 감싸는 환형 구조로 뭉친 근육을 부위별로 골고루 자극합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_pink_clean.jpg" alt="360도 환형 마사지">
+</div>
+<div class="sec alt">
+<h2>9구 롤러볼 설계</h2>
+<p class="d">올록볼록한 9구 롤러볼이 피부에 자극을 주며 시원한 마사지감을 전달합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_opt_blue.jpg" alt="9구 롤러볼 설계">
+</div>
+<div class="sec">
+<h2>4가지 파스텔 컬러</h2>
+<p class="d">핑크/블루/퍼플/그린 4가지 컬러로 취향에 맞게 선택할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_opt_green.jpg" alt="4가지 파스텔 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>실리콘+ABS</td></tr><tr><th>사용부위</th><td>종아리/팔뚝/허벅지</td></tr><tr><th>컬러</th><td>핑크/블루/퍼플/그린</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 20개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 힘 조절이 가능한가요?</div><div class="a">A. 손으로 감싸 쥐는 힘을 조절해 원하는 강도로 마사지할 수 있습니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물티슈나 젖은 천으로 표면을 닦아 사용하시면 됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_pink_clean.jpg" alt="종아리 마사지 환형 클립 9구"></div>
+<div class="eyebrow">CALF MASSAGE RING</div>
+<div class="h1">종아리 마사지 환형 클립 9구</div>
+<div class="sub">360도 감싸는 환형 구조로 종아리·팔뚝을 한번에</div>
+
+<div class="stat"><div><b>9구</b><span>롤러볼</span></div><div><b>360°</b><span>환형감쌈</span></div><div><b>4</b><span>컬러</span></div></div>
+
+<div class="sec">
+<h2>360도 환형 마사지</h2>
+<p class="d">다리나 팔을 감싸는 환형 구조로 뭉친 근육을 부위별로 골고루 자극합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_pink_clean.jpg" alt="360도 환형 마사지">
+</div>
+<div class="sec alt">
+<h2>9구 롤러볼 설계</h2>
+<p class="d">올록볼록한 9구 롤러볼이 피부에 자극을 주며 시원한 마사지감을 전달합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_opt_blue.jpg" alt="9구 롤러볼 설계">
+</div>
+<div class="sec">
+<h2>4가지 파스텔 컬러</h2>
+<p class="d">핑크/블루/퍼플/그린 4가지 컬러로 취향에 맞게 선택할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_CALFMASSAGERING_opt_green.jpg" alt="4가지 파스텔 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>실리콘+ABS</td></tr><tr><th>사용부위</th><td>종아리/팔뚝/허벅지</td></tr><tr><th>컬러</th><td>핑크/블루/퍼플/그린</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 20개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 힘 조절이 가능한가요?</div><div class="a">A. 손으로 감싸 쥐는 힘을 조절해 원하는 강도로 마사지할 수 있습니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물티슈나 젖은 천으로 표면을 닦아 사용하시면 됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/1038710145179.html / 단가 ¥2.80(공통)]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/detail/1311230838_detail_024.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/detail/1311230838_detail_024.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/magnify/1311230838_magnify_093.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/magnify/1311230838_magnify_158.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/magnify/1311230838_magnify_29.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/magnify/1311230838_magnify_333.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/magnify/1311230838_magnify_470.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/detail/1311230838_detail_024.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/detail/1311230838_detail_145.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/detail/1311230838_detail_258.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/detail/1311230838_detail_389.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230838/image/detail/1311230838_detail_490.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 3000원)]]></optionValue1>
+<optionPrice><![CDATA[1500]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 1500원)]]></optionValue1>
+<optionPrice><![CDATA[28500]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230837]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[초경량 카본강 접이식 미니 포켓의자 손가방형 캠핑 낚시]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 822439655757 / ¥13.00]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_POCKETCHAIRFOLD]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[접이식의자|캠핑의자|낚시의자|미니의자|휴대용의자]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5000.00]]></goodsPrice>
+<fixedPrice><![CDATA[9900.00]]></fixedPrice>
+<costPrice><![CDATA[4159.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 핸드폰보다 살짝 큰 사이즈 · 초경량 0.65kg · 캠핑·낚시·나들이 필수템]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_studio.jpg" alt="초경량 카본강 접이식 포켓의자"></div>
+<div class="eyebrow">ULTRALIGHT FOLDING STOOL</div>
+<div class="h1">초경량 카본강 접이식 포켓의자</div>
+<div class="sub">핸드폰보다 살짝 큰 사이즈로 접어서 손가방처럼 휴대</div>
+
+<div class="stat"><div><b>0.65kg</b><span>초경량</span></div><div><b>120kg</b><span>내하중</span></div><div><b>30×13×4cm</b><span>수납사이즈</span></div></div>
+
+<div class="sec">
+<h2>한손에 쏙 들어가는 크기</h2>
+<p class="d">접으면 핸드폰보다 살짝 큰 사이즈로 가방이나 한 손에 가볍게 휴대할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_outdoor.jpg" alt="한손에 쏙 들어가는 크기">
+</div>
+<div class="sec alt">
+<h2>탄탄한 카본강 프레임</h2>
+<p class="d">가벼우면서도 최대 120kg까지 견디는 탄탄한 카본강 프레임을 사용했습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_studio.jpg" alt="탄탄한 카본강 프레임">
+</div>
+<div class="sec">
+<h2>캠핑·낚시·나들이 어디든</h2>
+<p class="d">가볍고 작아서 캠핑, 낚시, 등산, 소풍 등 야외활동 어디에나 부담없이 챙길 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_studio.jpg" alt="캠핑·낚시·나들이 어디든">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>카본강 프레임 + 옥스포드 원단</td></tr><tr><th>무게</th><td>약 0.65kg</td></tr><tr><th>내하중</th><td>약 120kg</td></tr><tr><th>펼침 사이즈</th><td>30×26×26cm</td></tr><tr><th>수납 사이즈</th><td>30×13×4cm</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 6개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 앉았을 때 흔들리지 않나요?</div><div class="a">A. X자형 카본강 프레임이 안정적으로 체중을 지지해 흔들림이 적습니다.</div><div class="q">Q. 색상 옵션이 있나요?</div><div class="a">A. 블랙/그린/카키 3가지 색상으로 제작되며, 색상 지정을 원하시면 주문 시 요청란에 남겨주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_studio.jpg" alt="초경량 카본강 접이식 포켓의자"></div>
+<div class="eyebrow">ULTRALIGHT FOLDING STOOL</div>
+<div class="h1">초경량 카본강 접이식 포켓의자</div>
+<div class="sub">핸드폰보다 살짝 큰 사이즈로 접어서 손가방처럼 휴대</div>
+
+<div class="stat"><div><b>0.65kg</b><span>초경량</span></div><div><b>120kg</b><span>내하중</span></div><div><b>30×13×4cm</b><span>수납사이즈</span></div></div>
+
+<div class="sec">
+<h2>한손에 쏙 들어가는 크기</h2>
+<p class="d">접으면 핸드폰보다 살짝 큰 사이즈로 가방이나 한 손에 가볍게 휴대할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_outdoor.jpg" alt="한손에 쏙 들어가는 크기">
+</div>
+<div class="sec alt">
+<h2>탄탄한 카본강 프레임</h2>
+<p class="d">가벼우면서도 최대 120kg까지 견디는 탄탄한 카본강 프레임을 사용했습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_studio.jpg" alt="탄탄한 카본강 프레임">
+</div>
+<div class="sec">
+<h2>캠핑·낚시·나들이 어디든</h2>
+<p class="d">가볍고 작아서 캠핑, 낚시, 등산, 소풍 등 야외활동 어디에나 부담없이 챙길 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_POCKETCHAIRFOLD_studio.jpg" alt="캠핑·낚시·나들이 어디든">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>카본강 프레임 + 옥스포드 원단</td></tr><tr><th>무게</th><td>약 0.65kg</td></tr><tr><th>내하중</th><td>약 120kg</td></tr><tr><th>펼침 사이즈</th><td>30×26×26cm</td></tr><tr><th>수납 사이즈</th><td>30×13×4cm</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 6개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 앉았을 때 흔들리지 않나요?</div><div class="a">A. X자형 카본강 프레임이 안정적으로 체중을 지지해 흔들림이 적습니다.</div><div class="q">Q. 색상 옵션이 있나요?</div><div class="a">A. 블랙/그린/카키 3가지 색상으로 제작되며, 색상 지정을 원하시면 주문 시 요청란에 남겨주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/822439655757.html / 단가 ¥13.00(공통, 컬러 무관) / skus: 대호흑색/대호녹색/대호카키 동일가]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230837/image/detail/1311230837_detail_066.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230837/image/detail/1311230837_detail_066.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230837/image/magnify/1311230837_magnify_025.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338318966_1311230837_magnify_1_cropped.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230837/image/detail/1311230837_detail_066.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338316919_1311230837_detail_1_cropped.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 10000원)]]></optionValue1>
+<optionPrice><![CDATA[5000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 5000원)]]></optionValue1>
+<optionPrice><![CDATA[20000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230836]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[필라테스링 요가링 저항링 다리 복부 운동기구 8컬러]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 670193933830 / ¥8.80]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_PILATESRINGCOLOR]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[필라테스링|요가링|저항링|서클링|허벅지운동기구]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[3400.00]]></goodsPrice>
+<fixedPrice><![CDATA[6900.00]]></fixedPrice>
+<costPrice><![CDATA[2808.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 홈트레이닝 필수템 · 허벅지·복부·팔 운동 · 8가지 파스텔 컬러]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_purple_clean.jpg" alt="필라테스링 요가링 저항링"></div>
+<div class="eyebrow">PILATES RING</div>
+<div class="h1">필라테스링 요가링 저항링</div>
+<div class="sub">허벅지·복부·팔 라인까지 한번에, 홈트레이닝 필수템</div>
+
+<div class="stat"><div><b>8</b><span>컬러</span></div><div><b>탄성</b><span>저항밴드</span></div><div><b>전신</b><span>운동가능</span></div></div>
+
+<div class="sec">
+<h2>탄탄한 탄성 저항력</h2>
+<p class="d">탄성 소재 링으로 허벅지, 복부, 팔 등 부위별 저항 운동이 가능해 홈트레이닝에 최적화되어 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_purple_clean.jpg" alt="탄탄한 탄성 저항력">
+</div>
+<div class="sec alt">
+<h2>편안한 그립 손잡이</h2>
+<p class="d">양쪽 인체공학적 그립 손잡이로 손목에 무리 없이 안정적으로 힘을 줄 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_purple2_clean.jpg" alt="편안한 그립 손잡이">
+</div>
+<div class="sec">
+<h2>8가지 파스텔 컬러</h2>
+<p class="d">아이보리화이트부터 그레이까지 8가지 파스텔 컬러로 취향껏 선택 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_opt_skyblue.jpg" alt="8가지 파스텔 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>PP</td></tr><tr><th>용도</th><td>필라테스/요가/홈트레이닝</td></tr><tr><th>컬러</th><td>아이보리화이트 외 7종</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 9개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 초보자도 사용 가능한가요?</div><div class="a">A. 네, 적당한 탄성으로 운동 초보자부터 숙련자까지 폭넓게 사용 가능합니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물기가 있는 헝겊으로 표면을 닦아주시면 됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_purple_clean.jpg" alt="필라테스링 요가링 저항링"></div>
+<div class="eyebrow">PILATES RING</div>
+<div class="h1">필라테스링 요가링 저항링</div>
+<div class="sub">허벅지·복부·팔 라인까지 한번에, 홈트레이닝 필수템</div>
+
+<div class="stat"><div><b>8</b><span>컬러</span></div><div><b>탄성</b><span>저항밴드</span></div><div><b>전신</b><span>운동가능</span></div></div>
+
+<div class="sec">
+<h2>탄탄한 탄성 저항력</h2>
+<p class="d">탄성 소재 링으로 허벅지, 복부, 팔 등 부위별 저항 운동이 가능해 홈트레이닝에 최적화되어 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_purple_clean.jpg" alt="탄탄한 탄성 저항력">
+</div>
+<div class="sec alt">
+<h2>편안한 그립 손잡이</h2>
+<p class="d">양쪽 인체공학적 그립 손잡이로 손목에 무리 없이 안정적으로 힘을 줄 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_purple2_clean.jpg" alt="편안한 그립 손잡이">
+</div>
+<div class="sec">
+<h2>8가지 파스텔 컬러</h2>
+<p class="d">아이보리화이트부터 그레이까지 8가지 파스텔 컬러로 취향껏 선택 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_PILATESRINGCOLOR_opt_skyblue.jpg" alt="8가지 파스텔 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>PP</td></tr><tr><th>용도</th><td>필라테스/요가/홈트레이닝</td></tr><tr><th>컬러</th><td>아이보리화이트 외 7종</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 9개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 초보자도 사용 가능한가요?</div><div class="a">A. 네, 적당한 탄성으로 운동 초보자부터 숙련자까지 폭넓게 사용 가능합니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물기가 있는 헝겊으로 표면을 닦아주시면 됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/670193933830.html / 단가 ¥8.80(공통)]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/detail/1311230836_detail_053.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/detail/1311230836_detail_053.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/magnify/1311230836_magnify_037.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/magnify/1311230836_magnify_168.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/magnify/1311230836_magnify_289.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/magnify/1311230836_magnify_34.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/magnify/1311230836_magnify_427.jpg]]></magnifyImageData>
+<magnifyImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338329760_1311230836_magnify_5_cropped.jpg]]></magnifyImageData>
+<magnifyImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338331448_1311230836_magnify_6_cropped.jpg]]></magnifyImageData>
+<magnifyImageData idx="8"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338333044_1311230836_magnify_7_cropped.jpg]]></magnifyImageData>
+<magnifyImageData idx="9"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338334837_1311230836_magnify_8_cropped.jpg]]></magnifyImageData>
+<magnifyImageData idx="10"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338336521_1311230836_magnify_9_cropped.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/detail/1311230836_detail_053.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/detail/1311230836_detail_158.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/detail/1311230836_detail_237.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/detail/1311230836_detail_394.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230836/image/detail/1311230836_detail_411.jpg]]></detailImageData>
+<detailImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338320811_1311230836_detail_5_cropped.jpg]]></detailImageData>
+<detailImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338322647_1311230836_detail_6_cropped.jpg]]></detailImageData>
+<detailImageData idx="8"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338324399_1311230836_detail_7_cropped.jpg]]></detailImageData>
+<detailImageData idx="9"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338326302_1311230836_detail_8_cropped.jpg]]></detailImageData>
+<detailImageData idx="10"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338327928_1311230836_detail_9_cropped.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 6800원)]]></optionValue1>
+<optionPrice><![CDATA[3400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 3400원)]]></optionValue1>
+<optionPrice><![CDATA[30600]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230835]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[자석 벽걸이 2단 필통 화이트보드펜 대용량 수납함]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 759233640825 / ¥2.99]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_MAGPENBOX2CELL]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[자석필통|화이트보드펜꽂이|2단수납함|칠판정리함]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2100.00]]></goodsPrice>
+<fixedPrice><![CDATA[3900.00]]></fixedPrice>
+<costPrice><![CDATA[1718.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 2단 분리형 대용량 · 강력 자석 부착 · 화이트보드/냉장고 겸용 · 3컬러]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_white.jpg" alt="자석 벽걸이 2단 필통"></div>
+<div class="eyebrow">MAGNETIC ORGANIZER</div>
+<div class="h1">자석 벽걸이 2단 필통</div>
+<div class="sub">보드마카·펜·가위까지 2단 분리 대용량 수납</div>
+
+<div class="stat"><div><b>2단</b><span>분리수납</span></div><div><b>118mm</b><span>높이</span></div><div><b>3</b><span>컬러</span></div></div>
+
+<div class="sec">
+<h2>2단 분리 대용량</h2>
+<p class="d">앞뒤 2단으로 분리되어 있어 보드마카와 필기구를 구분해서 넉넉하게 수납할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_blue.jpg" alt="2단 분리 대용량">
+</div>
+<div class="sec alt">
+<h2>강력 자석 부착</h2>
+<p class="d">뒷면 대면적 자석으로 화이트보드, 냉장고, 철제 사물함에 흔들림 없이 부착됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_yellow.jpg" alt="강력 자석 부착">
+</div>
+<div class="sec">
+<h2>심플한 컬러 구성</h2>
+<p class="d">화이트/블루/옐로우 3가지 컬러로 사무실, 교실, 강의실 어디에나 잘 어울립니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_white.jpg" alt="심플한 컬러 구성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>ABS</td></tr><tr><th>사이즈</th><td>126×42×118mm</td></tr><tr><th>부착</th><td>강력 자석</td></tr><tr><th>컬러</th><td>화이트/블루/옐로우</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 15개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 가위나 큰 물건도 들어가나요?</div><div class="a">A. 두 칸 모두 폭 4cm 이상으로 가위, 두꺼운 마카 등도 여유롭게 수납됩니다.</div><div class="q">Q. 교실 칠판에도 부착되나요?</div><div class="a">A. 네, 철제 칠판이나 화이트보드에 강력하게 부착됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_white.jpg" alt="자석 벽걸이 2단 필통"></div>
+<div class="eyebrow">MAGNETIC ORGANIZER</div>
+<div class="h1">자석 벽걸이 2단 필통</div>
+<div class="sub">보드마카·펜·가위까지 2단 분리 대용량 수납</div>
+
+<div class="stat"><div><b>2단</b><span>분리수납</span></div><div><b>118mm</b><span>높이</span></div><div><b>3</b><span>컬러</span></div></div>
+
+<div class="sec">
+<h2>2단 분리 대용량</h2>
+<p class="d">앞뒤 2단으로 분리되어 있어 보드마카와 필기구를 구분해서 넉넉하게 수납할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_blue.jpg" alt="2단 분리 대용량">
+</div>
+<div class="sec alt">
+<h2>강력 자석 부착</h2>
+<p class="d">뒷면 대면적 자석으로 화이트보드, 냉장고, 철제 사물함에 흔들림 없이 부착됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_yellow.jpg" alt="강력 자석 부착">
+</div>
+<div class="sec">
+<h2>심플한 컬러 구성</h2>
+<p class="d">화이트/블루/옐로우 3가지 컬러로 사무실, 교실, 강의실 어디에나 잘 어울립니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENBOX2CELL_opt_white.jpg" alt="심플한 컬러 구성">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>ABS</td></tr><tr><th>사이즈</th><td>126×42×118mm</td></tr><tr><th>부착</th><td>강력 자석</td></tr><tr><th>컬러</th><td>화이트/블루/옐로우</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 15개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 가위나 큰 물건도 들어가나요?</div><div class="a">A. 두 칸 모두 폭 4cm 이상으로 가위, 두꺼운 마카 등도 여유롭게 수납됩니다.</div><div class="q">Q. 교실 칠판에도 부착되나요?</div><div class="a">A. 네, 철제 칠판이나 화이트보드에 강력하게 부착됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/759233640825.html / 단가 ¥2.99(공통)]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/detail/1311230835_detail_023.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/detail/1311230835_detail_023.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/magnify/1311230835_magnify_071.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/magnify/1311230835_magnify_190.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/magnify/1311230835_magnify_254.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/detail/1311230835_detail_023.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/detail/1311230835_detail_121.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230835/image/detail/1311230835_detail_267.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 4200원)]]></optionValue1>
+<optionPrice><![CDATA[2100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 2100원)]]></optionValue1>
+<optionPrice><![CDATA[39900]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230834]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[자석 벽걸이 연필꽂이 슬림형 화이트보드 냉장고 부착 필통]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 777925752979 / ¥1.25]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_MAGPENHOLDER]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[자석필통|연필꽂이|화이트보드|냉장고부착|펜꽂이]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[1600.00]]></goodsPrice>
+<fixedPrice><![CDATA[2900.00]]></fixedPrice>
+<costPrice><![CDATA[1254.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 강력 자석 부착 · 화이트보드/냉장고/철제사물함 어디든 · 6컬러]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_opt_white.jpg" alt="자석 벽걸이 연필꽂이 슬림형"></div>
+<div class="eyebrow">MAGNETIC ORGANIZER</div>
+<div class="h1">자석 벽걸이 연필꽂이 슬림형</div>
+<div class="sub">화이트보드·냉장고·철제사물함에 강력 자석으로 바로 부착</div>
+
+<div class="stat"><div><b>6</b><span>컬러</span></div><div><b>자석</b><span>강력부착</span></div><div><b>슬림형</b><span>공간활용</span></div></div>
+
+<div class="sec">
+<h2>강력 자석 부착</h2>
+<p class="d">뒷면 대면적 자석 패드로 화이트보드, 냉장고, 철제 사물함 어디든 흔들림 없이 고정됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_black_clean.jpg" alt="강력 자석 부착">
+</div>
+<div class="sec alt">
+<h2>슬림 공간활용형</h2>
+<p class="d">얇은 슬림 디자인으로 좁은 공간에도 부담없이 부착, 펜/보드마카 등 필기구 수납에 최적화되어 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_lblue_clean.jpg" alt="슬림 공간활용형">
+</div>
+<div class="sec">
+<h2>6가지 컬러</h2>
+<p class="d">화이트/블랙/마카롱블루/마카롱그린/마카롱핑크/퍼플 6가지 컬러로 매장·사무실 분위기에 맞춰 선택 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_opt_green.jpg" alt="6가지 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>ABS</td></tr><tr><th>형태</th><td>슬림 자석형</td></tr><tr><th>부착</th><td>강력 자석 패드</td></tr><tr><th>컬러</th><td>화이트/블랙/마카롱블루/마카롱그린/마카롱핑크/퍼플</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 19개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 여러 개 겹쳐서 부착 가능한가요?</div><div class="a">A. 네, 자석 부착력이 강해 여러 개를 나란히 붙여 사용하실 수 있습니다.</div><div class="q">Q. 철제가 아닌 벽에도 부착되나요?</div><div class="a">A. 자석 제품으로 철제/자성 표면에만 부착됩니다. 일반 벽면에는 별도 양면테이프가 필요합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_opt_white.jpg" alt="자석 벽걸이 연필꽂이 슬림형"></div>
+<div class="eyebrow">MAGNETIC ORGANIZER</div>
+<div class="h1">자석 벽걸이 연필꽂이 슬림형</div>
+<div class="sub">화이트보드·냉장고·철제사물함에 강력 자석으로 바로 부착</div>
+
+<div class="stat"><div><b>6</b><span>컬러</span></div><div><b>자석</b><span>강력부착</span></div><div><b>슬림형</b><span>공간활용</span></div></div>
+
+<div class="sec">
+<h2>강력 자석 부착</h2>
+<p class="d">뒷면 대면적 자석 패드로 화이트보드, 냉장고, 철제 사물함 어디든 흔들림 없이 고정됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_black_clean.jpg" alt="강력 자석 부착">
+</div>
+<div class="sec alt">
+<h2>슬림 공간활용형</h2>
+<p class="d">얇은 슬림 디자인으로 좁은 공간에도 부담없이 부착, 펜/보드마카 등 필기구 수납에 최적화되어 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_lblue_clean.jpg" alt="슬림 공간활용형">
+</div>
+<div class="sec">
+<h2>6가지 컬러</h2>
+<p class="d">화이트/블랙/마카롱블루/마카롱그린/마카롱핑크/퍼플 6가지 컬러로 매장·사무실 분위기에 맞춰 선택 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/DS_MAGPENHOLDER_opt_green.jpg" alt="6가지 컬러">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>재질</th><td>ABS</td></tr><tr><th>형태</th><td>슬림 자석형</td></tr><tr><th>부착</th><td>강력 자석 패드</td></tr><tr><th>컬러</th><td>화이트/블랙/마카롱블루/마카롱그린/마카롱핑크/퍼플</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용가</span><span>대량 할인 문의</span><span>당일 출고</span></div>
+<div class="moq">사업자 전용 최소구매수량 19개 (3만원 기준) · 대량구매 별도 문의</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 여러 개 겹쳐서 부착 가능한가요?</div><div class="a">A. 네, 자석 부착력이 강해 여러 개를 나란히 붙여 사용하실 수 있습니다.</div><div class="q">Q. 철제가 아닌 벽에도 부착되나요?</div><div class="a">A. 자석 제품으로 철제/자성 표면에만 부착됩니다. 일반 벽면에는 별도 양면테이프가 필요합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/777925752979.html / 단가 ¥1.25(공통)]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_057.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_057.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/magnify/1311230834_magnify_082.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/magnify/1311230834_magnify_125.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/magnify/1311230834_magnify_245.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/magnify/1311230834_magnify_319.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/magnify/1311230834_magnify_498.jpg]]></magnifyImageData>
+<magnifyImageData idx="6"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/magnify/1311230834_magnify_584.jpg]]></magnifyImageData>
+<magnifyImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338313918_1311230834_magnify_6_cropped.jpg]]></magnifyImageData>
+<magnifyImageData idx="8"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338315564_1311230834_magnify_7_cropped.jpg]]></magnifyImageData>
+<magnifyImageData idx="9"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/magnify/1311230834_magnify_834.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_057.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_156.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_284.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_331.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_481.jpg]]></detailImageData>
+<detailImageData idx="6"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_597.jpg]]></detailImageData>
+<detailImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338311255_1311230834_detail_6_cropped.jpg]]></detailImageData>
+<detailImageData idx="8"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/uploads/qa_fix/1785338312705_1311230834_detail_7_cropped.jpg]]></detailImageData>
+<detailImageData idx="9"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230834/image/detail/1311230834_detail_874.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 3200원)]]></optionValue1>
+<optionPrice><![CDATA[1600]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 1600원)]]></optionValue1>
+<optionPrice><![CDATA[30400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230833]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[롱핸들 바닥틈새 욕실 청소솔]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 608204386789 / ¥16.9]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_GAPFLOORBRUSH]]></goodsCd>
+<cateCd><![CDATA[073]]></cateCd>
+<allCateCd><![CDATA[073]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[청소솔|바닥솔|틈새청소|욕실청소도구]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[6000.00]]></goodsPrice>
+<fixedPrice><![CDATA[6800.00]]></fixedPrice>
+<costPrice><![CDATA[4970.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 긴 손잡이 · 틈새 전용 브러시 · 욕실/베란다 청소]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g4.jpg" alt="롱핸들 바닥틈새 욕실 청소솔"></div>
+<div class="eyebrow">1688 DIRECT SOURCING</div>
+<div class="h1">롱핸들 바닥틈새 욕실 청소솔</div>
+<div class="sub">긴 손잡이 · 틈새 전용 브러시 · 욕실/베란다 청소</div>
+
+<div class="stat"><div><b>0.004</b><span>CBM</span></div><div><b>5개</b><span>최소구매</span></div><div><b>1688</b><span>직소싱</span></div></div>
+
+<div class="sec">
+<h2>롱핸들 바닥틈새 욕실 청소솔</h2>
+<p class="d">긴 손잡이 · 틈새 전용 브러시 · 욕실/베란다 청소</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g4.jpg" alt="롱핸들 바닥틈새 욕실 청소솔">
+</div>
+<div class="sec alt">
+<h2>디테일 1</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g1.jpg" alt="디테일 1">
+</div>
+<div class="sec">
+<h2>디테일 2</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g2.jpg" alt="디테일 2">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>원산지</th><td>중국</td></tr><tr><th>사입 경로</th><td>1688.com</td></tr><tr><th>재질/구성</th><td>상세설명 참조</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가</span><span>직소싱</span></div>
+<div class="moq">최소구매수량 5개 · 판매가 6,000원</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 허리를 굽히지 않고 사용 가능한가요?</div><div class="a">A. 긴 손잡이 설계로 서서 편하게 사용할 수 있습니다.</div><div class="q">Q. 어떤 바닥에 사용하나요?</div><div class="a">A. 타일, 데크, 베란다 등 틈새 오염 제거에 적합합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g4.jpg" alt="롱핸들 바닥틈새 욕실 청소솔"></div>
+<div class="eyebrow">1688 DIRECT SOURCING</div>
+<div class="h1">롱핸들 바닥틈새 욕실 청소솔</div>
+<div class="sub">긴 손잡이 · 틈새 전용 브러시 · 욕실/베란다 청소</div>
+
+<div class="stat"><div><b>0.004</b><span>CBM</span></div><div><b>5개</b><span>최소구매</span></div><div><b>1688</b><span>직소싱</span></div></div>
+
+<div class="sec">
+<h2>롱핸들 바닥틈새 욕실 청소솔</h2>
+<p class="d">긴 손잡이 · 틈새 전용 브러시 · 욕실/베란다 청소</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g4.jpg" alt="롱핸들 바닥틈새 욕실 청소솔">
+</div>
+<div class="sec alt">
+<h2>디테일 1</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g1.jpg" alt="디테일 1">
+</div>
+<div class="sec">
+<h2>디테일 2</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o608204386789_g2.jpg" alt="디테일 2">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>원산지</th><td>중국</td></tr><tr><th>사입 경로</th><td>1688.com</td></tr><tr><th>재질/구성</th><td>상세설명 참조</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가</span><span>직소싱</span></div>
+<div class="moq">최소구매수량 5개 · 판매가 6,000원</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 허리를 굽히지 않고 사용 가능한가요?</div><div class="a">A. 긴 손잡이 설계로 서서 편하게 사용할 수 있습니다.</div><div class="q">Q. 어떤 바닥에 사용하나요?</div><div class="a">A. 타일, 데크, 베란다 등 틈새 오염 제거에 적합합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/608204386789.html / 단가 ¥16.9 / CBM 0.004]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/detail/1311230833_detail_045.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/detail/1311230833_detail_045.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/magnify/1311230833_magnify_056.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/magnify/1311230833_magnify_131.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/magnify/1311230833_magnify_286.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/magnify/1311230833_magnify_32.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/detail/1311230833_detail_045.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/detail/1311230833_detail_111.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/detail/1311230833_detail_249.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230833/image/detail/1311230833_detail_373.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 12000원)]]></optionValue1>
+<optionPrice><![CDATA[6000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 6000원)]]></optionValue1>
+<optionPrice><![CDATA[24000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230832]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[발바닥 근막 훈련용 마사지 롤러]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 1028805676312 / ¥14.0]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_FOOTMASSAGEROLLER]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[마사지롤러|족저근막|발마사지|스트레칭롤러]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[5100.00]]></goodsPrice>
+<fixedPrice><![CDATA[5800.00]]></fixedPrice>
+<costPrice><![CDATA[4196.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 425개 지압 돌기 · 발/종아리/손목 다목적 사용]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g4.jpg" alt="발바닥 근막 훈련용 마사지 롤러"></div>
+<div class="eyebrow">1688 DIRECT SOURCING</div>
+<div class="h1">발바닥 근막 훈련용 마사지 롤러</div>
+<div class="sub">425개 지압 돌기 · 발/종아리/손목 다목적 사용</div>
+
+<div class="stat"><div><b>0.004</b><span>CBM</span></div><div><b>6개</b><span>최소구매</span></div><div><b>1688</b><span>직소싱</span></div></div>
+
+<div class="sec">
+<h2>발바닥 근막 훈련용 마사지 롤러</h2>
+<p class="d">425개 지압 돌기 · 발/종아리/손목 다목적 사용</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g4.jpg" alt="발바닥 근막 훈련용 마사지 롤러">
+</div>
+<div class="sec alt">
+<h2>디테일 1</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g3.jpg" alt="디테일 1">
+</div>
+<div class="sec">
+<h2>디테일 2</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g4.jpg" alt="디테일 2">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>원산지</th><td>중국</td></tr><tr><th>사입 경로</th><td>1688.com</td></tr><tr><th>재질/구성</th><td>상세설명 참조</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가</span><span>직소싱</span></div>
+<div class="moq">최소구매수량 6개 · 판매가 5,100원</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 발 외 다른 부위도 사용 가능한가요?</div><div class="a">A. 종아리, 손목 등 다양한 부위 마사지에 활용 가능합니다.</div><div class="q">Q. 소음이 있나요?</div><div class="a">A. 저소음 설계로 실내에서도 부담 없이 사용할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g4.jpg" alt="발바닥 근막 훈련용 마사지 롤러"></div>
+<div class="eyebrow">1688 DIRECT SOURCING</div>
+<div class="h1">발바닥 근막 훈련용 마사지 롤러</div>
+<div class="sub">425개 지압 돌기 · 발/종아리/손목 다목적 사용</div>
+
+<div class="stat"><div><b>0.004</b><span>CBM</span></div><div><b>6개</b><span>최소구매</span></div><div><b>1688</b><span>직소싱</span></div></div>
+
+<div class="sec">
+<h2>발바닥 근막 훈련용 마사지 롤러</h2>
+<p class="d">425개 지압 돌기 · 발/종아리/손목 다목적 사용</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g4.jpg" alt="발바닥 근막 훈련용 마사지 롤러">
+</div>
+<div class="sec alt">
+<h2>디테일 1</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g3.jpg" alt="디테일 1">
+</div>
+<div class="sec">
+<h2>디테일 2</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1028805676312_g4.jpg" alt="디테일 2">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>원산지</th><td>중국</td></tr><tr><th>사입 경로</th><td>1688.com</td></tr><tr><th>재질/구성</th><td>상세설명 참조</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가</span><span>직소싱</span></div>
+<div class="moq">최소구매수량 6개 · 판매가 5,100원</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 발 외 다른 부위도 사용 가능한가요?</div><div class="a">A. 종아리, 손목 등 다양한 부위 마사지에 활용 가능합니다.</div><div class="q">Q. 소음이 있나요?</div><div class="a">A. 저소음 설계로 실내에서도 부담 없이 사용할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/1028805676312.html / 단가 ¥14.0 / CBM 0.004]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230832/image/detail/1311230832_detail_085.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230832/image/detail/1311230832_detail_085.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230832/image/magnify/1311230832_magnify_063.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230832/image/magnify/1311230832_magnify_161.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230832/image/detail/1311230832_detail_085.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230832/image/detail/1311230832_detail_186.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 10200원)]]></optionValue1>
+<optionPrice><![CDATA[5100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 5100원)]]></optionValue1>
+<optionPrice><![CDATA[20400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230831]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 1061094883666 / ¥5.59]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_SHOWERBRUSH2IN1]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[샤워브러쉬|등밀이|목욕볼|바디브러시]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2900.00]]></goodsPrice>
+<fixedPrice><![CDATA[3300.00]]></fixedPrice>
+<costPrice><![CDATA[2412.00]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 긴 손잡이로 등까지 편리하게 · 양면 브러시+목욕볼]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g4.jpg" alt="롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1"></div>
+<div class="eyebrow">1688 DIRECT SOURCING</div>
+<div class="h1">롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1</div>
+<div class="sub">긴 손잡이로 등까지 편리하게 · 양면 브러시+목욕볼</div>
+
+<div class="stat"><div><b>0.008</b><span>CBM</span></div><div><b>11개</b><span>최소구매</span></div><div><b>1688</b><span>직소싱</span></div></div>
+
+<div class="sec">
+<h2>롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1</h2>
+<p class="d">긴 손잡이로 등까지 편리하게 · 양면 브러시+목욕볼</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g4.jpg" alt="롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1">
+</div>
+<div class="sec alt">
+<h2>디테일 1</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g3.jpg" alt="디테일 1">
+</div>
+<div class="sec">
+<h2>디테일 2</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g4.jpg" alt="디테일 2">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>원산지</th><td>중국</td></tr><tr><th>사입 경로</th><td>1688.com</td></tr><tr><th>재질/구성</th><td>상세설명 참조</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가</span><span>직소싱</span></div>
+<div class="moq">최소구매수량 11개 · 판매가 2,900원</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 손이 닿지 않는 등도 씻을 수 있나요?</div><div class="a">A. 긴 손잡이 설계로 등, 어깨까지 편리하게 셀프 세정 가능합니다.</div><div class="q">Q. 거치는 어떻게 하나요?</div><div class="a">A. 손잡이 끝 고리로 욕실에 걸어서 보관할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g4.jpg" alt="롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1"></div>
+<div class="eyebrow">1688 DIRECT SOURCING</div>
+<div class="h1">롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1</div>
+<div class="sub">긴 손잡이로 등까지 편리하게 · 양면 브러시+목욕볼</div>
+
+<div class="stat"><div><b>0.008</b><span>CBM</span></div><div><b>11개</b><span>최소구매</span></div><div><b>1688</b><span>직소싱</span></div></div>
+
+<div class="sec">
+<h2>롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1</h2>
+<p class="d">긴 손잡이로 등까지 편리하게 · 양면 브러시+목욕볼</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g4.jpg" alt="롱핸들 양면 샤워브러쉬 등긁이 목욕볼 2in1">
+</div>
+<div class="sec alt">
+<h2>디테일 1</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g3.jpg" alt="디테일 1">
+</div>
+<div class="sec">
+<h2>디테일 2</h2>
+<p class="d">실사용 이미지로 품질을 확인하세요.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/o1061094883666_g4.jpg" alt="디테일 2">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>원산지</th><td>중국</td></tr><tr><th>사입 경로</th><td>1688.com</td></tr><tr><th>재질/구성</th><td>상세설명 참조</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가</span><span>직소싱</span></div>
+<div class="moq">최소구매수량 11개 · 판매가 2,900원</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 손이 닿지 않는 등도 씻을 수 있나요?</div><div class="a">A. 긴 손잡이 설계로 등, 어깨까지 편리하게 셀프 세정 가능합니다.</div><div class="q">Q. 거치는 어떻게 하나요?</div><div class="a">A. 손잡이 끝 고리로 욕실에 걸어서 보관할 수 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/1061094883666.html / 단가 ¥5.59 / CBM 0.008]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230831/image/detail/1311230831_detail_014.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230831/image/detail/1311230831_detail_014.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230831/image/magnify/1311230831_magnify_018.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230831/image/magnify/1311230831_magnify_197.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230831/image/detail/1311230831_detail_014.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230831/image/detail/1311230831_detail_151.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 5800원)]]></optionValue1>
+<optionPrice><![CDATA[2900]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 2900원)]]></optionValue1>
+<optionPrice><![CDATA[26100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+</data>
