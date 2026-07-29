@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230792]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[플라워 퀼팅 화장품 파우치 여행 세면 소프트]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 807941120851 / CNY5.5]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_FLORALPOUCH]]></goodsCd>
+<cateCd><![CDATA[074]]></cateCd>
+<allCateCd><![CDATA[074]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[화장품파우치|퀼팅파우치|여행파우치|세면파우치|플로럴파우치]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[2400]]></goodsPrice>
+<fixedPrice><![CDATA[4080]]></fixedPrice>
+<costPrice><![CDATA[1927]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 플로럴 퀼팅 화장품 파우치 · 8종 패턴]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g0.jpg" alt="플라워 퀼팅 화장품 파우치 여행 세면 소프트"></div>
+<div class="eyebrow">FLORAL QUILTED POUCH</div>
+<div class="h1">플라워 퀼팅 화장품 파우치 여행 세면 소프트</div>
+<div class="sub">포근한 퀼팅 원단 · 플로럴 패턴 8종 · 여행/세면 파우치</div>
+
+<div class="stat"><div><b>8종</b><span>플로럴패턴</span></div><div><b>퀼팅</b><span>소프트원단</span></div><div><b>멀티</b><span>화장품/세면</span></div></div>
+
+<div class="sec">
+<h2>포근한 퀼팅 원단</h2>
+<p class="d">도톰한 퀼팅 원단으로 내용물을 부드럽게 보호합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g0.jpg" alt="포근한 퀼팅 원단">
+</div>
+<div class="sec alt">
+<h2>다양한 플로럴 패턴</h2>
+<p class="d">8가지 플로럴 패턴으로 취향껏 선택할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g1.jpg" alt="다양한 플로럴 패턴">
+</div>
+<div class="sec">
+<h2>여행/일상 모두 활용</h2>
+<p class="d">화장품, 세면도구, 소품 정리까지 다양하게 활용 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g2.jpg" alt="여행/일상 모두 활용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>퀼팅 원단(코튼 혼방)</td></tr><tr><th>컬러</th><td>8종 플로럴 패턴</td></tr><tr><th>용도</th><td>화장품파우치, 세면파우치, 소품정리</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 13개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 방수 기능이 있나요?</div><div class="a">A. 생활방수 수준이며 완전 방수는 아닙니다.</div><div class="q">Q. 세탁이 가능한가요?</div><div class="a">A. 손세탁을 권장합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g0.jpg" alt="플라워 퀼팅 화장품 파우치 여행 세면 소프트"></div>
+<div class="eyebrow">FLORAL QUILTED POUCH</div>
+<div class="h1">플라워 퀼팅 화장품 파우치 여행 세면 소프트</div>
+<div class="sub">포근한 퀼팅 원단 · 플로럴 패턴 8종 · 여행/세면 파우치</div>
+
+<div class="stat"><div><b>8종</b><span>플로럴패턴</span></div><div><b>퀼팅</b><span>소프트원단</span></div><div><b>멀티</b><span>화장품/세면</span></div></div>
+
+<div class="sec">
+<h2>포근한 퀼팅 원단</h2>
+<p class="d">도톰한 퀼팅 원단으로 내용물을 부드럽게 보호합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g0.jpg" alt="포근한 퀼팅 원단">
+</div>
+<div class="sec alt">
+<h2>다양한 플로럴 패턴</h2>
+<p class="d">8가지 플로럴 패턴으로 취향껏 선택할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g1.jpg" alt="다양한 플로럴 패턴">
+</div>
+<div class="sec">
+<h2>여행/일상 모두 활용</h2>
+<p class="d">화장품, 세면도구, 소품 정리까지 다양하게 활용 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/floralpouch_g2.jpg" alt="여행/일상 모두 활용">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>퀼팅 원단(코튼 혼방)</td></tr><tr><th>컬러</th><td>8종 플로럴 패턴</td></tr><tr><th>용도</th><td>화장품파우치, 세면파우치, 소품정리</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 13개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 방수 기능이 있나요?</div><div class="a">A. 생활방수 수준이며 완전 방수는 아닙니다.</div><div class="q">Q. 세탁이 가능한가요?</div><div class="a">A. 손세탁을 권장합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/807941120851.html / 단가 CNY5.5]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/detail/1311230792_detail_057.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/detail/1311230792_detail_057.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/magnify/1311230792_magnify_099.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/magnify/1311230792_magnify_197.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/magnify/1311230792_magnify_296.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/magnify/1311230792_magnify_362.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/magnify/1311230792_magnify_41.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/detail/1311230792_detail_057.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/detail/1311230792_detail_197.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/detail/1311230792_detail_216.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/detail/1311230792_detail_345.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230792/image/detail/1311230792_detail_481.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 4800원)]]></optionValue1>
+<optionPrice><![CDATA[2400]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 2400원)]]></optionValue1>
+<optionPrice><![CDATA[45600]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230793]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[자석 벽걸이 무타공 이중 신발정리 선반]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 1045224419024 / CNY18.4]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_SHOERACKMAG]]></goodsCd>
+<cateCd><![CDATA[075]]></cateCd>
+<allCateCd><![CDATA[075]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[신발정리대|자석선반|신발장|현관수납|무타공선반]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[7000]]></goodsPrice>
+<fixedPrice><![CDATA[11900]]></fixedPrice>
+<costPrice><![CDATA[5830]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 5개 · 무타공 자석 벽걸이 2단 신발정리 선반]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g0.jpg" alt="자석 벽걸이 무타공 이중 신발정리 선반"></div>
+<div class="eyebrow">MAGNETIC SHOE RACK</div>
+<div class="h1">자석 벽걸이 무타공 이중 신발정리 선반</div>
+<div class="sub">무타공 자석 부착 · 2단 신발 정리 · 신축형 40~73cm</div>
+
+<div class="stat"><div><b>무타공</b><span>자석부착</span></div><div><b>2단</b><span>대용량</span></div><div><b>40~73cm</b><span>신축가능</span></div></div>
+
+<div class="sec">
+<h2>무타공 자석 설치</h2>
+<p class="d">벽에 구멍을 뚫지 않고 강력 자석으로 간편하게 부착합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g0.jpg" alt="무타공 자석 설치">
+</div>
+<div class="sec alt">
+<h2>2단 대용량 수납</h2>
+<p class="d">신발, 슬리퍼를 층별로 넉넉하게 정리할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g1.jpg" alt="2단 대용량 수납">
+</div>
+<div class="sec">
+<h2>신축형 사이즈 조절</h2>
+<p class="d">40~73cm까지 폭을 조절해 다양한 공간에 맞출 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g2.jpg" alt="신축형 사이즈 조절">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>금속 프레임</td></tr><tr><th>설치</th><td>무타공 자석 부착형</td></tr><tr><th>사이즈</th><td>신축형 40~73cm, 2단</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 5개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어떤 벽에 부착 가능한가요?</div><div class="a">A. 철제 도어, 냉장고 등 자성이 있는 표면에 부착 가능합니다.</div><div class="q">Q. 하중은 어느 정도인가요?</div><div class="a">A. 일반 신발/슬리퍼 기준 다수 수납이 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g0.jpg" alt="자석 벽걸이 무타공 이중 신발정리 선반"></div>
+<div class="eyebrow">MAGNETIC SHOE RACK</div>
+<div class="h1">자석 벽걸이 무타공 이중 신발정리 선반</div>
+<div class="sub">무타공 자석 부착 · 2단 신발 정리 · 신축형 40~73cm</div>
+
+<div class="stat"><div><b>무타공</b><span>자석부착</span></div><div><b>2단</b><span>대용량</span></div><div><b>40~73cm</b><span>신축가능</span></div></div>
+
+<div class="sec">
+<h2>무타공 자석 설치</h2>
+<p class="d">벽에 구멍을 뚫지 않고 강력 자석으로 간편하게 부착합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g0.jpg" alt="무타공 자석 설치">
+</div>
+<div class="sec alt">
+<h2>2단 대용량 수납</h2>
+<p class="d">신발, 슬리퍼를 층별로 넉넉하게 정리할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g1.jpg" alt="2단 대용량 수납">
+</div>
+<div class="sec">
+<h2>신축형 사이즈 조절</h2>
+<p class="d">40~73cm까지 폭을 조절해 다양한 공간에 맞출 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/shoerackmag_g2.jpg" alt="신축형 사이즈 조절">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>금속 프레임</td></tr><tr><th>설치</th><td>무타공 자석 부착형</td></tr><tr><th>사이즈</th><td>신축형 40~73cm, 2단</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 5개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 어떤 벽에 부착 가능한가요?</div><div class="a">A. 철제 도어, 냉장고 등 자성이 있는 표면에 부착 가능합니다.</div><div class="q">Q. 하중은 어느 정도인가요?</div><div class="a">A. 일반 신발/슬리퍼 기준 다수 수납이 가능합니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/1045224419024.html / 단가 CNY18.4]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/detail/1311230793_detail_051.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/detail/1311230793_detail_051.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/magnify/1311230793_magnify_021.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/magnify/1311230793_magnify_131.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/magnify/1311230793_magnify_281.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/magnify/1311230793_magnify_356.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/magnify/1311230793_magnify_462.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/detail/1311230793_detail_051.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/detail/1311230793_detail_131.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/detail/1311230793_detail_235.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/detail/1311230793_detail_330.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230793/image/detail/1311230793_detail_47.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 14000원)]]></optionValue1>
+<optionPrice><![CDATA[7000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 5개 묶음 (개당 7000원)]]></optionValue1>
+<optionPrice><![CDATA[28000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230794]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[반려동물 소파 쿨매트 사계절 침대방석]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 1050217367228 / CNY10.0]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_PETSOFACUSHION]]></goodsCd>
+<cateCd><![CDATA[072]]></cateCd>
+<allCateCd><![CDATA[072]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[반려동물방석|고양이쿠션|강아지방석|소파보호매트|펫쿠션]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[3900]]></goodsPrice>
+<fixedPrice><![CDATA[6630]]></fixedPrice>
+<costPrice><![CDATA[3243]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 반려동물 소파보호 겸용 사계절 방석]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g0.jpg" alt="반려동물 소파 쿨매트 사계절 침대방석"></div>
+<div class="eyebrow">PET SOFA CUSHION</div>
+<div class="h1">반려동물 소파 쿨매트 사계절 침대방석</div>
+<div class="sub">소파 보호 겸용 · 사계절 사용 · 등받이 쿠션 일체형</div>
+
+<div class="stat"><div><b>사계절</b><span>겸용</span></div><div><b>소파보호</b><span>겸용쿠션</span></div><div><b>80x60cm</b><span>대형</span></div></div>
+
+<div class="sec">
+<h2>소파 보호 + 반려동물 침대</h2>
+<p class="d">소파 위에 올려두면 털 오염을 방지하면서 아늑한 잠자리가 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g0.jpg" alt="소파 보호 + 반려동물 침대">
+</div>
+<div class="sec alt">
+<h2>등받이 쿠션 일체형</h2>
+<p class="d">양옆 롤 쿠션이 있어 반려동물이 기대어 편안하게 쉴 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g1.jpg" alt="등받이 쿠션 일체형">
+</div>
+<div class="sec">
+<h2>사계절 사용 가능</h2>
+<p class="d">부드러운 원단으로 사계절 편안하게 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g2.jpg" alt="사계절 사용 가능">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>폴리에스터 퀼팅 원단</td></tr><tr><th>사이즈</th><td>약 80 x 60cm</td></tr><tr><th>용도</th><td>소파 보호, 반려동물 침대</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 8개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세탁 가능한가요?</div><div class="a">A. 가정용 세탁기 사용이 가능합니다(찬물 사용 권장).</div><div class="q">Q. 미끄럼 방지가 되나요?</div><div class="a">A. 밑면 논슬립 처리로 고정력이 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g0.jpg" alt="반려동물 소파 쿨매트 사계절 침대방석"></div>
+<div class="eyebrow">PET SOFA CUSHION</div>
+<div class="h1">반려동물 소파 쿨매트 사계절 침대방석</div>
+<div class="sub">소파 보호 겸용 · 사계절 사용 · 등받이 쿠션 일체형</div>
+
+<div class="stat"><div><b>사계절</b><span>겸용</span></div><div><b>소파보호</b><span>겸용쿠션</span></div><div><b>80x60cm</b><span>대형</span></div></div>
+
+<div class="sec">
+<h2>소파 보호 + 반려동물 침대</h2>
+<p class="d">소파 위에 올려두면 털 오염을 방지하면서 아늑한 잠자리가 됩니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g0.jpg" alt="소파 보호 + 반려동물 침대">
+</div>
+<div class="sec alt">
+<h2>등받이 쿠션 일체형</h2>
+<p class="d">양옆 롤 쿠션이 있어 반려동물이 기대어 편안하게 쉴 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g1.jpg" alt="등받이 쿠션 일체형">
+</div>
+<div class="sec">
+<h2>사계절 사용 가능</h2>
+<p class="d">부드러운 원단으로 사계절 편안하게 사용할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/petsofacushion_g2.jpg" alt="사계절 사용 가능">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>폴리에스터 퀼팅 원단</td></tr><tr><th>사이즈</th><td>약 80 x 60cm</td></tr><tr><th>용도</th><td>소파 보호, 반려동물 침대</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 8개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세탁 가능한가요?</div><div class="a">A. 가정용 세탁기 사용이 가능합니다(찬물 사용 권장).</div><div class="q">Q. 미끄럼 방지가 되나요?</div><div class="a">A. 밑면 논슬립 처리로 고정력이 있습니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/1050217367228.html / 단가 CNY10.0]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/detail/1311230794_detail_033.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/detail/1311230794_detail_033.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/magnify/1311230794_magnify_034.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/magnify/1311230794_magnify_164.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/magnify/1311230794_magnify_214.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/detail/1311230794_detail_033.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/detail/1311230794_detail_158.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230794/image/detail/1311230794_detail_227.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 7800원)]]></optionValue1>
+<optionPrice><![CDATA[3900]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 3900원)]]></optionValue1>
+<optionPrice><![CDATA[35100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230795]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[대용량 보온백 피크닉 휴대용 도시락가방]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 925234711911 / CNY9.9]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_LUNCHCOOLERBAG]]></goodsCd>
+<cateCd><![CDATA[070]]></cateCd>
+<allCateCd><![CDATA[070]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[보온백|보냉백|피크닉가방|도시락가방|보냉가방]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4000]]></goodsPrice>
+<fixedPrice><![CDATA[6800]]></fixedPrice>
+<costPrice><![CDATA[3331]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 대용량 보온보냉 피크닉 도시락가방]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g0.jpg" alt="대용량 보온백 피크닉 휴대용 도시락가방"></div>
+<div class="eyebrow">INSULATED LUNCH BAG</div>
+<div class="h1">대용량 보온백 피크닉 휴대용 도시락가방</div>
+<div class="sub">보온보냉 겸용 · 대용량 · 피크닉/캠핑/배달 다용도</div>
+
+<div class="stat"><div><b>보온보냉</b><span>겸용</span></div><div><b>대용량</b><span>수납력</span></div><div><b>멀티</b><span>피크닉/배달</span></div></div>
+
+<div class="sec">
+<h2>알루미늄 보냉 내피</h2>
+<p class="d">내부 알루미늄 코팅으로 보온/보냉 효과를 오래 유지합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g0.jpg" alt="알루미늄 보냉 내피">
+</div>
+<div class="sec alt">
+<h2>넉넉한 대용량</h2>
+<p class="d">도시락, 음료, 식재료까지 넉넉하게 담을 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g1.jpg" alt="넉넉한 대용량">
+</div>
+<div class="sec">
+<h2>튼튼한 손잡이</h2>
+<p class="d">내구성 좋은 손잡이로 무거운 짐도 편하게 운반할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g2.jpg" alt="튼튼한 손잡이">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>옥스포드 원단 + 알루미늄 보냉 내피</td></tr><tr><th>용도</th><td>피크닉, 캠핑, 배달, 장보기</td></tr><tr><th>색상</th><td>레드/블루/그레이/그린 등</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 8개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 보냉 지속시간은 어느 정도인가요?</div><div class="a">A. 일반 사용 기준 수 시간 보온/보냉이 유지됩니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물걸레로 내외부를 닦아주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g0.jpg" alt="대용량 보온백 피크닉 휴대용 도시락가방"></div>
+<div class="eyebrow">INSULATED LUNCH BAG</div>
+<div class="h1">대용량 보온백 피크닉 휴대용 도시락가방</div>
+<div class="sub">보온보냉 겸용 · 대용량 · 피크닉/캠핑/배달 다용도</div>
+
+<div class="stat"><div><b>보온보냉</b><span>겸용</span></div><div><b>대용량</b><span>수납력</span></div><div><b>멀티</b><span>피크닉/배달</span></div></div>
+
+<div class="sec">
+<h2>알루미늄 보냉 내피</h2>
+<p class="d">내부 알루미늄 코팅으로 보온/보냉 효과를 오래 유지합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g0.jpg" alt="알루미늄 보냉 내피">
+</div>
+<div class="sec alt">
+<h2>넉넉한 대용량</h2>
+<p class="d">도시락, 음료, 식재료까지 넉넉하게 담을 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g1.jpg" alt="넉넉한 대용량">
+</div>
+<div class="sec">
+<h2>튼튼한 손잡이</h2>
+<p class="d">내구성 좋은 손잡이로 무거운 짐도 편하게 운반할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/lunchcoolerbag_g2.jpg" alt="튼튼한 손잡이">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>옥스포드 원단 + 알루미늄 보냉 내피</td></tr><tr><th>용도</th><td>피크닉, 캠핑, 배달, 장보기</td></tr><tr><th>색상</th><td>레드/블루/그레이/그린 등</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 8개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 보냉 지속시간은 어느 정도인가요?</div><div class="a">A. 일반 사용 기준 수 시간 보온/보냉이 유지됩니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물걸레로 내외부를 닦아주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/925234711911.html / 단가 CNY9.9]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/detail/1311230795_detail_060.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/detail/1311230795_detail_060.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/magnify/1311230795_magnify_092.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/magnify/1311230795_magnify_161.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/magnify/1311230795_magnify_293.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/magnify/1311230795_magnify_39.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/detail/1311230795_detail_060.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/detail/1311230795_detail_121.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/detail/1311230795_detail_282.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230795/image/detail/1311230795_detail_323.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 8000원)]]></optionValue1>
+<optionPrice><![CDATA[4000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 4000원)]]></optionValue1>
+<optionPrice><![CDATA[36000]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230796]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[차량 트렁크 수납백 옥스퍼드 걸이형 정리함]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 826111869130 / CNY10.93]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_TRUNKHANGBAG2]]></goodsCd>
+<cateCd><![CDATA[076]]></cateCd>
+<allCateCd><![CDATA[076]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[트렁크수납백|차량정리함|뒷좌석걸이형|카시트수납|자동차정리함]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[4200]]></goodsPrice>
+<fixedPrice><![CDATA[7140]]></fixedPrice>
+<costPrice><![CDATA[3491]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 10개 · 차량 트렁크 걸이형 옥스포드 정리함]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/trunkhangbag2_g0.jpg" alt="차량 트렁크 수납백 옥스퍼드 걸이형 정리함"></div>
+<div class="eyebrow">CAR TRUNK ORGANIZER</div>
+<div class="h1">차량 트렁크 수납백 옥스퍼드 걸이형 정리함</div>
+<div class="sub">뒷좌석 걸이형 설치 · 멀티포켓 · 옥스포드 방수원단</div>
+
+<div class="stat"><div><b>걸이형</b><span>간편설치</span></div><div><b>멀티포켓</b><span>다중수납</span></div><div><b>옥스포드</b><span>방수원단</span></div></div>
+
+<div class="sec">
+<h2>간편한 걸이형 설치</h2>
+<p class="d">헤드레스트에 걸어 간편하게 설치할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/trunkhangbag2_g0.jpg" alt="간편한 걸이형 설치">
+</div>
+<div class="sec alt">
+<h2>다양한 소품 수납</h2>
+<p class="d">책, 우산, 인형 등 다양한 소품을 정리할 수 있는 멀티포켓 구조입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/trunkhangbag2_g1.jpg" alt="다양한 소품 수납">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>옥스포드 방수원단</td></tr><tr><th>설치</th><td>뒷좌석 헤드레스트 걸이형</td></tr><tr><th>용도</th><td>트렁크/뒷좌석 수납정리</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 8개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 설치가 어렵나요?</div><div class="a">A. 헤드레스트에 거는 방식으로 별도 공구 없이 간편하게 설치 가능합니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물걸레로 표면을 닦아주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/trunkhangbag2_g0.jpg" alt="차량 트렁크 수납백 옥스퍼드 걸이형 정리함"></div>
+<div class="eyebrow">CAR TRUNK ORGANIZER</div>
+<div class="h1">차량 트렁크 수납백 옥스퍼드 걸이형 정리함</div>
+<div class="sub">뒷좌석 걸이형 설치 · 멀티포켓 · 옥스포드 방수원단</div>
+
+<div class="stat"><div><b>걸이형</b><span>간편설치</span></div><div><b>멀티포켓</b><span>다중수납</span></div><div><b>옥스포드</b><span>방수원단</span></div></div>
+
+<div class="sec">
+<h2>간편한 걸이형 설치</h2>
+<p class="d">헤드레스트에 걸어 간편하게 설치할 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/trunkhangbag2_g0.jpg" alt="간편한 걸이형 설치">
+</div>
+<div class="sec alt">
+<h2>다양한 소품 수납</h2>
+<p class="d">책, 우산, 인형 등 다양한 소품을 정리할 수 있는 멀티포켓 구조입니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/trunkhangbag2_g1.jpg" alt="다양한 소품 수납">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>옥스포드 방수원단</td></tr><tr><th>설치</th><td>뒷좌석 헤드레스트 걸이형</td></tr><tr><th>용도</th><td>트렁크/뒷좌석 수납정리</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>대량주문환영</span></div>
+<div class="moq">최소구매수량 8개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 설치가 어렵나요?</div><div class="a">A. 헤드레스트에 거는 방식으로 별도 공구 없이 간편하게 설치 가능합니다.</div><div class="q">Q. 세척은 어떻게 하나요?</div><div class="a">A. 물걸레로 표면을 닦아주세요.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/826111869130.html / 단가 CNY10.93]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230796/image/detail/1311230796_detail_03.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230796/image/detail/1311230796_detail_03.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230796/image/magnify/1311230796_magnify_081.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230796/image/magnify/1311230796_magnify_157.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230796/image/detail/1311230796_detail_03.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230796/image/detail/1311230796_detail_128.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 8400원)]]></optionValue1>
+<optionPrice><![CDATA[4200]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 10개 묶음 (개당 4200원)]]></optionValue1>
+<optionPrice><![CDATA[37800]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK10]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+<goods_data>
+<goodsNo><![CDATA[1311230797]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[깃털 종이끈 캣토이볼]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 1011204335430 / CNY0.6]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_FEATHERCATBALL]]></goodsCd>
+<cateCd><![CDATA[072]]></cateCd>
+<allCateCd><![CDATA[072]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[캣토이|고양이장난감|깃털장난감|페이퍼콘장난감|캣닢볼]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[900]]></goodsPrice>
+<fixedPrice><![CDATA[1980]]></fixedPrice>
+<costPrice><![CDATA[735]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[1]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[최소 20개 · 천연 페이퍼콘 깃털 고양이 장난감볼]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/feathercatball_g1.jpg" alt="깃털 종이끈 캣토이볼"></div>
+<div class="eyebrow">FEATHER CAT TOY BALL</div>
+<div class="h1">깃털 종이끈 캣토이볼</div>
+<div class="sub">천연 페이퍼콘 소재 · 깃털 장식 · 고양이 사냥 본능 자극</div>
+
+<div class="stat"><div><b>천연</b><span>페이퍼콘</span></div><div><b>깃털</b><span>장식</span></div><div><b>저가</b><span>대량구매용</span></div></div>
+
+<div class="sec">
+<h2>천연 페이퍼콘 소재</h2>
+<p class="d">무독성 천연 소재로 반려묘가 안전하게 물고 뜯을 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/feathercatball_g0.jpg" alt="천연 페이퍼콘 소재">
+</div>
+<div class="sec alt">
+<h2>깃털로 사냥 본능 자극</h2>
+<p class="d">흔들리는 깃털이 고양이의 사냥 본능을 자극해 놀이 효과가 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/feathercatball_g1.jpg" alt="깃털로 사냥 본능 자극">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>천연 페이퍼콘 + 깃털</td></tr><tr><th>사이즈</th><td>지름 약 4.2cm</td></tr><tr><th>중량</th><td>약 10g</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>저가대량</span></div>
+<div class="moq">최소구매수량 34개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 여러 마리가 함께 놀아도 되나요?</div><div class="a">A. 네, 여러 고양이가 함께 사용할 수 있습니다.</div><div class="q">Q. 색상은 랜덤인가요?</div><div class="a">A. 다양한 컬러가 랜덤으로 발송됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/feathercatball_g1.jpg" alt="깃털 종이끈 캣토이볼"></div>
+<div class="eyebrow">FEATHER CAT TOY BALL</div>
+<div class="h1">깃털 종이끈 캣토이볼</div>
+<div class="sub">천연 페이퍼콘 소재 · 깃털 장식 · 고양이 사냥 본능 자극</div>
+
+<div class="stat"><div><b>천연</b><span>페이퍼콘</span></div><div><b>깃털</b><span>장식</span></div><div><b>저가</b><span>대량구매용</span></div></div>
+
+<div class="sec">
+<h2>천연 페이퍼콘 소재</h2>
+<p class="d">무독성 천연 소재로 반려묘가 안전하게 물고 뜯을 수 있습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/feathercatball_g0.jpg" alt="천연 페이퍼콘 소재">
+</div>
+<div class="sec alt">
+<h2>깃털로 사냥 본능 자극</h2>
+<p class="d">흔들리는 깃털이 고양이의 사냥 본능을 자극해 놀이 효과가 좋습니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/feathercatball_g1.jpg" alt="깃털로 사냥 본능 자극">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>천연 페이퍼콘 + 깃털</td></tr><tr><th>사이즈</th><td>지름 약 4.2cm</td></tr><tr><th>중량</th><td>약 10g</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>도매전용가</span><span>사업자전용</span><span>저가대량</span></div>
+<div class="moq">최소구매수량 34개 (약 3만원)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 여러 마리가 함께 놀아도 되나요?</div><div class="a">A. 네, 여러 고양이가 함께 사용할 수 있습니다.</div><div class="q">Q. 색상은 랜덤인가요?</div><div class="a">A. 다양한 컬러가 랜덤으로 발송됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/1011204335430.html / 단가 CNY0.6]]></memo>
+<mainImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230797/image/detail/1311230797_detail_02.jpg]]></mainImageData>
+<listImageData><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230797/image/detail/1311230797_detail_02.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230797/image/magnify/1311230797_magnify_046.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230797/image/magnify/1311230797_magnify_185.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230797/image/detail/1311230797_detail_02.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://godomall.speedycdn.net/4cb29138f53220fb25b0f40ad8ee6000/goods/1311230797/image/detail/1311230797_detail_145.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[샘플 1개 (개당 정가 1800원)]]></optionValue1>
+<optionPrice><![CDATA[900]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[SAMPLE1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[도매 20개 묶음 (개당 900원)]]></optionValue1>
+<optionPrice><![CDATA[17100]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[BULK20]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+</optionData>
+</goods_data>
+</data>
