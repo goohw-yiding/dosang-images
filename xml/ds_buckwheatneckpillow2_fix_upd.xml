@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data>
+<goodsNo><![CDATA[1311230928]]></goodsNo>
+<imageUpdate><![CDATA[y]]></imageUpdate>
+<goodsNmFl><![CDATA[d]]></goodsNmFl>
+<goodsNm><![CDATA[순면 메밀 경추 베개 원통형 1인용 베개속]]></goodsNm>
+<purchaseGoodsNm><![CDATA[[1688] 952550982242 / cny18.0]]></purchaseGoodsNm>
+<goodsDisplayFl><![CDATA[y]]></goodsDisplayFl>
+<goodsDisplayMobileFl><![CDATA[y]]></goodsDisplayMobileFl>
+<goodsSellFl><![CDATA[y]]></goodsSellFl>
+<goodsSellMobileFl><![CDATA[y]]></goodsSellMobileFl>
+<scmNo><![CDATA[1]]></scmNo>
+<goodsCd><![CDATA[DS_BUCKWHEATNECKPILLOW2]]></goodsCd>
+<cateCd><![CDATA[072]]></cateCd>
+<allCateCd><![CDATA[072]]></allCateCd>
+<goodsState><![CDATA[n]]></goodsState>
+<makerNm><![CDATA[도매상닷컴]]></makerNm>
+<originNm><![CDATA[중국]]></originNm>
+<goodsModelNo><![CDATA[]]></goodsModelNo>
+<goodsSearchWord><![CDATA[메밀베개|경추베개|원통베개|숙면베개|목베개]]></goodsSearchWord>
+<goodsPermission><![CDATA[all]]></goodsPermission>
+<taxFreeFl><![CDATA[t]]></taxFreeFl>
+<taxPercent><![CDATA[10]]></taxPercent>
+<goodsPrice><![CDATA[6500]]></goodsPrice>
+<fixedPrice><![CDATA[10400]]></fixedPrice>
+<costPrice><![CDATA[5378]]></costPrice>
+<stockFl><![CDATA[n]]></stockFl>
+<soldOutFl><![CDATA[n]]></soldOutFl>
+<totalStock><![CDATA[999]]></totalStock>
+<minOrderCnt><![CDATA[5]]></minOrderCnt>
+<maxOrderCnt><![CDATA[0]]></maxOrderCnt>
+<fixedOrderCnt><![CDATA[goods]]></fixedOrderCnt>
+<deliverySno><![CDATA[1]]></deliverySno>
+<imageStorage><![CDATA[local]]></imageStorage>
+<restockFl><![CDATA[n]]></restockFl>
+<mileageFl><![CDATA[c]]></mileageFl>
+<goodsDiscountFl><![CDATA[n]]></goodsDiscountFl>
+<payLimitFl><![CDATA[n]]></payLimitFl>
+<relationFl><![CDATA[n]]></relationFl>
+<imgDetailViewFl><![CDATA[y]]></imgDetailViewFl>
+<externalVideoFl><![CDATA[n]]></externalVideoFl>
+<detailInfoDelivery><![CDATA[0]]></detailInfoDelivery>
+<detailInfoAS><![CDATA[0]]></detailInfoAS>
+<detailInfoRefund><![CDATA[0]]></detailInfoRefund>
+<detailInfoExchange><![CDATA[0]]></detailInfoExchange>
+<shortDescription><![CDATA[순면 커버 메밀속 원통 경추베개 · 8패턴]]></shortDescription>
+<goodsDescription><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg" alt="순면 메밀 경추 베개"></div>
+<div class="eyebrow">숙면/경추 케어</div>
+<div class="h1">순면 메밀 경추 베개</div>
+<div class="sub">원통형 1인 베개 · 목·어깨 편안하게 지지</div>
+
+<div class="stat"><div><b>100%순면</b><span>커버 소재</span></div><div><b>메밀속</b><span>통기성 우수</span></div><div><b>8가지</b><span>패턴/컬러 선택</span></div></div>
+
+<div class="sec">
+<h2>경추를 편안하게 지지</h2>
+<p class="d">원통형 디자인이 목선을 자연스럽게 받쳐줘 편안한 수면 자세를 도와줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_d4.jpg" alt="경추를 편안하게 지지">
+</div>
+<div class="sec alt">
+<h2>메밀속 통기성</h2>
+<p class="d">천연 메밀껍질을 충전재로 사용해 통기성이 좋고 시원한 착용감을 제공합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg" alt="메밀속 통기성">
+</div>
+<div class="sec">
+<h2>다양한 패턴 중 선택</h2>
+<p class="d">스트라이프, 체크 등 8가지 패턴/컬러로 취향에 맞게 선택 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o3.jpg" alt="다양한 패턴 중 선택">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>순면 커버 + 메밀껍질 충전</td></tr><tr><th>용도</th><td>경추 지지 베개</td></tr><tr><th>색상</th><td>8가지 패턴/컬러</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가 공급</span><span>패턴 선택 가능</span></div>
+<div class="moq">최소구매수량 5개 (판매가 기준 3만원 이상 구성)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세탁은 어떻게 하나요?</div><div class="a">A. 커버는 분리 세탁 가능하며 메밀속은 그늘에서 건조해주세요.</div><div class="q">Q. 배송 기간은?</div><div class="a">A. 결제 확인 후 3~7영업일 내 순차 출고됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescription>
+<goodsDescriptionMobile><![CDATA[<!doctype html><html lang="ko"><head><meta charset="utf-8"></head><body>
+<div style="max-width:780px;margin:0 auto;font-family:'Pretendard Variable',Pretendard,sans-serif;color:#222;">
+<style>
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+.wrap{max-width:780px;margin:0 auto;}
+.hero-cap img{width:100%;display:block;}
+.eyebrow{font-size:12px;letter-spacing:3px;color:#c8102e;font-weight:700;margin:28px 0 8px;text-align:center;}
+.h1{font-size:26px;font-weight:800;color:#1f2937;text-align:center;line-height:1.4;}
+.sub{font-size:14px;color:#777;text-align:center;margin-top:10px;}
+.stat{display:flex;justify-content:center;gap:0;margin:26px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:18px 0;}
+.stat div{flex:1;text-align:center;border-right:1px solid #eee;}
+.stat div:last-child{border-right:0;}
+.stat b{display:block;font-size:18px;color:#1f2937;}
+.stat span{font-size:12px;color:#999;}
+.sec{padding:44px 20px;}
+.sec.alt{background:#f7f8fa;}
+.sec h2{font-size:20px;font-weight:800;color:#1f2937;text-align:center;margin-bottom:8px;}
+.sec p.d{text-align:center;color:#777;font-size:13px;margin-bottom:24px;}
+.sec img{width:100%;border-radius:10px;display:block;margin-bottom:14px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+table th,table td{border:1px solid #e5e5e5;padding:10px 12px;text-align:left;}
+table th{background:#f3f4f6;color:#444;width:120px;}
+.b2b{background:#1f2937;color:#fff;padding:36px 24px;border-radius:14px;margin:0 20px 44px;}
+.b2b h2{color:#fff;font-size:20px;font-weight:800;margin-bottom:14px;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;}
+.badges span{background:#f3b23f;color:#1f2937;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;}
+.moq{font-size:14px;color:#cbd5e1;}
+.guide{display:flex;gap:14px;padding:0 20px 44px;}
+.gcard{flex:1;border:1px solid #eee;border-radius:12px;padding:20px;}
+.gcard h3{font-size:15px;font-weight:700;color:#1f2937;margin-bottom:8px;}
+.gcard p{font-size:13px;color:#666;line-height:1.6;}
+.faq{padding:0 20px 44px;}
+.faq .q{font-weight:700;color:#1f2937;font-size:14px;margin-top:14px;}
+.faq .a{font-size:13px;color:#666;margin-top:4px;line-height:1.6;}
+.foot{background:#111827;color:#8a99a8;text-align:center;padding:30px;font-size:12px;}
+</style>
+
+<div class="hero-cap"><img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg" alt="순면 메밀 경추 베개"></div>
+<div class="eyebrow">숙면/경추 케어</div>
+<div class="h1">순면 메밀 경추 베개</div>
+<div class="sub">원통형 1인 베개 · 목·어깨 편안하게 지지</div>
+
+<div class="stat"><div><b>100%순면</b><span>커버 소재</span></div><div><b>메밀속</b><span>통기성 우수</span></div><div><b>8가지</b><span>패턴/컬러 선택</span></div></div>
+
+<div class="sec">
+<h2>경추를 편안하게 지지</h2>
+<p class="d">원통형 디자인이 목선을 자연스럽게 받쳐줘 편안한 수면 자세를 도와줍니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_d4.jpg" alt="경추를 편안하게 지지">
+</div>
+<div class="sec alt">
+<h2>메밀속 통기성</h2>
+<p class="d">천연 메밀껍질을 충전재로 사용해 통기성이 좋고 시원한 착용감을 제공합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg" alt="메밀속 통기성">
+</div>
+<div class="sec">
+<h2>다양한 패턴 중 선택</h2>
+<p class="d">스트라이프, 체크 등 8가지 패턴/컬러로 취향에 맞게 선택 가능합니다.</p>
+<img src="https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o3.jpg" alt="다양한 패턴 중 선택">
+</div>
+
+
+<div class="sec alt">
+<h2>SPEC</h2>
+<table><tr><th>소재</th><td>순면 커버 + 메밀껍질 충전</td></tr><tr><th>용도</th><td>경추 지지 베개</td></tr><tr><th>색상</th><td>8가지 패턴/컬러</td></tr><tr><th>원산지</th><td>중국</td></tr></table>
+</div>
+
+<div class="b2b">
+<h2>사업자 전용 도매 조건</h2>
+<div class="badges"><span>사업자 전용</span><span>도매가 공급</span><span>패턴 선택 가능</span></div>
+<div class="moq">최소구매수량 5개 (판매가 기준 3만원 이상 구성)</div>
+</div>
+
+<div class="guide">
+<div class="gcard"><h3>배송 안내</h3><p>결제 확인 후 3~7영업일 내 순차 출고됩니다. 대량 주문 시 리드타임이 별도 안내됩니다.</p></div>
+<div class="gcard"><h3>교환·반품</h3><p>단순 변심 반품은 왕복 배송비 고객 부담이며, 상품 하자 시 무상 교환됩니다.</p></div>
+</div>
+
+<div class="faq"><div class="q">Q. 세탁은 어떻게 하나요?</div><div class="a">A. 커버는 분리 세탁 가능하며 메밀속은 그늘에서 건조해주세요.</div><div class="q">Q. 배송 기간은?</div><div class="a">A. 결제 확인 후 3~7영업일 내 순차 출고됩니다.</div></div>
+
+<div class="foot">도매상닷컴 · 사업자 전용 도매몰 · 1688.com 직소싱 상품</div>
+</div>
+</body></html>]]></goodsDescriptionMobile>
+<memo><![CDATA[[1688 발주] https://detail.1688.com/offer/952550982242.html / 단가 CNY 18.0]]></memo>
+<mainImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg]]></mainImageData>
+<listImageData><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg]]></listImageData>
+<magnifyImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_d4.jpg]]></magnifyImageData>
+<magnifyImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg]]></magnifyImageData>
+<magnifyImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o1.jpg]]></magnifyImageData>
+<magnifyImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o2.jpg]]></magnifyImageData>
+<magnifyImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o3.jpg]]></magnifyImageData>
+<magnifyImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o4.jpg]]></magnifyImageData>
+<magnifyImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o5.jpg]]></magnifyImageData>
+<magnifyImageData idx="8"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o6.jpg]]></magnifyImageData>
+<magnifyImageData idx="9"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o7.jpg]]></magnifyImageData>
+<detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_d4.jpg]]></detailImageData>
+<detailImageData idx="2"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg]]></detailImageData>
+<detailImageData idx="3"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o1.jpg]]></detailImageData>
+<detailImageData idx="4"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o2.jpg]]></detailImageData>
+<detailImageData idx="5"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o3.jpg]]></detailImageData>
+<detailImageData idx="6"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o4.jpg]]></detailImageData>
+<detailImageData idx="7"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o5.jpg]]></detailImageData>
+<detailImageData idx="8"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o6.jpg]]></detailImageData>
+<detailImageData idx="9"><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o7.jpg]]></detailImageData>
+<optionFl><![CDATA[y]]></optionFl>
+<optionDisplayFl><![CDATA[s]]></optionDisplayFl>
+<optionTextFl><![CDATA[n]]></optionTextFl>
+<addGoodsFl><![CDATA[n]]></addGoodsFl>
+<optionData>
+<optionNo><![CDATA[1]]></optionNo>
+<optionValue1><![CDATA[옐로우 스트라이프]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C1]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o0.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[2]]></optionNo>
+<optionValue1><![CDATA[커피 스트라이프]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C2]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o1.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[3]]></optionNo>
+<optionValue1><![CDATA[퍼플 체크]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C3]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o2.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[4]]></optionNo>
+<optionValue1><![CDATA[그린 스트라이프]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C4]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o3.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[5]]></optionNo>
+<optionValue1><![CDATA[포그블루 스트라이프]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C5]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o4.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[6]]></optionNo>
+<optionValue1><![CDATA[레이크블루 스트라이프]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C6]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o5.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[7]]></optionNo>
+<optionValue1><![CDATA[옐로우 체크]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C7]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o6.jpg]]></optionImage>
+</optionData>
+<optionData>
+<optionNo><![CDATA[8]]></optionNo>
+<optionValue1><![CDATA[스카이 체크]]></optionValue1>
+<optionPrice><![CDATA[0]]></optionPrice>
+<optionViewFl><![CDATA[y]]></optionViewFl>
+<optionSellFl><![CDATA[y]]></optionSellFl>
+<optionCode><![CDATA[C8]]></optionCode>
+<stockCnt><![CDATA[999]]></stockCnt>
+<optionImage><![CDATA[https://raw.githubusercontent.com/goohw-yiding/dosang-images/main/goods/952550982242_o7.jpg]]></optionImage>
+</optionData>
+</goods_data>
+</data>
